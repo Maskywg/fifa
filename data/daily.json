@@ -1,136 +1,161 @@
 {
-  "publishedAt": "2026-06-17T09:45:00+08:00",
-  "targetDateLabel": "2026-06-18 北美賽程 / 2026-06-19 台灣時間",
+  "publishedAt": "2026-06-17T21:20:00+08:00",
+  "targetDateLabel": "2026-06-18 台灣時間",
   "visualDate": "Jun 18",
-  "summary": "6 月 18 日進入 A、B 組第二輪。A 組兩場都牽動出線排序：墨西哥與韓國搶小組主導權，捷克與南非則是輸球就可能被迫追第三名。B 組的加拿大主場優勢、瑞士反彈壓力與波士尼亞的長途移動，是今晚最值得看的三條線。",
-  "dailyAngle": "今天的看賽核心不是單場豪門秀，而是第二輪最殘酷的分組壓力。第一輪拿分的隊伍要確認晉級路徑，首戰落敗的隊伍必須提高進攻風險，因此定位球、邊路速度與門將穩定度會比控球率更關鍵。",
-  "sourceNote": "賽程與開球時間參考 SB Nation 6/17 更新；分組形勢參考 SB Nation standings。時間先以美東與台灣時間並列。",
+  "summary": "明天從台灣時間凌晨 1:00 開始連踢四場，主軸是 K、L 組第一輪：葡萄牙與英格蘭是強隊首戰壓力，迦納、巴拿馬、烏茲別克、哥倫比亞則是分組搶分與風格碰撞。這份看賽重點已改用台灣觀眾的開賽時間，不再用北美日期判斷。",
+  "dailyAngle": "這四場最值得看的不是單純強弱差，而是第一輪誰能先把小組節奏定下來。葡萄牙要避免被剛果民主共和國的身體對抗拖慢，英格蘭要面對克羅埃西亞的老練控場，迦納與巴拿馬是轉換速度對紀律防守，烏茲別克與哥倫比亞則是新興力量挑戰南美技術流。",
+  "sourceNote": "賽程依使用者提供之 2026 國際足總世界盃台灣時間截圖修正；本頁以台灣時間 2026-06-18 凌晨至上午賽事為準。",
   "highlightVideos": [
     {
-      "title": "前日進球王影片",
+      "title": "前日精彩進球影片",
       "source": "Facebook Reel",
       "player": "待每日更新確認",
-      "description": "使用者提供的公開 Reels 連結。Facebook Reels 可能限制跨站嵌入，因此先以外開播放連結呈現。",
+      "description": "目前保留可外開播放的精彩進球連結；之後每日更新會優先搜尋 FIFA 官方、FIFA YouTube、愛爾達體育家族與主要轉播媒體。",
       "url": "https://www.facebook.com/share/r/18gjBLpogp/"
     }
   ],
   "matches": [
     {
       "priority": "必看 1",
-      "group": "Group A",
-      "time": "美東 21:00 / 台灣 6/19 09:00",
-      "venue": "Estadio Guadalajara",
-      "home": "Mexico",
-      "away": "Korea Republic",
-      "headline": "A 組主導權之戰",
-      "analysis": "墨西哥首戰 2-0 開局，韓國也已拿下捷克。這場勝方幾乎可以提前掌握晉級主動權。看點在墨西哥主場節奏能否壓住韓國的快速轉換，以及韓國前場是否能把 Son Heung-min 與 Lee Kang-in 的持球威脅連成連續攻勢。",
-      "tags": ["小組第一爭奪", "主場氣勢", "快速反擊"]
+      "group": "Group L",
+      "time": "台灣 06/18 04:00",
+      "venue": "待官方賽事頁確認",
+      "home": "England",
+      "away": "Croatia",
+      "headline": "英格蘭天賦上限對克羅埃西亞控場經驗",
+      "analysis": "這是明天最有戰術含量的一場。英格蘭的前場個人能力很強，但克羅埃西亞最擅長把比賽變慢、把中場節奏握在自己手上。看點在 Bellingham 能否直接打穿中路，以及 Kane 回撤後能不能把 Saka、Foden 或邊路插上串起來；克羅埃西亞則要靠 Modric 與 Kovacic 的控球讓英格蘭失去衝刺空間。",
+      "tags": ["小組強強對話", "中場控場", "英格蘭首戰壓力"]
     },
     {
       "priority": "必看 2",
-      "group": "Group B",
-      "time": "美東 18:00 / 台灣 6/19 06:00",
-      "venue": "BC Place Vancouver",
-      "home": "Canada",
-      "away": "Qatar",
-      "headline": "地主加拿大必須把平局變勝局",
-      "analysis": "加拿大首戰與波士尼亞踢平，回到溫哥華面對首戰逼和瑞士的卡達，不能只靠情緒推進。Davies 的左路推進與 David 的禁區終結，是加拿大打開比賽的兩把鑰匙；卡達則會繼續靠紀律防守與定位球找機會。",
-      "tags": ["地主壓力", "邊路速度", "定位球"]
+      "group": "Group K",
+      "time": "台灣 06/18 01:00",
+      "venue": "待官方賽事頁確認",
+      "home": "Portugal",
+      "away": "DR Congo",
+      "headline": "葡萄牙豪華中前場面對剛果民主共和國硬度",
+      "analysis": "葡萄牙紙面實力明顯更完整，但首戰如果太早陷入個人秀，會給剛果民主共和國反擊與定位球空間。Vitinha、Bruno Fernandes、Bernardo Silva 的控場品質會決定葡萄牙能否把球穩定送到禁區；剛果民主共和國則需要 Wissa、Bakambu 或邊路速度，把葡萄牙後防拉出舒適區。",
+      "tags": ["葡萄牙首戰", "控球壓制", "反擊威脅"]
     },
     {
       "priority": "必看 3",
-      "group": "Group B",
-      "time": "美東 15:00 / 台灣 6/19 03:00",
-      "venue": "Los Angeles Stadium",
-      "home": "Switzerland",
-      "away": "Bosnia and Herzegovina",
-      "headline": "瑞士反彈戰，波士尼亞拚第二場搶分",
-      "analysis": "瑞士首戰被卡達逼平後，第二場不能再讓節奏過慢。Xhaka 的中場控場、Akanji 的後場出球與 Embolo 的支點功能，是瑞士能否恢復秩序的關鍵。波士尼亞若能讓 Dzeko 在禁區前取得第一點，就有機會把比賽拖進消耗戰。",
-      "tags": ["控場修正", "老將支點", "節奏管理"]
+      "group": "Group K",
+      "time": "台灣 06/18 10:00",
+      "venue": "待官方賽事頁確認",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "headline": "烏茲別克紀律防線挑戰哥倫比亞技術流",
+      "analysis": "這場是風格對撞。烏茲別克需要靠 Khusanov 的防線指揮與 Shomurodov 的支點撐住比賽，不能讓哥倫比亞在肋部連續拿球。哥倫比亞則會仰賴 James Rodriguez 的最後一傳、Luis Diaz 的邊路爆破與禁區前二次進攻，把烏茲別克防線壓到犯錯。",
+      "tags": ["新興勢力", "南美技術", "防線抗壓"]
     },
     {
       "priority": "必看 4",
-      "group": "Group A",
-      "time": "美東 12:00 / 台灣 6/19 00:00",
-      "venue": "Atlanta Stadium",
-      "home": "Czechia",
-      "away": "South Africa",
-      "headline": "首戰落敗組的生存戰",
-      "analysis": "捷克與南非首戰都沒有拿分，這場是 A 組最直接的止血戰。捷克需要 Schick 與 Soucek 把高點優勢轉成真正射門，南非則要靠 Tau、Mokoena 的推進與反搶，把比賽打成更開放的轉換戰。",
-      "tags": ["淘汰壓力", "高點對抗", "轉換速度"]
+      "group": "Group L",
+      "time": "台灣 06/18 07:00",
+      "venue": "待官方賽事頁確認",
+      "home": "Ghana",
+      "away": "Panama",
+      "headline": "迦納速度與巴拿馬紀律防守的搶分戰",
+      "analysis": "這場可能是 L 組出線排序的暗線。迦納若想在英格蘭、克羅埃西亞之外搶位置，面對巴拿馬就不能只靠身體優勢，Kudus 與 Semenyo 必須把轉換打成真正威脅。巴拿馬則要靠 Carrasquilla 的中場連接與整體防守，把比賽拖進低比分。",
+      "tags": ["搶分戰", "轉換速度", "低比分風險"]
     }
   ],
   "players": [
     {
-      "name": "Son Heung-min",
-      "team": "Korea Republic",
-      "photoUrl": "assets/players/son-heung-min.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Son_Heung-min",
-      "note": "韓國前場最穩定的決策點。若他能在左肋吸引包夾，Lee Kang-in 與中路插上的空間會被打開。"
+      "name": "Jude Bellingham",
+      "team": "England",
+      "photoUrl": "assets/players/jude-bellingham.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Jude_Bellingham",
+      "note": "英格蘭最重要的中路破局者。若他能在克羅埃西亞中場身後接球，英格蘭的攻勢會從控球變成直接威脅。"
     },
     {
-      "name": "Lee Kang-in",
-      "team": "Korea Republic",
-      "photoUrl": "assets/players/lee-kang-in.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Lee_Kang-in",
-      "note": "對墨西哥時的關鍵在最後一傳與定位球品質，韓國需要他的創造力把反擊變成射門。"
+      "name": "Harry Kane",
+      "team": "England",
+      "photoUrl": "assets/players/harry-kane.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Harry_Kane",
+      "note": "看他回撤拿球後能否帶出第二線跑動。Kane 不只要射門，也要讓英格蘭前場連線順起來。"
     },
     {
-      "name": "Santiago Gimenez",
-      "team": "Mexico",
-      "photoUrl": "assets/players/santiago-gimenez.png",
-      "profileUrl": "https://en.wikipedia.org/wiki/Santiago_Gim%C3%A9nez",
-      "note": "墨西哥若能把主場壓力轉成禁區供給，他的跑位與第一腳處理會決定比賽上限。"
+      "name": "Luka Modric",
+      "team": "Croatia",
+      "photoUrl": "assets/players/luka-modric.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "note": "克羅埃西亞的節奏開關。只要他能降低英格蘭的比賽速度，克羅埃西亞就有機會把強強戰拖進自己熟悉的節奏。"
     },
     {
-      "name": "Alphonso Davies",
-      "team": "Canada",
-      "photoUrl": "assets/players/alphonso-davies.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Alphonso_Davies",
-      "note": "加拿大最直接的破局者。左路加速能迫使卡達防線後退，也能替 Jonathan David 製造禁區空檔。"
+      "name": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "photoUrl": "assets/players/cristiano-ronaldo.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "note": "葡萄牙禁區焦點。面對身體對抗強的防線，他的跑位與第一時間射門仍會牽動整條剛果民主共和國防線。"
     },
     {
-      "name": "Jonathan David",
-      "team": "Canada",
-      "photoUrl": "assets/players/jonathan-david.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Jonathan_David",
-      "note": "加拿大需要他把壓迫後的二次進攻收掉，尤其是面對低位防守時的門前冷靜。"
+      "name": "Vitinha",
+      "team": "Portugal",
+      "photoUrl": "assets/players/vitinha.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Vitinha",
+      "note": "葡萄牙能不能穩住首戰，關鍵在他的中場轉向與抗壓出球。若 Vitinha 能掌控節奏，葡萄牙不容易被反擊打亂。"
     },
     {
-      "name": "Granit Xhaka",
-      "team": "Switzerland",
-      "photoUrl": "assets/players/granit-xhaka.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Granit_Xhaka",
-      "note": "瑞士反彈要從中場節奏開始。他的斜傳與攻守轉換速度會影響瑞士能否避免再次被拖慢。"
+      "name": "Yoane Wissa",
+      "team": "DR Congo",
+      "photoUrl": "assets/players/yoane-wissa.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Yoane_Wissa",
+      "note": "剛果民主共和國最需要他的前場速度與直接性。只要葡萄牙邊後衛壓太高，他就是反擊第一觀察點。"
     },
     {
-      "name": "Edin Dzeko",
-      "team": "Bosnia and Herzegovina",
-      "photoUrl": "assets/players/edin-dzeko.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Edin_D%C5%BEeko",
-      "note": "波士尼亞的進攻支點。若他能頂住第一點，瑞士中衛就會被迫離開舒適防線。"
+      "name": "Mohammed Kudus",
+      "team": "Ghana",
+      "photoUrl": "assets/players/mohammed-kudus.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Mohammed_Kudus",
+      "note": "迦納前場最能單點製造混亂的球員。面對巴拿馬低位防守，他的第一步與盤帶會決定迦納能否早早打開局面。"
     },
     {
-      "name": "Patrik Schick",
-      "team": "Czechia",
-      "photoUrl": "assets/players/patrik-schick.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Patrik_Schick",
-      "note": "捷克必須提高禁區效率，Schick 的射門選擇與背身拿球是南非防線最需要注意的地方。"
+      "name": "Adalberto Carrasquilla",
+      "team": "Panama",
+      "photoUrl": "assets/players/adalberto-carrasquilla.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Adalberto_Carrasquilla",
+      "note": "巴拿馬能否不被迦納速度拖垮，要看他在中場的接應、轉移與犯規管理。"
+    },
+    {
+      "name": "Eldor Shomurodov",
+      "team": "Uzbekistan",
+      "photoUrl": "assets/players/eldor-shomurodov.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Eldor_Shomurodov",
+      "note": "烏茲別克的前場支點。若他能把長傳與反擊第一點留下，哥倫比亞就不能全線壓上。"
+    },
+    {
+      "name": "Abdukodir Khusanov",
+      "team": "Uzbekistan",
+      "photoUrl": "assets/players/abdukodir-khusanov.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Abdukodir_Khusanov",
+      "note": "烏茲別克後場抗壓核心。面對哥倫比亞邊路與肋部連動，他的補位與出球品質很關鍵。"
+    },
+    {
+      "name": "James Rodriguez",
+      "team": "Colombia",
+      "photoUrl": "assets/players/james-rodriguez.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/James_Rodr%C3%ADguez",
+      "note": "哥倫比亞的最後一傳來源。若他能在禁區前舒服轉身，烏茲別克防線會被迫收縮。"
     }
   ],
   "watchPoints": [
-    "先看分組壓力：A 組兩場都會直接影響 6/24 的最後一輪是否變成生死戰。",
-    "再看節奏差：墨西哥、加拿大、瑞士都想控制比賽，但韓國、卡達、波士尼亞與南非都能靠轉換或定位球把比賽拉回混戰。",
-    "最後看球星觸球位置：Son、Davies、Xhaka、Schick 若被迫遠離危險區，代表對手的防守計畫成功。"
+    "先看英格蘭 vs 克羅埃西亞：這場最能看出強隊首戰的真實狀態，尤其是英格蘭中前場能不能突破克羅埃西亞控場。",
+    "再看葡萄牙是否穩：紙面優勢大，但第一輪最怕節奏鬆散與被反擊偷到機會。",
+    "早上兩場看搶分邏輯：迦納、巴拿馬、烏茲別克都需要把首戰變成可拿分局面，哥倫比亞則要避免被拖進低比分消耗戰。"
   ],
   "sources": [
     {
-      "label": "SB Nation World Cup schedule",
-      "url": "https://www.sbnation.com/soccer/1117513/world-cup-schedule-2026-how-to-watch-every-match-scores-and-more"
+      "label": "Google Sports 2026 國際足總世界盃賽程截圖",
+      "url": "https://www.google.com/search?q=2026+%E5%9C%8B%E9%9A%9B%E8%B6%B3%E7%B8%BD%E4%B8%96%E7%95%8C%E7%9B%83+%E8%B3%BD%E4%BA%8B"
     },
     {
-      "label": "SB Nation World Cup standings",
-      "url": "https://www.sbnation.com/soccer/1117905/world-cup-standings-updated-full-list-of-teams"
+      "label": "FIFA+",
+      "url": "https://www.plus.fifa.com/"
+    },
+    {
+      "label": "FIFA YouTube",
+      "url": "https://www.youtube.com/@fifa"
     }
   ]
 }
