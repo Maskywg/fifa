@@ -16,6 +16,27 @@
 
 更新資料後直接推送 `main` 分支即可由 GitHub Pages 發布。
 
+## LINE 群組推送
+
+LINE Notify 已結束服務，群組自動推送需使用 LINE Messaging API 與 LINE 官方帳號 Bot。
+
+需要準備：
+
+- LINE Developers 的 Messaging API channel access token
+- 將 Bot 加入目標群組
+- 三個群組的 groupId：
+  - `AI資訊鍊金工坊`
+  - `光仁義班同學會`
+  - `大內家人群組`
+
+環境變數範例在 `config/line.env.example`。設定完成後可執行：
+
+```bash
+node scripts/line-push.js
+```
+
+腳本會把最新 `data/daily.json` 摘要、前日進球影片連結與網站網址推送到已設定的群組。
+
 ## 本機預覽
 
 因為頁面會讀取 `data/daily.json`，建議用簡單本機伺服器預覽：
