@@ -77,6 +77,36 @@ function renderPlayers(players) {
   });
 }
 
+function renderVideos(videos = []) {
+  const grid = document.querySelector("#videoGrid");
+  if (!grid) return;
+  grid.innerHTML = "";
+
+  if (!videos.length) {
+    const empty = create("p", "empty-note", "目前沒有可公開播放的進球影片連結。");
+    grid.append(empty);
+    return;
+  }
+
+  videos.forEach((video) => {
+    const card = create("article", "video-card");
+    const meta = create("div", "video-meta");
+    meta.append(create("span", "video-source", video.source));
+    if (video.player) meta.append(create("span", "", video.player));
+
+    card.append(meta);
+    card.append(create("h3", "", video.title));
+    card.append(create("p", "", video.description));
+
+    const link = create("a", "video-link", "開啟影片");
+    link.href = video.url;
+    link.target = "_blank";
+    link.rel = "noreferrer";
+    card.append(link);
+    grid.append(card);
+  });
+}
+
 function renderWatchPoints(points) {
   const list = document.querySelector("#watchPoints");
   list.innerHTML = "";
@@ -100,6 +130,7 @@ function renderDaily(data) {
   text("#dailyAngle", data.dailyAngle);
   text("#updatedAt", `Last updated ${new Date(data.publishedAt).toLocaleString("zh-TW", { timeZone: "Asia/Taipei" })}`);
   renderMatches(data.matches);
+  renderVideos(data.highlightVideos);
   renderPlayers(data.players);
   renderWatchPoints(data.watchPoints);
   renderSources(data);
