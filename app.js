@@ -52,10 +52,27 @@ function renderPlayers(players) {
 
   players.forEach((player) => {
     const card = create("article", "player-card");
+    const photo = create("img", "player-photo");
+    photo.src = player.photoUrl;
+    photo.alt = `${player.name} 球員照片`;
+    photo.loading = "lazy";
+    photo.referrerPolicy = "no-referrer";
+
     const copy = create("div", "");
     copy.append(create("h3", "", player.name));
     copy.append(create("p", "", player.note));
-    card.append(copy, create("span", "player-team", player.team));
+
+    const meta = create("div", "player-meta");
+    meta.append(create("span", "player-team", player.team));
+    if (player.profileUrl) {
+      const source = create("a", "photo-source", "照片來源");
+      source.href = player.profileUrl;
+      source.target = "_blank";
+      source.rel = "noreferrer";
+      meta.append(source);
+    }
+
+    card.append(photo, copy, meta);
     list.append(card);
   });
 }

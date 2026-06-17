@@ -55,41 +55,57 @@
     {
       "name": "Son Heung-min",
       "team": "Korea Republic",
+      "photoUrl": "assets/players/son-heung-min.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Son_Heung-min",
       "note": "韓國前場最穩定的決策點。若他能在左肋吸引包夾，Lee Kang-in 與中路插上的空間會被打開。"
     },
     {
       "name": "Lee Kang-in",
       "team": "Korea Republic",
+      "photoUrl": "assets/players/lee-kang-in.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Lee_Kang-in",
       "note": "對墨西哥時的關鍵在最後一傳與定位球品質，韓國需要他的創造力把反擊變成射門。"
     },
     {
       "name": "Santiago Gimenez",
       "team": "Mexico",
+      "photoUrl": "assets/players/santiago-gimenez.png",
+      "profileUrl": "https://en.wikipedia.org/wiki/Santiago_Gim%C3%A9nez",
       "note": "墨西哥若能把主場壓力轉成禁區供給，他的跑位與第一腳處理會決定比賽上限。"
     },
     {
       "name": "Alphonso Davies",
       "team": "Canada",
+      "photoUrl": "assets/players/alphonso-davies.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Alphonso_Davies",
       "note": "加拿大最直接的破局者。左路加速能迫使卡達防線後退，也能替 Jonathan David 製造禁區空檔。"
     },
     {
       "name": "Jonathan David",
       "team": "Canada",
+      "photoUrl": "assets/players/jonathan-david.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Jonathan_David",
       "note": "加拿大需要他把壓迫後的二次進攻收掉，尤其是面對低位防守時的門前冷靜。"
     },
     {
       "name": "Granit Xhaka",
       "team": "Switzerland",
+      "photoUrl": "assets/players/granit-xhaka.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Granit_Xhaka",
       "note": "瑞士反彈要從中場節奏開始。他的斜傳與攻守轉換速度會影響瑞士能否避免再次被拖慢。"
     },
     {
       "name": "Edin Dzeko",
       "team": "Bosnia and Herzegovina",
+      "photoUrl": "assets/players/edin-dzeko.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Edin_D%C5%BEeko",
       "note": "波士尼亞的進攻支點。若他能頂住第一點，瑞士中衛就會被迫離開舒適防線。"
     },
     {
       "name": "Patrik Schick",
       "team": "Czechia",
+      "photoUrl": "assets/players/patrik-schick.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Patrik_Schick",
       "note": "捷克必須提高禁區效率，Schick 的射門選擇與背身拿球是南非防線最需要注意的地方。"
     }
   ],

@@ -10,9 +10,13 @@
    - 分組壓力
    - 2-3 位重點球星或關鍵對位
    - 適合球迷觀看的戰術角度
-5. 資料來源優先使用 FIFA 官方賽程、官方分組頁、主要體育媒體最新賽程與 standings。
-6. 本機預覽確認首頁能載入資料與 3D 主視覺。
-7. commit 並 push 到 GitHub repo `Maskywg/fifa` 的 `main` 分支。
+5. 每位重點球星都要包含照片：
+   - 優先找可公開使用的 Wikipedia/Wikimedia 球員照片。
+   - 將照片下載到 `assets/players/`，避免外部 hotlink 造成破圖。
+   - `data/daily.json` 的 `photoUrl` 使用本地路徑，`profileUrl` 保留網路照片來源頁。
+6. 資料來源優先使用 FIFA 官方賽程、官方分組頁、主要體育媒體最新賽程與 standings。
+7. 本機預覽確認首頁能載入資料、球星照片與 3D 主視覺。
+8. commit 並 push 到 GitHub repo `Maskywg/fifa` 的 `main` 分支。
 
 輸出需包含：
 
