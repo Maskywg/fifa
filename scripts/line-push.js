@@ -18,18 +18,23 @@ function loadDaily() {
 function buildMessage(daily) {
   const topMatch = daily.matches?.[0];
   const video = daily.highlightVideos?.[0];
+  const watchPoints = daily.watchPoints?.slice(0, 2) || [];
   const lines = [
-    "FIFA 明日看賽重點已更新",
-    daily.targetDateLabel,
+    "FIFA 明日看賽重點",
+    daily.targetDateLabel || null,
+    "",
+    "完整網頁分析：",
+    siteUrl,
     "",
     topMatch ? `必看首選：${topMatch.home} vs ${topMatch.away}` : null,
     topMatch?.headline ? `看點：${topMatch.headline}` : null,
-    video?.url ? `前日進球影片：${video.url}` : null,
+    ...watchPoints.map((point) => `- ${point}`),
     "",
-    siteUrl
+    video?.url ? "精彩進球影片：" : null,
+    video?.url || null
   ];
 
-  return lines.filter(Boolean).join("\n");
+  return lines.filter((line) => line !== null && line !== undefined).join("\n");
 }
 
 async function pushMessage(groupName, groupId, message) {

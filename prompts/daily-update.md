@@ -22,7 +22,7 @@
 7. 資料來源優先使用 FIFA 官方賽程、官方分組頁、主要體育媒體最新賽程與 standings。
 8. 本機預覽確認首頁能載入資料、球星照片、影片連結與 3D 主視覺。
 9. commit 並 push 到 GitHub repo `Maskywg/fifa` 的 `main` 分支。
-10. 若環境變數 `LINE_CHANNEL_ACCESS_TOKEN` 與群組 ID 已設定，執行 `node scripts/line-push.js`，將最新看賽重點推送到 `安馨益起玩`、`AI資訊鍊金工坊`、`光仁義班同學會`、`大內家人群組`；若未設定，回報 LINE 推送尚未啟用，不要硬送或要求 LINE 個人帳密。
+10. 若環境變數 `LINE_CHANNEL_ACCESS_TOKEN` 與群組 ID 已設定，執行 `node scripts/line-push.js`，將最新看賽重點推送到 `安馨益起玩`、`AI資訊鍊金工坊`、`光仁義班同學會`、`大內家人群組`；LINE 訊息必須以網頁連結作為主要內容，先放完整網頁分析，再放必看比賽與看點，精彩進球影片固定放最下方；若未設定，回報 LINE 推送尚未啟用，不要硬送或要求 LINE 個人帳密。
 
 輸出需包含：
 
