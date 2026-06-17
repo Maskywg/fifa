@@ -40,20 +40,23 @@ function loadDaily() {
   return JSON.parse(fs.readFileSync("data/daily.json", "utf8"));
 }
 
+function matchList(matches = []) {
+  return matches
+    .map((match) => `${match.time?.replace("台灣 ", "") || ""} ${match.home} vs ${match.away}`)
+    .join("\n");
+}
+
 function buildMessage(daily) {
-  const topMatch = daily.matches?.[0];
   const video = daily.highlightVideos?.[0];
-  const watchPoints = daily.watchPoints?.slice(0, 2) || [];
   const lines = [
-    "FIFA 明日看賽重點",
+    "FIFA 明日看賽重點已更新",
     daily.targetDateLabel || null,
     "",
-    "完整網頁分析：",
+    "完整分析看網頁：",
     siteUrl,
     "",
-    topMatch ? `必看首選：${topMatch.home} vs ${topMatch.away}` : null,
-    topMatch?.headline ? `看點：${topMatch.headline}` : null,
-    ...watchPoints.map((point) => `- ${point}`),
+    "明日四場：",
+    matchList(daily.matches),
     "",
     video?.url ? "精彩進球影片：" : null,
     video?.url || null

@@ -16,18 +16,7 @@
   ],
   "matches": [
     {
-      "priority": "必看 1",
-      "group": "Group L",
-      "time": "台灣 06/18 04:00",
-      "venue": "待官方賽事頁確認",
-      "home": "England",
-      "away": "Croatia",
-      "headline": "英格蘭天賦上限對克羅埃西亞控場經驗",
-      "analysis": "這是明天最有戰術含量的一場。英格蘭的前場個人能力很強，但克羅埃西亞最擅長把比賽變慢、把中場節奏握在自己手上。看點在 Bellingham 能否直接打穿中路，以及 Kane 回撤後能不能把 Saka、Foden 或邊路插上串起來；克羅埃西亞則要靠 Modric 與 Kovacic 的控球讓英格蘭失去衝刺空間。",
-      "tags": ["小組強強對話", "中場控場", "英格蘭首戰壓力"]
-    },
-    {
-      "priority": "必看 2",
+      "priority": "第 1 場",
       "group": "Group K",
       "time": "台灣 06/18 01:00",
       "venue": "待官方賽事頁確認",
@@ -38,18 +27,18 @@
       "tags": ["葡萄牙首戰", "控球壓制", "反擊威脅"]
     },
     {
-      "priority": "必看 3",
-      "group": "Group K",
-      "time": "台灣 06/18 10:00",
+      "priority": "第 2 場",
+      "group": "Group L",
+      "time": "台灣 06/18 04:00",
       "venue": "待官方賽事頁確認",
-      "home": "Uzbekistan",
-      "away": "Colombia",
-      "headline": "烏茲別克紀律防線挑戰哥倫比亞技術流",
-      "analysis": "這場是風格對撞。烏茲別克需要靠 Khusanov 的防線指揮與 Shomurodov 的支點撐住比賽，不能讓哥倫比亞在肋部連續拿球。哥倫比亞則會仰賴 James Rodriguez 的最後一傳、Luis Diaz 的邊路爆破與禁區前二次進攻，把烏茲別克防線壓到犯錯。",
-      "tags": ["新興勢力", "南美技術", "防線抗壓"]
+      "home": "England",
+      "away": "Croatia",
+      "headline": "英格蘭天賦上限對克羅埃西亞控場經驗",
+      "analysis": "這是明天最有戰術含量的一場。英格蘭的前場個人能力很強，但克羅埃西亞最擅長把比賽變慢、把中場節奏握在自己手上。看點在 Bellingham 能否直接打穿中路，以及 Kane 回撤後能不能把 Saka、Foden 或邊路插上串起來；克羅埃西亞則要靠 Modric 與 Kovacic 的控球讓英格蘭失去衝刺空間。",
+      "tags": ["小組強強對話", "中場控場", "英格蘭首戰壓力"]
     },
     {
-      "priority": "必看 4",
+      "priority": "第 3 場",
       "group": "Group L",
       "time": "台灣 06/18 07:00",
       "venue": "待官方賽事頁確認",
@@ -58,6 +47,17 @@
       "headline": "迦納速度與巴拿馬紀律防守的搶分戰",
       "analysis": "這場可能是 L 組出線排序的暗線。迦納若想在英格蘭、克羅埃西亞之外搶位置，面對巴拿馬就不能只靠身體優勢，Kudus 與 Semenyo 必須把轉換打成真正威脅。巴拿馬則要靠 Carrasquilla 的中場連接與整體防守，把比賽拖進低比分。",
       "tags": ["搶分戰", "轉換速度", "低比分風險"]
+    },
+    {
+      "priority": "第 4 場",
+      "group": "Group K",
+      "time": "台灣 06/18 10:00",
+      "venue": "待官方賽事頁確認",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "headline": "烏茲別克紀律防線挑戰哥倫比亞技術流",
+      "analysis": "這場是風格對撞。烏茲別克需要靠 Khusanov 的防線指揮與 Shomurodov 的支點撐住比賽，不能讓哥倫比亞在肋部連續拿球。哥倫比亞則會仰賴 James Rodriguez 的最後一傳、Luis Diaz 的邊路爆破與禁區前二次進攻，把烏茲別克防線壓到犯錯。",
+      "tags": ["新興勢力", "南美技術", "防線抗壓"]
     }
   ],
   "players": [
