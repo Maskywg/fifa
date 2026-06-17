@@ -16,8 +16,15 @@
    - `data/daily.json` 的 `photoUrl` 使用本地路徑，`profileUrl` 保留網路照片來源頁。
    - 檢查照片完整性，避免頭頂、臉部或主要上半身被卡片裁掉；必要時換照片或調整 `object-position`。
 6. 搜尋前一天進球王或重點進球影片：
-   - 優先查找愛爾達體育家族 Facebook、FIFA 官方、YouTube、主要體育媒體的公開影片。
+   - 來源優先順序：
+     1. FIFA 官方與 FIFA+：官方賽事 highlights、goal clips、match recap。
+     2. FIFA 官方 YouTube：若有公開影片，優先使用，因為 LINE 與網頁預覽較穩定。
+     3. 台灣觀眾來源：愛爾達體育家族 Facebook / ELTA Sports YouTube / 愛爾達官方頁面。
+     4. 轉播權與大型體育媒體：FOX Soccer、Telemundo/Universo、ESPN、beIN SPORTS 等公開 highlights。
+     5. 其他可公開外連的媒體精華，必須避免盜版或來路不明影片。
+   - 搜尋關鍵字包含：`FIFA World Cup highlights goals <date>`、`FIFA goals today`、`愛爾達 世界盃 精華 進球`、球員姓名加 `goal`、對戰組合加 `highlights`。
    - 若來源允許嵌入，提供可嵌入 URL；若 Facebook/Reels 等來源限制嵌入，保留外開播放連結。
+   - LINE 推送中不要讓影片搶主內容；精彩進球影片固定放在訊息最下方。
    - 更新 `highlightVideos`，包含 `title`、`source`、`player`、`description`、`url`。
 7. 資料來源優先使用 FIFA 官方賽程、官方分組頁、主要體育媒體最新賽程與 standings。
 8. 本機預覽確認首頁能載入資料、球星照片、影片連結與 3D 主視覺。
