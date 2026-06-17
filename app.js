@@ -98,14 +98,14 @@ function buildScene() {
   camera.position.set(0, 2.2, 8);
   renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
 
-  const ambient = new THREE.HemisphereLight(0xffffff, 0x19d76f, 2.25);
-  const key = new THREE.DirectionalLight(0xffffff, 2.8);
+  const ambient = new THREE.HemisphereLight(0xffffff, 0x00ff84, 2.45);
+  const key = new THREE.DirectionalLight(0xffffff, 3.2);
   key.position.set(4, 7, 5);
   scene.add(ambient, key);
 
   const field = new THREE.Mesh(
     new THREE.PlaneGeometry(10, 7, 20, 20),
-    new THREE.MeshStandardMaterial({ color: 0x32d46c, roughness: 0.84, metalness: 0.02 })
+    new THREE.MeshStandardMaterial({ color: 0x15e66f, roughness: 0.78, metalness: 0.03 })
   );
   field.rotation.x = -Math.PI / 2;
   field.position.y = -1.35;
@@ -147,11 +147,11 @@ function buildScene() {
   scene.add(ball);
 
   const markerGroup = new THREE.Group();
-  const colors = [0x006fff, 0xff3f57, 0xffba22, 0xc8ff3d, 0x13c8ff];
+  const colors = [0x0057ff, 0xff174f, 0xffb000, 0xdfff00, 0x00d5ff, 0x7a3cff];
   for (let i = 0; i < 28; i += 1) {
     const marker = new THREE.Mesh(
       new THREE.SphereGeometry(0.055, 16, 16),
-      new THREE.MeshStandardMaterial({ color: colors[i % colors.length], emissive: colors[i % colors.length], emissiveIntensity: 0.12 })
+      new THREE.MeshStandardMaterial({ color: colors[i % colors.length], emissive: colors[i % colors.length], emissiveIntensity: 0.28 })
     );
     const angle = (i / 28) * Math.PI * 2;
     const radius = 2.2 + (i % 5) * 0.33;
