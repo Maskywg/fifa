@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-06-17T21:20:00+08:00",
+  "publishedAt": "2026-06-17T21:36:00+08:00",
   "targetDateLabel": "2026-06-18 台灣時間",
   "visualDate": "Jun 18",
   "summary": "明天從台灣時間凌晨 1:00 開始連踢四場，主軸是 K、L 組第一輪：葡萄牙與英格蘭是強隊首戰壓力，迦納、巴拿馬、烏茲別克、哥倫比亞則是分組搶分與風格碰撞。這份看賽重點已改用台灣觀眾的開賽時間，不再用北美日期判斷。",
@@ -19,18 +19,16 @@
       "priority": "第 1 場",
       "group": "Group K",
       "time": "台灣 06/18 01:00",
-      "venue": "待官方賽事頁確認",
       "home": "Portugal",
       "away": "DR Congo",
-      "headline": "葡萄牙豪華中前場面對剛果民主共和國硬度",
-      "analysis": "葡萄牙紙面實力明顯更完整，但首戰如果太早陷入個人秀，會給剛果民主共和國反擊與定位球空間。Vitinha、Bruno Fernandes、Bernardo Silva 的控場品質會決定葡萄牙能否把球穩定送到禁區；剛果民主共和國則需要 Wissa、Bakambu 或邊路速度，把葡萄牙後防拉出舒適區。",
-      "tags": ["葡萄牙首戰", "控球壓制", "反擊威脅"]
+      "headline": "C 羅很可能的最後一屆世界盃，葡萄牙首戰不能鬆",
+      "analysis": "葡萄牙紙面實力明顯更完整，但這場不只是強隊首戰，也很可能是 Cristiano Ronaldo 世界盃謝幕之旅的起點。葡萄牙要把情緒轉成效率，不能太早陷入只找 C 羅的單一路線；Vitinha、Bruno Fernandes、Bernardo Silva 的控場品質會決定球能否穩定送進禁區。剛果民主共和國則要靠 Wissa、Bakambu 或邊路速度，把葡萄牙後防拉出舒適區。",
+      "tags": ["C羅可能最後一舞", "葡萄牙首戰", "控球壓制"]
     },
     {
       "priority": "第 2 場",
       "group": "Group L",
       "time": "台灣 06/18 04:00",
-      "venue": "待官方賽事頁確認",
       "home": "England",
       "away": "Croatia",
       "headline": "英格蘭天賦上限對克羅埃西亞控場經驗",
@@ -41,7 +39,6 @@
       "priority": "第 3 場",
       "group": "Group L",
       "time": "台灣 06/18 07:00",
-      "venue": "待官方賽事頁確認",
       "home": "Ghana",
       "away": "Panama",
       "headline": "迦納速度與巴拿馬紀律防守的搶分戰",
@@ -52,7 +49,6 @@
       "priority": "第 4 場",
       "group": "Group K",
       "time": "台灣 06/18 10:00",
-      "venue": "待官方賽事頁確認",
       "home": "Uzbekistan",
       "away": "Colombia",
       "headline": "烏茲別克紀律防線挑戰哥倫比亞技術流",
@@ -87,7 +83,7 @@
       "team": "Portugal",
       "photoUrl": "assets/players/cristiano-ronaldo.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "note": "葡萄牙禁區焦點。面對身體對抗強的防線，他的跑位與第一時間射門仍會牽動整條剛果民主共和國防線。"
+      "note": "這很可能是 C 羅最後一次世界盃旅程的開場。看點不只在進球，而是葡萄牙會不會為他創造足夠乾淨的禁區機會。"
     },
     {
       "name": "Vitinha",
@@ -141,7 +137,7 @@
   ],
   "watchPoints": [
     "先看英格蘭 vs 克羅埃西亞：這場最能看出強隊首戰的真實狀態，尤其是英格蘭中前場能不能突破克羅埃西亞控場。",
-    "再看葡萄牙是否穩：紙面優勢大，但第一輪最怕節奏鬆散與被反擊偷到機會。",
+    "再看葡萄牙是否穩：這很可能是 C 羅最後一屆世界盃的第一場，紙面優勢大，但第一輪最怕情緒太滿、節奏鬆散與被反擊偷到機會。",
     "早上兩場看搶分邏輯：迦納、巴拿馬、烏茲別克都需要把首戰變成可拿分局面，哥倫比亞則要避免被拖進低比分消耗戰。"
   ],
   "sources": [

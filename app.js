@@ -36,12 +36,13 @@ function renderMatches(matches) {
     teams.append(create("span", "team-away", match.away));
 
     const headline = create("h3", "", match.headline);
-    const venue = create("p", "card-copy", match.venue);
     const analysis = create("p", "card-copy", match.analysis);
     const tags = create("div", "tag-row");
 
     match.tags.forEach((tag) => tags.append(create("span", "tag", tag)));
-    card.append(meta, teams, headline, venue, analysis, tags);
+    card.append(meta, teams, headline);
+    if (match.venue) card.append(create("p", "card-copy", match.venue));
+    card.append(analysis, tags);
     grid.append(card);
   });
 }
