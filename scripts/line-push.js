@@ -5,6 +5,7 @@ const fs = require("fs");
 const siteUrl = process.env.FIFA_SITE_URL || "https://maskywg.github.io/fifa/";
 const token = process.env.LINE_CHANNEL_ACCESS_TOKEN;
 const groupEnv = [
+  ["安馨益起玩", "LINE_GROUP_ANXIN_PLAY"],
   ["AI資訊鍊金工坊", "LINE_GROUP_AI_ALCHEMY"],
   ["光仁義班同學會", "LINE_GROUP_KUANGJEN_YI"],
   ["大內家人群組", "LINE_GROUP_FAMILY"]

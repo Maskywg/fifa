@@ -24,7 +24,8 @@ LINE Notify 已結束服務，群組自動推送需使用 LINE Messaging API 與
 
 - LINE Developers 的 Messaging API channel access token
 - 將 Bot 加入目標群組
-- 三個群組的 groupId：
+- 目標群組的 groupId：
+  - `安馨益起玩`
   - `AI資訊鍊金工坊`
   - `光仁義班同學會`
   - `大內家人群組`
