@@ -36,6 +36,8 @@ LINE Notify 已結束服務，群組自動推送需使用 LINE Messaging API 與
 node scripts/line-push.js
 ```
 
+正式本機設定可建立 `config/line.env`。這個檔案已被 `.gitignore` 排除，不會提交到 GitHub。
+
 腳本會把最新 `data/daily.json` 摘要、前日進球影片連結與網站網址推送到已設定的群組。
 
 ## 本機預覽

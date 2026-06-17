@@ -2,6 +2,31 @@
 
 const fs = require("fs");
 
+function loadLocalEnv(filePath) {
+  if (!fs.existsSync(filePath)) return;
+
+  const lines = fs.readFileSync(filePath, "utf8").split(/\r?\n/);
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith("#")) continue;
+
+    const separatorIndex = trimmed.indexOf("=");
+    if (separatorIndex === -1) continue;
+
+    const key = trimmed.slice(0, separatorIndex).trim();
+    const value = trimmed
+      .slice(separatorIndex + 1)
+      .trim()
+      .replace(/^['"]|['"]$/g, "");
+
+    if (key && process.env[key] === undefined) {
+      process.env[key] = value;
+    }
+  }
+}
+
+loadLocalEnv("config/line.env");
+
 const siteUrl = process.env.FIFA_SITE_URL || "https://maskywg.github.io/fifa/";
 const token = process.env.LINE_CHANNEL_ACCESS_TOKEN;
 const groupEnv = [
