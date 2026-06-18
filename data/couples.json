@@ -1,0 +1,311 @@
+{
+  "publishedAt": "2026-06-18T15:40:00+08:00",
+  "summary": "整理本屆 FIFA 世界盃最有話題性的 12 位球星，搭配公開可查的妻子、未婚妻、交往女友或公開報導緋聞對象資料，做成更偏時尚雜誌感的甜蜜頁面。",
+  "note": "名單以 2026-06-18 公開資料整理；感情狀態可能變動，未經本人公開確認者以報導口徑標示。",
+  "couples": [
+    {
+      "rank": 1,
+      "team": "Argentina",
+      "title": "Lionel Messi 與 Antonela Roccuzzo",
+      "story": "青梅竹馬、2017 年在 Rosario 結婚，Antonela 長期陪伴 Messi 走過國家隊高低起伏，是世界盃舞台上最具代表性的家庭故事。",
+      "tags": ["童年戀人", "阿根廷隊長", "三個孩子"],
+      "player": {
+        "name": "Lionel Messi",
+        "label": "Argentina forward",
+        "initials": "LM",
+        "photoUrl": "assets/couples/lionel-messi.jpg"
+      },
+      "partner": {
+        "name": "Antonela Roccuzzo",
+        "label": "wife",
+        "initials": "AR",
+        "photoUrl": "assets/couples/lionel-messi-antonela-roccuzzo-close.jpg",
+        "wide": true
+      },
+      "links": [
+        { "label": "Messi source", "url": "https://en.wikipedia.org/wiki/Lionel_Messi" },
+        { "label": "Antonela source", "url": "https://en.wikipedia.org/wiki/Antonela_Roccuzzo" }
+      ]
+    },
+    {
+      "rank": 2,
+      "team": "Portugal",
+      "title": "Cristiano Ronaldo 與 Georgina Rodriguez",
+      "story": "從 2016 年開始公開交往，Georgina 也是 Ronaldo 家庭故事中最常被看見的支持者；兩人在 2025 年宣布訂婚。",
+      "tags": ["葡萄牙傳奇", "已訂婚", "家庭焦點"],
+      "player": {
+        "name": "Cristiano Ronaldo",
+        "label": "Portugal forward",
+        "initials": "CR",
+        "photoUrl": "assets/players/cristiano-ronaldo.jpg"
+      },
+      "partner": {
+        "name": "Georgina Rodriguez",
+        "label": "fiancee",
+        "initials": "GR",
+        "photoUrl": "assets/couples/georgina-rodriguez.jpg"
+      },
+      "links": [
+        { "label": "Ronaldo source", "url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo" },
+        { "label": "Georgina source", "url": "https://en.wikipedia.org/wiki/Georgina_Rodr%C3%ADguez" }
+      ]
+    },
+    {
+      "rank": 3,
+      "team": "France",
+      "title": "Kylian Mbappe 與 Ester Exposito",
+      "story": "Mbappe 是法國隊最重要的攻擊核心之一；Ester Exposito 與他的關係目前主要來自歐洲媒體的公開報導與目擊傳聞，因此這筆以緋聞對象呈現。",
+      "tags": ["法國王牌", "Real Madrid", "公開報導緋聞"],
+      "player": {
+        "name": "Kylian Mbappe",
+        "label": "France forward",
+        "initials": "KM",
+        "photoUrl": "assets/players/kylian-mbappe.jpg"
+      },
+      "partner": {
+        "name": "Ester Exposito",
+        "label": "reported link",
+        "initials": "EE",
+        "photoUrl": "assets/couples/kylian-mbappe-ester-exposito.jpg",
+        "wide": true
+      },
+      "links": [
+        { "label": "Mbappe source", "url": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9" },
+        { "label": "reported link source", "url": "https://www.glamour.mx/articulos/ester-exposito-y-mbappe-estan-saliendo" }
+      ]
+    },
+    {
+      "rank": 4,
+      "team": "Norway",
+      "title": "Erling Haaland 與 Isabel Haugseng Johansen",
+      "story": "Haaland 首次站上世界盃舞台就是金靴熱門，Isabel 與他同樣來自 Bryne 的足球背景，這段低調關係在世界盃期間受到更多關注。",
+      "tags": ["世界盃初登場", "低調伴侶", "挪威核心"],
+      "player": {
+        "name": "Erling Haaland",
+        "label": "Norway striker",
+        "initials": "EH",
+        "photoUrl": "assets/couples/erling-haaland.jpg"
+      },
+      "partner": {
+        "name": "Isabel Haugseng Johansen",
+        "label": "girlfriend",
+        "initials": "IJ",
+        "photoUrl": "assets/couples/isabel-haugseng-johansen-front.jpg",
+        "wide": true
+      },
+      "links": [
+        { "label": "Haaland source", "url": "https://en.wikipedia.org/wiki/Erling_Haaland" },
+        { "label": "relationship source", "url": "https://nypost.com/2026/06/17/sports/erling-haalands-girlfriend-had-a-really-good-feeling-before-epic-world-cup-debut-for-norway/" }
+      ]
+    },
+    {
+      "rank": 5,
+      "team": "England",
+      "title": "Harry Kane 與 Katie Goodland",
+      "story": "Kane 與 Katie 從兒時相識到成家，是英格蘭隊長身邊最穩定的支持系統；Kane 進球後親吻婚戒的動作也成為熟悉畫面。",
+      "tags": ["兒時戀人", "英格蘭隊長", "家庭感"],
+      "player": {
+        "name": "Harry Kane",
+        "label": "England striker",
+        "initials": "HK",
+        "photoUrl": "assets/players/harry-kane.jpg"
+      },
+      "partner": {
+        "name": "Katie Goodland",
+        "label": "wife",
+        "initials": "KG",
+        "photoUrl": "assets/couples/katie-goodland-front.jpg",
+        "wide": true
+      },
+      "links": [
+        { "label": "Kane source", "url": "https://en.wikipedia.org/wiki/Harry_Kane" },
+        { "label": "relationship source", "url": "https://timesofindia.indiatimes.com/sports/international-sports/who-is-harry-kanes-wife-all-you-need-to-know-about-kate-goodland/articleshow/131802384.cms" }
+      ]
+    },
+    {
+      "rank": 6,
+      "team": "England",
+      "title": "Jude Bellingham 與 Ashlyn Castro",
+      "story": "Bellingham 是英格蘭新世代中場門面，2026 世界盃期間話題性很高；Ashlyn Castro 則在多家媒體報導中被稱為他的女友。",
+      "tags": ["英格蘭新核心", "Real Madrid", "公開交往報導"],
+      "player": {
+        "name": "Jude Bellingham",
+        "label": "England midfielder",
+        "initials": "JB",
+        "photoUrl": "assets/players/jude-bellingham.jpg"
+      },
+      "partner": {
+        "name": "Ashlyn Castro",
+        "label": "girlfriend",
+        "initials": "AC",
+        "photoUrl": "assets/couples/jude-bellingham-ashlyn-castro.jpg",
+        "wide": true
+      },
+      "links": [
+        { "label": "Bellingham source", "url": "https://en.wikipedia.org/wiki/Jude_Bellingham" },
+        { "label": "relationship source", "url": "https://www.scmp.com/magazines/style/entertainment/article/3310346/meet-real-madrid-star-jude-bellinghams-gf-ashlyn-castro-la-influencer-followed-nick-cannon-and-rob" }
+      ]
+    },
+    {
+      "rank": 7,
+      "team": "Belgium",
+      "title": "Kevin De Bruyne 與 Michele Lacroix",
+      "story": "De Bruyne 是比利時中場大腦，Michele 從 2014 年起陪伴他，兩人在 2017 年結婚並育有三名孩子。",
+      "tags": ["中場大師", "比利時核心", "三個孩子"],
+      "player": {
+        "name": "Kevin De Bruyne",
+        "label": "Belgium midfielder",
+        "initials": "KDB",
+        "photoUrl": "assets/couples/kevin-de-bruyne.jpg"
+      },
+      "partner": {
+        "name": "Michele Lacroix",
+        "label": "wife",
+        "initials": "ML",
+        "photoUrl": "assets/couples/kevin-de-bruyne-michele-lacroix.jpg",
+        "wide": true
+      },
+      "links": [
+        { "label": "De Bruyne source", "url": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne" },
+        { "label": "relationship source", "url": "https://as.com/us/us/2021/03/22/tikitakas/1616377159_247797.html" }
+      ]
+    },
+    {
+      "rank": 8,
+      "team": "Croatia",
+      "title": "Luka Modric 與 Vanja Bosnic",
+      "story": "Vanja 早年曾在 Modric 職涯轉會中扮演重要角色，兩人 2010 年結婚；Modric 的世界盃故事總帶著家庭與長跑般的韌性。",
+      "tags": ["克羅埃西亞隊長", "低調夫妻", "職涯夥伴"],
+      "player": {
+        "name": "Luka Modric",
+        "label": "Croatia midfielder",
+        "initials": "LM",
+        "photoUrl": "assets/players/luka-modric.jpg"
+      },
+      "partner": {
+        "name": "Vanja Bosnic",
+        "label": "wife",
+        "initials": "VB",
+        "photoUrl": "assets/couples/luka-modric-vanja-bosnic.jpg",
+        "wide": true
+      },
+      "links": [
+        { "label": "Modric source", "url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87" },
+        { "label": "relationship source", "url": "https://www.thesun.co.uk/sport/39427250/luka-modric-wife-vanja-bosnic-children/" }
+      ]
+    },
+    {
+      "rank": 9,
+      "team": "France",
+      "title": "Antoine Griezmann 與 Erika Choperena",
+      "story": "Griezmann 與 Erika 自 2011 年開始交往，2017 年結婚；他的歡樂球風與家庭形象，讓這組伴侶檔很適合放在甜蜜名單中。",
+      "tags": ["法國攻擊手", "2017 結婚", "家庭派"],
+      "player": {
+        "name": "Antoine Griezmann",
+        "label": "France forward",
+        "initials": "AG",
+        "photoUrl": "assets/couples/antoine-griezmann.jpg"
+      },
+      "partner": {
+        "name": "Erika Choperena",
+        "label": "wife",
+        "initials": "EC",
+        "photoUrl": "assets/couples/antoine-griezmann-erika-choperena-2025.jpg",
+        "wide": true
+      },
+      "links": [
+        { "label": "Griezmann source", "url": "https://en.wikipedia.org/wiki/Antoine_Griezmann" },
+        { "label": "relationship source", "url": "https://as.com/us/us/2019/07/14/tikitakas/1563116078_381237.html" }
+      ]
+    },
+    {
+      "rank": 10,
+      "team": "Switzerland",
+      "title": "Granit Xhaka 與 Leonita Lekaj",
+      "story": "Xhaka 是瑞士中場節奏核心，Leonita 與他在 2017 年結婚。這組伴侶檔的關鍵字是穩定、家庭與成熟領袖感。",
+      "tags": ["瑞士隊長氣質", "中場控場", "穩定家庭"],
+      "player": {
+        "name": "Granit Xhaka",
+        "label": "Switzerland midfielder",
+        "initials": "GX",
+        "photoUrl": "assets/players/granit-xhaka.jpg"
+      },
+      "partner": {
+        "name": "Leonita Lekaj",
+        "label": "wife",
+        "initials": "LL",
+        "photoUrl": "assets/couples/granit-xhaka-leonita-lekaj.jpg",
+        "wide": true
+      },
+      "links": [
+        { "label": "Xhaka source", "url": "https://en.wikipedia.org/wiki/Granit_Xhaka" }
+      ]
+    },
+    {
+      "rank": 11,
+      "team": "Croatia",
+      "title": "Josko Gvardiol 與 Lu Mastrovic",
+      "story": "Gvardiol 是克羅埃西亞新世代防線門面，世界盃期間英媒也關注到他的交往女友 Lu Mastrovic，讓克羅埃西亞名單多了年輕感。",
+      "tags": ["克羅埃西亞新星", "後防門面", "年輕情侶"],
+      "player": {
+        "name": "Josko Gvardiol",
+        "label": "Croatia defender",
+        "initials": "JG",
+        "photoUrl": "assets/players/josko-gvardiol.jpg"
+      },
+      "partner": {
+        "name": "Lu Mastrovic",
+        "label": "girlfriend",
+        "initials": "LM",
+        "photoUrl": "assets/couples/josko-gvardiol-lu-mastrovic-klix.jpg",
+        "wide": true
+      },
+      "links": [
+        { "label": "Gvardiol source", "url": "https://en.wikipedia.org/wiki/Jo%C5%A1ko_Gvardiol" },
+        { "label": "relationship source", "url": "https://www.thesun.co.uk/sport/39349788/croatia-wags-world-cup-modric-gvardiol/" }
+      ]
+    },
+    {
+      "rank": 12,
+      "team": "Bosnia and Herzegovina",
+      "title": "Edin Dzeko 與 Amra Silajdzic",
+      "story": "Dzeko 是波士尼亞足球的門面，Amra 是模特兒與演員；兩人的公開形象兼具老將沉穩與紅毯感。",
+      "tags": ["波士尼亞傳奇", "模特兒演員", "資深夫妻"],
+      "player": {
+        "name": "Edin Dzeko",
+        "label": "Bosnia forward",
+        "initials": "ED",
+        "photoUrl": "assets/players/edin-dzeko.jpg"
+      },
+      "partner": {
+        "name": "Amra Silajdzic",
+        "label": "wife",
+        "initials": "AS",
+        "photoUrl": "assets/couples/edin-dzeko-amra-silajdzic-close.jpg",
+        "wide": true
+      },
+      "links": [
+        { "label": "Dzeko source", "url": "https://en.wikipedia.org/wiki/Edin_D%C5%BEeko" },
+        { "label": "Amra source", "url": "https://en.wikipedia.org/wiki/Amra_Silajd%C5%BEi%C4%87" }
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "FIFA World Cup 26 schedule", "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/match-schedule" },
+    { "label": "The Guardian Golden Boot tracker", "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner" },
+    { "label": "Lionel Messi", "url": "https://en.wikipedia.org/wiki/Lionel_Messi" },
+    { "label": "Cristiano Ronaldo", "url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo" },
+    { "label": "Kylian Mbappe", "url": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9" },
+    { "label": "Mbappe and Ester Exposito report", "url": "https://www.glamour.mx/articulos/ester-exposito-y-mbappe-estan-saliendo" },
+    { "label": "Erling Haaland relationship note", "url": "https://nypost.com/2026/06/17/sports/erling-haalands-girlfriend-had-a-really-good-feeling-before-epic-world-cup-debut-for-norway/" },
+    { "label": "Harry Kane relationship note", "url": "https://timesofindia.indiatimes.com/sports/international-sports/who-is-harry-kanes-wife-all-you-need-to-know-about-kate-goodland/articleshow/131802384.cms" },
+    { "label": "Jude Bellingham", "url": "https://en.wikipedia.org/wiki/Jude_Bellingham" },
+    { "label": "Bellingham and Ashlyn Castro report", "url": "https://www.scmp.com/magazines/style/entertainment/article/3310346/meet-real-madrid-star-jude-bellinghams-gf-ashlyn-castro-la-influencer-followed-nick-cannon-and-rob" },
+    { "label": "Kevin De Bruyne", "url": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne" },
+    { "label": "Luka Modric", "url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87" },
+    { "label": "Antoine Griezmann", "url": "https://en.wikipedia.org/wiki/Antoine_Griezmann" },
+    { "label": "Granit Xhaka", "url": "https://en.wikipedia.org/wiki/Granit_Xhaka" },
+    { "label": "Josko Gvardiol", "url": "https://en.wikipedia.org/wiki/Jo%C5%A1ko_Gvardiol" },
+    { "label": "Edin Dzeko", "url": "https://en.wikipedia.org/wiki/Edin_D%C5%BEeko" }
+  ]
+}

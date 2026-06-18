@@ -574,6 +574,326 @@ h2 {
   font-size: 0.9rem;
 }
 
+.couples-page {
+  background:
+    radial-gradient(circle at 10% 8%, rgba(255, 23, 79, 0.26), transparent 25rem),
+    radial-gradient(circle at 86% 4%, rgba(255, 176, 0, 0.36), transparent 24rem),
+    radial-gradient(circle at 78% 82%, rgba(0, 213, 255, 0.24), transparent 28rem),
+    linear-gradient(180deg, #fff9fb 0%, #f5fbff 48%, #eef9f0 100%);
+}
+
+.couples-hero {
+  min-height: 92vh;
+  padding: 22px clamp(18px, 4vw, 64px) 42px;
+}
+
+.couples-topbar {
+  margin-bottom: 28px;
+}
+
+.couples-hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(360px, 1.08fr);
+  align-items: center;
+  gap: clamp(24px, 5vw, 72px);
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.couples-hero-copy h1 {
+  margin-bottom: 20px;
+  background: linear-gradient(112deg, #102033 0%, #ff174f 30%, #ffb000 56%, #0057ff 84%);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.couples-cover {
+  position: relative;
+  min-height: 570px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 23, 79, 0.18);
+  border-radius: 8px;
+  background:
+    radial-gradient(circle at 28% 18%, rgba(255, 176, 0, 0.46), transparent 16rem),
+    radial-gradient(circle at 76% 20%, rgba(255, 23, 79, 0.3), transparent 18rem),
+    radial-gradient(circle at 60% 82%, rgba(0, 213, 255, 0.32), transparent 22rem),
+    linear-gradient(145deg, rgba(255, 255, 255, 0.94), rgba(255, 242, 246, 0.82));
+  box-shadow: 0 26px 70px rgba(255, 23, 79, 0.16);
+}
+
+.cover-photo {
+  position: absolute;
+  overflow: hidden;
+  border: 8px solid rgba(255, 255, 255, 0.82);
+  border-radius: 8px;
+  background: white;
+  box-shadow: 0 22px 46px rgba(16, 32, 51, 0.18);
+}
+
+.cover-photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.cover-main {
+  left: 8%;
+  top: 10%;
+  width: 52%;
+  height: 68%;
+  transform: rotate(-4deg);
+}
+
+.cover-secondary {
+  right: 7%;
+  bottom: 12%;
+  width: 43%;
+  height: 54%;
+  transform: rotate(5deg);
+}
+
+.cover-card {
+  position: absolute;
+  left: 24px;
+  right: 24px;
+  bottom: 22px;
+  padding: 16px 18px;
+  border: 1px solid rgba(255, 23, 79, 0.16);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.86);
+  backdrop-filter: blur(18px);
+}
+
+.cover-card span,
+.cover-card strong {
+  display: block;
+}
+
+.cover-card span {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.cover-card strong {
+  margin-top: 5px;
+  color: var(--red);
+  font-size: 1.2rem;
+}
+
+.sweet-intro {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.42fr) minmax(0, 1fr);
+  gap: 32px;
+  align-items: start;
+  max-width: none;
+  border-block: 1px solid rgba(255, 23, 79, 0.14);
+  background:
+    linear-gradient(90deg, rgba(255, 255, 255, 0.94), rgba(255, 243, 248, 0.82)),
+    linear-gradient(135deg, rgba(255, 176, 0, 0.2), rgba(0, 213, 255, 0.14));
+}
+
+.sweet-intro > * {
+  max-width: 1180px;
+}
+
+.sweet-intro p:last-child {
+  margin-bottom: 0;
+  color: #2b4058;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.star-couple-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.star-couple-card {
+  position: relative;
+  overflow: hidden;
+  display: grid;
+  gap: 18px;
+  padding: 18px;
+  border: 1px solid rgba(255, 23, 79, 0.16);
+  border-radius: 8px;
+  background:
+    radial-gradient(circle at 100% 0%, rgba(255, 176, 0, 0.2), transparent 12rem),
+    radial-gradient(circle at 0% 100%, rgba(0, 213, 255, 0.16), transparent 13rem),
+    rgba(255, 255, 255, 0.94);
+  box-shadow: 0 16px 40px rgba(255, 23, 79, 0.1);
+}
+
+.star-couple-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 7px;
+  background: linear-gradient(180deg, var(--red), var(--gold), var(--cyan), var(--blue));
+}
+
+.couple-rank {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  color: rgba(255, 23, 79, 0.16);
+  font-size: 3.2rem;
+  font-weight: 1000;
+  line-height: 1;
+}
+
+.couple-photos {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.person-photo {
+  position: relative;
+  min-height: 310px;
+  margin: 0;
+  overflow: hidden;
+  border-radius: 8px;
+  background:
+    radial-gradient(circle at 50% 10%, rgba(255, 255, 255, 0.42), transparent 4rem),
+    linear-gradient(135deg, #102033, #253e5c 46%, #ffe9ef);
+}
+
+.person-photo img,
+.photo-fallback {
+  width: 100%;
+  height: 310px;
+}
+
+.person-photo img {
+  display: block;
+  object-fit: contain;
+  object-position: center center;
+  padding: 8px;
+}
+
+.wide-person-photo {
+  grid-column: 1 / -1;
+  min-height: 360px;
+}
+
+.wide-person-photo img,
+.wide-person-photo .photo-fallback {
+  height: 360px;
+}
+
+.photo-fallback {
+  display: grid;
+  place-items: center;
+  align-content: center;
+  gap: 8px;
+  color: white;
+  background:
+    radial-gradient(circle at 30% 20%, rgba(255, 255, 255, 0.24), transparent 7rem),
+    linear-gradient(145deg, #102033, #0057ff 42%, #ff174f 100%);
+}
+
+.photo-fallback strong {
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-weight: 1000;
+}
+
+.photo-fallback span {
+  padding: 6px 9px;
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.14);
+  font-size: 0.78rem;
+  font-weight: 900;
+}
+
+.missing-public-photo figcaption {
+  background: rgba(255, 255, 255, 0.92);
+}
+
+.person-photo figcaption {
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(12px);
+}
+
+.person-photo figcaption strong,
+.person-photo figcaption span {
+  display: block;
+}
+
+.person-photo figcaption strong {
+  color: var(--ink);
+  font-size: 0.98rem;
+  line-height: 1.15;
+}
+
+.person-photo figcaption span {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.couple-body {
+  position: relative;
+  z-index: 1;
+}
+
+.couple-team {
+  margin-bottom: 8px;
+  color: var(--red);
+  font-size: 0.82rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.couple-body h3 {
+  margin: 0 0 10px;
+  padding-right: 56px;
+  font-size: 1.45rem;
+  line-height: 1.15;
+}
+
+.couple-story {
+  color: #2f4258;
+  line-height: 1.72;
+}
+
+.couple-links,
+.source-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.source-panel {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.35fr) minmax(0, 1fr);
+  gap: 24px;
+  align-items: start;
+}
+
+.source-links a {
+  padding: 8px 11px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--blue);
+  font-size: 0.82rem;
+  font-weight: 800;
+  box-shadow: 0 8px 20px rgba(0, 87, 255, 0.08);
+}
+
 @media (max-width: 860px) {
   .hero {
     min-height: auto;
@@ -587,10 +907,14 @@ h2 {
   }
 
   .hero-grid,
+  .couples-hero-grid,
   .intro-band,
+  .sweet-intro,
+  .source-panel,
   .update-band,
   .match-grid,
   .video-grid,
+  .star-couple-grid,
   .split-section {
     grid-template-columns: 1fr;
   }
@@ -606,6 +930,14 @@ h2 {
 
   .section-heading > p {
     text-align: left;
+  }
+
+  .couples-hero {
+    min-height: auto;
+  }
+
+  .couples-cover {
+    min-height: 460px;
   }
 
   .teams {
@@ -649,5 +981,32 @@ h2 {
   .player-meta {
     grid-column: 2;
     justify-items: start;
+  }
+
+  .couple-photos {
+    grid-template-columns: 1fr;
+  }
+
+  .person-photo {
+    min-height: 280px;
+  }
+
+  .person-photo img,
+  .photo-fallback {
+    height: 280px;
+  }
+
+  .wide-person-photo {
+    min-height: 300px;
+  }
+
+  .wide-person-photo img,
+  .wide-person-photo .photo-fallback {
+    height: 300px;
+  }
+
+  .couple-body h3 {
+    padding-right: 46px;
+    font-size: 1.25rem;
   }
 }

@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FIFA 世界盃 12 位甜蜜球星</title>
+    <meta name="description" content="整理 FIFA 世界盃話題球星與公開伴侶資料，做成甜蜜感照片網頁。">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body class="couples-page">
+    <header class="couples-hero" id="top">
+      <nav class="topbar couples-topbar" aria-label="頁面導覽">
+        <a class="brand" href="index.html" aria-label="回到 FIFA Match Radar">
+          <span class="brand-mark">26</span>
+          <span>FIFA Sweet 12</span>
+        </a>
+        <div class="nav-links">
+          <a href="#ranking">12 位球星</a>
+          <a href="#sources">資料來源</a>
+        </div>
+      </nav>
+
+      <section class="couples-hero-grid">
+        <div class="couples-hero-copy">
+          <p class="eyebrow">World Cup Star Couples</p>
+          <h1>世界盃 12 位甜蜜球星</h1>
+          <p class="lead" id="couplesLead">正在載入球星伴侶名單...</p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#ranking">看甜蜜名單</a>
+            <a class="ghost-action" href="index.html">回每日看賽</a>
+          </div>
+        </div>
+        <div class="couples-cover" aria-label="世界盃球星甜蜜主視覺">
+          <div class="cover-photo cover-main">
+            <img src="assets/players/cristiano-ronaldo.jpg" alt="Cristiano Ronaldo 球員照片">
+          </div>
+          <div class="cover-photo cover-secondary">
+            <img src="assets/players/harry-kane.jpg" alt="Harry Kane 球員照片">
+          </div>
+          <div class="cover-card">
+            <span>Public stories</span>
+            <strong>Love beside the tournament lights</strong>
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <section class="section sweet-intro" aria-labelledby="sweet-title">
+        <div>
+          <p class="section-kicker">Selection Note</p>
+          <h2 id="sweet-title">只放公開可靠的伴侶資訊</h2>
+        </div>
+        <p>
+          這份名單以本屆世界盃話題度、球員影響力，以及伴侶關係是否有公開資料為準。沒有穩定公開照片來源的伴侶，以姓名卡和來源連結呈現，避免用錯圖。
+        </p>
+      </section>
+
+      <section class="section" id="ranking" aria-labelledby="ranking-title">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Top 12</p>
+            <h2 id="ranking-title">球星與他們的另一半</h2>
+          </div>
+          <p id="couplesMeta">依公開資料整理，感情狀態可能隨時間變動。</p>
+        </div>
+        <div class="star-couple-grid" id="starCoupleGrid"></div>
+      </section>
+
+      <section class="section source-panel" id="sources" aria-labelledby="source-title">
+        <div>
+          <p class="section-kicker">Sources</p>
+          <h2 id="source-title">資料來源</h2>
+        </div>
+        <div class="source-links" id="coupleSources"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>FIFA Sweet 12</span>
+      <span id="couplesUpdatedAt">Last updated --</span>
+    </footer>
+
+    <script type="module" src="couples.js"></script>
+  </body>
+</html>
