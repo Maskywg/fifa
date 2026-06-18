@@ -58,6 +58,7 @@ function renderCouples(couples) {
 
     const body = create("div", "couple-body");
     body.append(create("p", "couple-team", item.team));
+    if (item.club) body.append(create("p", "couple-club", `目前俱樂部：${item.club}`));
     body.append(create("h3", "", item.title));
     body.append(create("p", "couple-story", item.story));
 

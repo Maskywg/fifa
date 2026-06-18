@@ -857,6 +857,21 @@ h2 {
   text-transform: uppercase;
 }
 
+.couple-club {
+  display: inline-flex;
+  align-items: center;
+  max-width: calc(100% - 64px);
+  margin: 0 0 12px;
+  padding: 7px 10px;
+  border: 1px solid rgba(0, 87, 255, 0.18);
+  border-radius: 8px;
+  color: #20364e;
+  background: rgba(0, 87, 255, 0.07);
+  font-size: 0.86rem;
+  font-weight: 850;
+  line-height: 1.35;
+}
+
 .couple-body h3 {
   margin: 0 0 10px;
   padding-right: 56px;
