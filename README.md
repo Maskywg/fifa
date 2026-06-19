@@ -23,12 +23,8 @@ LINE Notify 已結束服務，群組自動推送需使用 LINE Messaging API 與
 需要準備：
 
 - LINE Developers 的 Messaging API channel access token
-- 將 Bot 加入目標群組
-- 目標群組的 groupId：
-  - `安馨益起玩`
-  - `AI資訊鍊金工坊`
-  - `光仁義班同學會`
-  - `大內家人群組`
+- 將 Bot 加入目標群組 `安馨益起玩`
+- `安馨益起玩` 的 groupId（`LINE_GROUP_ANXIN_PLAY`）
 
 環境變數範例在 `config/line.env.example`。設定完成後可執行：
 
@@ -38,7 +34,7 @@ node scripts/line-push.js
 
 正式本機設定可建立 `config/line.env`。這個檔案已被 `.gitignore` 排除，不會提交到 GitHub。
 
-腳本會把最新 `data/daily.json` 摘要、前日進球影片連結與網站網址推送到已設定的群組。
+腳本會把最新 `data/daily.json` 摘要、前日進球影片連結與網站網址推送到 `安馨益起玩`。
 
 ## 本機預覽
 

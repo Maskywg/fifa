@@ -29,12 +29,7 @@ loadLocalEnv("config/line.env");
 
 const siteUrl = process.env.FIFA_SITE_URL || "https://maskywg.github.io/fifa/";
 const token = process.env.LINE_CHANNEL_ACCESS_TOKEN;
-const groupEnv = [
-  ["安馨益起玩", "LINE_GROUP_ANXIN_PLAY"],
-  ["AI資訊鍊金工坊", "LINE_GROUP_AI_ALCHEMY"],
-  ["光仁義班同學會", "LINE_GROUP_KUANGJEN_YI"],
-  ["大內家人群組", "LINE_GROUP_FAMILY"]
-];
+const targetGroup = ["安馨益起玩", "LINE_GROUP_ANXIN_PLAY"];
 
 function loadDaily() {
   return JSON.parse(fs.readFileSync("data/daily.json", "utf8"));
@@ -89,19 +84,15 @@ async function main() {
     throw new Error("Missing LINE_CHANNEL_ACCESS_TOKEN");
   }
 
-  const groups = groupEnv
-    .map(([name, envName]) => ({ name, envName, id: process.env[envName] }))
-    .filter((group) => group.id);
-
-  if (!groups.length) {
-    throw new Error(`Missing LINE group IDs: ${groupEnv.map(([, envName]) => envName).join(", ")}`);
+  const [groupName, groupEnvName] = targetGroup;
+  const groupId = process.env[groupEnvName];
+  if (!groupId) {
+    throw new Error(`Missing LINE group ID: ${groupEnvName}`);
   }
 
   const message = buildMessage(loadDaily());
-  for (const group of groups) {
-    await pushMessage(group.name, group.id, message);
-    console.log(`sent: ${group.name}`);
-  }
+  await pushMessage(groupName, groupId, message);
+  console.log(`sent: ${groupName}`);
 }
 
 main().catch((error) => {
