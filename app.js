@@ -61,13 +61,13 @@ function renderPlayers(players) {
 
     const copy = create("div", "");
     copy.append(create("h3", "", player.name));
-    if (player.currentClub) {
-      copy.append(create("p", "player-club", `職業隊：${player.currentClub}`));
-    }
     copy.append(create("p", "", player.note));
 
     const meta = create("div", "player-meta");
     meta.append(create("span", "player-team", player.team));
+    if (player.currentClub) {
+      meta.append(create("span", "player-club", `職業隊：${player.currentClub}`));
+    }
     if (player.profileUrl) {
       const source = create("a", "photo-source", "照片來源");
       source.href = player.profileUrl;

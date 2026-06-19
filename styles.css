@@ -514,10 +514,15 @@ h2 {
 }
 
 .player-card .player-club {
-  margin-bottom: 6px;
+  padding: 5px 8px;
+  border: 1px solid rgba(0, 111, 255, 0.16);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.68);
   color: #12375e;
   font-size: 0.86rem;
   font-weight: 800;
+  text-align: right;
+  white-space: nowrap;
 }
 
 .player-photo {
