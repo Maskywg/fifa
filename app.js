@@ -61,6 +61,9 @@ function renderPlayers(players) {
 
     const copy = create("div", "");
     copy.append(create("h3", "", player.name));
+    if (player.currentClub) {
+      copy.append(create("p", "player-club", `職業隊：${player.currentClub}`));
+    }
     copy.append(create("p", "", player.note));
 
     const meta = create("div", "player-meta");

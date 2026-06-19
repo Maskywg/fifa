@@ -1,10 +1,10 @@
 {
-  "publishedAt": "2026-06-19T08:14:40+08:00",
+  "publishedAt": "2026-06-20T06:27:34+08:00",
   "targetDateLabel": "2026-06-20 台灣時間",
   "visualDate": "Jun 20",
-  "summary": "明天台灣時間從凌晨 3:00 到中午 12:00 一共四場，重點落在 C、D 組第二輪。最值得看的是美國對澳洲的分組龍頭戰；蘇格蘭對摩洛哥是晉級節奏之戰，巴西則在首戰被逼和後必須對海地拿出更穩定的壓制力。",
+  "summary": "明天台灣時間從凌晨 3:00 到上午 11:00 一共四場，重點落在 C、D 組第二輪。最值得看的是美國對澳洲的分組龍頭戰；蘇格蘭對摩洛哥是晉級節奏之戰，巴西則在首戰被逼和後必須對海地拿出更穩定的壓制力。",
   "dailyAngle": "這一天的核心不是名氣，而是第二輪的積分壓力。D 組兩支首戰贏球的球隊正面碰撞，贏家幾乎把出線主導權握在手上；C 組則是蘇格蘭能不能把歷史性首勝變成晉級跳板，以及巴西能否在被摩洛哥逼和後重新建立禁區效率。",
-  "sourceNote": "賽程、場地與分組架構以 FIFA World Cup 26 官方頁面為主；積分與近期結果依 2026-06-19 台灣時間上午可取得之 FIFA 官方頁面與主流媒體比分/報導交叉整理。本頁以台灣時間 2026-06-20 00:00 至 23:59 的賽事為準。",
+  "sourceNote": "賽程、場地與分組架構以 FIFA World Cup 26 官方頁面為主；積分、近期結果與球員狀態依 2026-06-19 台灣時間上午 9:00 可取得之 FIFA 官方頁面與主流媒體比分/報導交叉整理。本頁以台灣時間 2026-06-20 00:00 至 23:59 的賽事為準。",
   "highlightVideos": [
     {
       "title": "Jonathan David 帽子戲法相關精華",
@@ -65,7 +65,7 @@
     {
       "priority": "第 4 場",
       "group": "Group D",
-      "time": "台灣 06/20 12:00",
+      "time": "台灣 06/20 11:00",
       "venue": "San Francisco Bay Area Stadium，聖塔克拉拉",
       "home": "Türkiye",
       "away": "Paraguay",
@@ -78,6 +78,7 @@
     {
       "name": "Christian Pulisic",
       "team": "USA",
+      "currentClub": "AC Milan",
       "photoUrl": "assets/players/christian-pulisic.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Christian_Pulisic",
       "note": "美國最直接的破局點，但賽前焦點是他的小腿狀況。若無法完整出賽，美國邊路一對一與最後傳球威脅會打折。"
@@ -85,6 +86,7 @@
     {
       "name": "Folarin Balogun",
       "team": "USA",
+      "currentClub": "Monaco",
       "photoUrl": "assets/players/folarin-balogun.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Folarin_Balogun",
       "note": "首戰火力已經開出來。面對澳洲更靠近身體對抗的防線，他的第一時間射門與跑位會決定美國能否先手。"
@@ -92,6 +94,7 @@
     {
       "name": "Nestory Irankunda",
       "team": "Australia",
+      "currentClub": "Watford",
       "photoUrl": "assets/players/nestory-irankunda.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Nestory_Irankunda",
       "note": "澳洲最有速度爆點的前場武器之一。只要美國壓太高，他就能把比賽推進到美國不想要的衝刺回防節奏。"
@@ -99,6 +102,7 @@
     {
       "name": "Scott McTominay",
       "team": "Scotland",
+      "currentClub": "Napoli",
       "photoUrl": "assets/players/scott-mctominay.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Scott_McTominay",
       "note": "蘇格蘭中場最能把防守回合轉成直接威脅的人。面對摩洛哥，他的插上時機會比長時間控球更重要。"
@@ -106,6 +110,7 @@
     {
       "name": "Achraf Hakimi",
       "team": "Morocco",
+      "currentClub": "Paris Saint-Germain",
       "photoUrl": "assets/players/achraf-hakimi.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Achraf_Hakimi",
       "note": "摩洛哥邊路最具破壞力的推進器。若蘇格蘭沒能及時包夾，他會持續把球送進危險走廊。"
@@ -113,6 +118,7 @@
     {
       "name": "Vinicius Junior",
       "team": "Brazil",
+      "currentClub": "Real Madrid",
       "photoUrl": "assets/players/vinicius-junior.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior",
       "note": "巴西最需要他把單點爆破兌現成禁區內產值。面對海地低位與回撤防守，他必須更快把優勢轉成射門。"
@@ -120,6 +126,7 @@
     {
       "name": "Duckens Nazon",
       "team": "Haiti",
+      "currentClub": "Esteghlal",
       "photoUrl": "assets/players/duckens-nazon.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Duckens_Nazon",
       "note": "海地前場最重要的反擊落點。若能撐住第一下身體對抗，海地就有機會把巴西拖進不舒服的回追局面。"
@@ -127,6 +134,7 @@
     {
       "name": "Arda Güler",
       "team": "Türkiye",
+      "currentClub": "Real Madrid",
       "photoUrl": "assets/players/arda-guler.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Arda_G%C3%BCler",
       "note": "土耳其最有創造力的進攻腦。第二輪再不把他的持球與最後一傳打活，土耳其很可能會提早陷入出局壓力。"
@@ -134,6 +142,7 @@
     {
       "name": "Miguel Almirón",
       "team": "Paraguay",
+      "currentClub": "Atlanta United",
       "photoUrl": "assets/players/miguel-almiron.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Miguel_Almir%C3%B3n",
       "note": "巴拉圭最適合在轉換戰裡決定勝負的球員。土耳其若中場丟球位置太差，他就是第一個能把空間吃掉的人。"
@@ -159,8 +168,8 @@
       "url": "https://www.sbnation.com/soccer/1117513/world-cup-schedule-2026-how-to-watch-every-match-scores-and-more"
     },
     {
-      "label": "The Guardian：USA vs Australia 對戰前瞻",
-      "url": "https://www.theguardian.com/football/2026/jun/18/usmnt-australia-world-cup-friendly-preview"
+      "label": "The Guardian：Pulisic 對 Australia 賽前傷情",
+      "url": "https://www.theguardian.com/football/2026/jun/18/usmnt-christian-pulisic-status-mauricio-pochettino"
     },
     {
       "label": "The Guardian：Steve Clarke 談蘇格蘭對摩洛哥",
@@ -169,6 +178,10 @@
     {
       "label": "AP：Brazil 球迷在費城備戰 Haiti 之戰",
       "url": "https://apnews.com/article/7cefb71ddbe005ec14364be30c5305ba"
+    },
+    {
+      "label": "The Guardian：Canada 6-0 Qatar 與 Jonathan David 帽子戲法",
+      "url": "https://www.theguardian.com/football/2026/jun/18/canada-qatar-world-cup-2026-group-b-match-report"
     },
     {
       "label": "The Guardian：Australia 世界盃轉播與賽前重點",

@@ -513,6 +513,13 @@ h2 {
   line-height: 1.55;
 }
 
+.player-card .player-club {
+  margin-bottom: 6px;
+  color: #12375e;
+  font-size: 0.86rem;
+  font-weight: 800;
+}
+
 .player-photo {
   width: 86px;
   height: 86px;
