@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-06-20T11:07:06+08:00",
+  "publishedAt": "2026-06-20T11:21:03+08:00",
   "targetDateLabel": "2026-06-21 台灣時間",
   "visualDate": "Jun 21",
   "summary": "明天台灣時間從凌晨 1:00 到中午 12:00 一共四場，主軸是 E、F 組第二輪。最值得看的是德國對象牙海岸：兩隊首戰都拿 3 分，勝方幾乎直接掌握 E 組出線節奏；荷蘭對瑞典則是星度最高的一戰，瑞典首戰 5 比 1 爆量進球後，要驗證這波火力是不是足以壓過荷蘭的控球和後場高度。",
@@ -8,10 +8,10 @@
   "highlightVideos": [
     {
       "title": "Brazil 3-0 Haiti：Cunha 雙響、Vinicius 補時破門",
-      "source": "Instagram Reel",
+      "source": "ELTA Sports YouTube",
       "player": "Matheus Cunha / Vinicius Junior",
-      "description": "巴西今天對海地 3 比 0 贏球，Cunha 梅開二度、Vinicius 補時破門。Instagram Reel 通常無法直接嵌入本站播放，保留外開連結。",
-      "url": "https://www.instagram.com/reel/DZynSeDlQpS/?igsh=MjdydHpnNTRzZXAx"
+      "description": "愛爾達體育上架的巴西 3 比 0 海地精華，Cunha 梅開二度，Vinicius 補時破門。",
+      "url": "https://www.youtube.com/watch?v=5Ajm4MzkII4&list=PLDB8ct-UxVolHpjQ41rhG0sJB8Vsjcdjg"
     },
     {
       "title": "USA 2-0 Australia：Alex Freeman 破門與美國提前晉級回看",
@@ -187,8 +187,8 @@
       "url": "https://www.houstonchronicle.com/world-cup/article/sweden-netherlands-preview-world-cup-22312449.php"
     },
     {
-      "label": "Instagram Reel：Brazil 3-0 Haiti 精華",
-      "url": "https://www.instagram.com/reel/DZynSeDlQpS/?igsh=MjdydHpnNTRzZXAx"
+      "label": "ELTA Sports YouTube：Brazil 3-0 Haiti 精華",
+      "url": "https://www.youtube.com/watch?v=5Ajm4MzkII4&list=PLDB8ct-UxVolHpjQ41rhG0sJB8Vsjcdjg"
     },
     {
       "label": "The Guardian：USA 2-0 Australia 即時戰報",
