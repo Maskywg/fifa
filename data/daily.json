@@ -59,7 +59,7 @@
       "home": "Brazil",
       "away": "Haiti",
       "headline": "被摩洛哥逼和後，巴西不能再把優勢只留在控球率",
-      "analysis": "巴西首戰與摩洛哥 1 比 1，積分上還留在安全邊，但第二輪面對海地若再失分，第三輪對蘇格蘭的壓力會大很多。Neymar 今天沒有出賽，但這支巴西仍不缺名將，Vinicius Junior、Rodrygo 與中後場的一線主力仍足以形成壓制。這場看點在於巴西是否能把 Vinicius 與 Rodrygo 的邊肋部配合，轉成更持續的禁區穿透，而不是只有邊路熱鬧卻缺少最後一擊。海地首戰雖 0 比 1 輸給蘇格蘭，但整體退守與反擊第一腳並不散，若能讓 Duckens Nazon 或前場支點先把球留下，巴西後防仍會被迫回追。",
+      "analysis": "巴西首戰與摩洛哥 1 比 1，積分上還留在安全邊，但第二輪面對海地若再失分，第三輪對蘇格蘭的壓力會大很多。Neymar 今天沒有出賽，但這支巴西仍不缺名將，Vinicius Junior、Rodrygo、Raphinha 與中後場的一線主力仍足以形成壓制。這場看點在於巴西是否能把 Vinicius 的爆點、Rodrygo 的肋部串聯與 Raphinha 的右路一對一，轉成更持續的禁區穿透，而不是只有邊路熱鬧卻缺少最後一擊。海地首戰雖 0 比 1 輸給蘇格蘭，但整體退守與反擊第一腳並不散，若能讓 Duckens Nazon 或前場支點先把球留下，巴西後防仍會被迫回追。",
       "tags": ["巴西回穩壓力", "Vinicius 破局", "海地反擊偷點"]
     },
     {
@@ -130,6 +130,14 @@
       "photoUrl": "assets/players/rodrygo.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Rodrygo",
       "note": "即使 Neymar 缺陣，巴西前場仍有另一位能在肋部與禁區前做決定的名將。看點是他能否和 Vinicius 拉出更直接的最後一傳與反搶節奏。"
+    },
+    {
+      "name": "Raphinha",
+      "team": "Brazil",
+      "currentClub": "Barcelona",
+      "photoUrl": "assets/players/raphinha.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Raphinha",
+      "note": "巴西右路還有另一位成熟名將可撐起邊線壓力。若他能把內切與傳中品質拉高，海地就很難只用單邊協防守住巴西前場。"
     },
     {
       "name": "Duckens Nazon",
