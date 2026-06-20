@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-06-20T10:44:33+08:00",
+  "publishedAt": "2026-06-20T10:47:35+08:00",
   "targetDateLabel": "2026-06-21 台灣時間",
   "visualDate": "Jun 21",
   "summary": "明天台灣時間從凌晨 1:00 到中午 12:00 一共四場，主軸是 E、F 組第二輪。最值得看的是德國對象牙海岸：兩隊首戰都拿 3 分，勝方幾乎直接掌握 E 組出線節奏；荷蘭對瑞典則是星度最高的一戰，瑞典首戰 5 比 1 爆量進球後，要驗證這波火力是不是足以壓過荷蘭的控球和後場高度。",
@@ -8,10 +8,10 @@
   "highlightVideos": [
     {
       "title": "Brazil 3-0 Haiti 半場進球：Cunha 雙響、Vinicius 補時破門",
-      "source": "The Guardian live report",
+      "source": "YouTube 公開搜尋",
       "player": "Matheus Cunha / Vinicius Junior",
-      "description": "巴西今天對海地上半場已取得 3 比 0 領先，Cunha 先補射/製造折射開局，36 分鐘再接 Vinicius 推進後左腳轟進；Vinicius 補時接 Paquetá 過頂傳球冷靜破門。目前未找到可確認可嵌入的官方影片，先保留外開戰報回看進球脈絡。",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest"
+      "description": "巴西今天對海地上半場已取得 3 比 0 領先，Cunha 雙響、Vinicius 補時破門。原本的 Guardian 連結有付費/閱讀限制，已改成 YouTube 公開搜尋入口，方便直接找可播放精華。",
+      "url": "https://www.youtube.com/results?search_query=Brazil+Haiti+World+Cup+2026+highlights+Cunha+Vinicius"
     },
     {
       "title": "USA 2-0 Australia：Alex Freeman 破門與美國提前晉級回看",
@@ -187,8 +187,8 @@
       "url": "https://www.houstonchronicle.com/world-cup/article/sweden-netherlands-preview-world-cup-22312449.php"
     },
     {
-      "label": "The Guardian：Brazil 3-0 Haiti 上半場即時戰報",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest"
+      "label": "YouTube：Brazil vs Haiti 2026 精華公開搜尋",
+      "url": "https://www.youtube.com/results?search_query=Brazil+Haiti+World+Cup+2026+highlights+Cunha+Vinicius"
     },
     {
       "label": "The Guardian：USA 2-0 Australia 即時戰報",
