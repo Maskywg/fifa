@@ -62,9 +62,6 @@ function renderPlayers(players) {
     const copy = create("div", "");
     copy.append(create("h3", "", player.name));
     copy.append(create("p", "", player.note));
-    if (player.sideStory) {
-      copy.append(create("p", "player-side-story", `場邊話題：${player.sideStory}`));
-    }
 
     const meta = create("div", "player-meta");
     meta.append(create("span", "player-team", player.team));

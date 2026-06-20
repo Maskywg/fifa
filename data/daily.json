@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-06-20T17:40:31+08:00",
+  "publishedAt": "2026-06-20T17:53:27+08:00",
   "targetDateLabel": "2026-06-21 台灣時間",
   "visualDate": "Jun 21",
   "summary": "明天台灣時間從凌晨 1:00 到中午 12:00 一共四場，主軸是 E、F 組第二輪。最值得看的是德國對象牙海岸：兩隊首戰都拿 3 分，勝方幾乎直接掌握 E 組出線節奏；荷蘭對瑞典則是星度最高的一戰，瑞典首戰 5 比 1 爆量進球後，要驗證這波火力是不是足以壓過荷蘭的控球和後場高度。",
@@ -45,7 +45,11 @@
       "away": "Côte d'Ivoire",
       "headline": "兩支首戰贏球球隊正面對撞，E 組第一主導權先決出",
       "analysis": "德國首戰 7 比 1 大勝庫拉索，進球差已經把自己推到 E 組最有利的位置；象牙海岸則靠 1 比 0 擊敗厄瓜多拿到同樣重要的 3 分。這場不是單純看德國能不能繼續大比分，而是看象牙海岸能否用身體對抗和轉換速度，把德國前場壓迫後留下的空間變成真正威脅。德國若讓 Musiala 和 Wirtz 類型的肋部持球者順利轉身，會很快把比賽壓進象牙海岸禁區；象牙海岸則需要 Guirassy 或前場支點把第一波反擊留住，否則會長時間被迫退守。",
-      "tags": ["E 組龍頭戰", "德國火力驗證", "象牙海岸轉換反擊"]
+      "tags": [
+        "E 組龍頭戰",
+        "德國火力驗證",
+        "象牙海岸轉換反擊"
+      ]
     },
     {
       "priority": "第 2 場",
@@ -56,7 +60,11 @@
       "away": "Sweden",
       "headline": "瑞典首戰 5 球後遇上荷蘭，F 組星度最高的一場",
       "analysis": "瑞典首戰 5 比 1 擊敗突尼西亞，Gyökeres、Isak、Ayari、Svanberg 都打出存在感；荷蘭則與日本 2 比 2，內容有控球和個人能力，但防線轉身與中場保護仍留下疑問。這場看點是 Van Dijk 領銜的荷蘭後防能不能壓住瑞典雙前鋒的縱深跑動，以及荷蘭中場能否讓 De Jong 的節奏控制變成禁區前的有效進攻。若瑞典先進球，荷蘭會被迫打得更開，這可能讓比賽變成全日最有娛樂性的對攻。",
-      "tags": ["F 組強強對話", "瑞典火力", "荷蘭後防壓力"]
+      "tags": [
+        "F 組強強對話",
+        "瑞典火力",
+        "荷蘭後防壓力"
+      ]
     },
     {
       "priority": "第 3 場",
@@ -67,7 +75,11 @@
       "away": "Japan",
       "headline": "日本首戰逼和荷蘭後，要把內容兌現成三分",
       "analysis": "日本首戰 2 比 2 踢平荷蘭，代表他們的壓迫、邊路推進與中前場連動足以和強隊對抗；突尼西亞則被瑞典 5 比 1 重擊，第二輪已經沒有太多容錯。日本這場關鍵在於 Kubo 與 Mitoma 能否更早把一對一優勢打到禁區內，避免只有外圍控球；突尼西亞則需要 Msakni 這類老將在反擊第一腳和定位球前後做出更冷靜的決定。若日本先拿到領先，F 組第三輪會變得非常有趣。",
-      "tags": ["日本搶三分", "突尼西亞止血", "邊路一對一"]
+      "tags": [
+        "日本搶三分",
+        "突尼西亞止血",
+        "邊路一對一"
+      ]
     },
     {
       "priority": "第 4 場",
@@ -78,7 +90,11 @@
       "away": "Curaçao",
       "headline": "兩支首戰輸球球隊的生存戰，厄瓜多不能讓庫拉索重燃希望",
       "analysis": "厄瓜多首戰 0 比 1 輸給象牙海岸，問題不在完全沒有對抗能力，而是最後一擊與禁區前決策不夠乾淨；庫拉索則被德國 7 比 1 打穿，第二輪若再大敗，出線形勢會非常困難。厄瓜多需要 Caicedo 在中場把節奏和二點球拿回來，讓進攻不用每次都從後場重新堆疊；庫拉索則要靠 Bacuna 的經驗與定位球，盡量把比賽切成更零碎的回合。這場星度不高，但積分壓力很直接。",
-      "tags": ["0 分生存戰", "Caicedo 中場控制", "庫拉索防線修正"]
+      "tags": [
+        "0 分生存戰",
+        "Caicedo 中場控制",
+        "庫拉索防線修正"
+      ]
     }
   ],
   "players": [
@@ -88,8 +104,7 @@
       "currentClub": "Bayern Munich",
       "photoUrl": "assets/players/jamal-musiala.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Jamal_Musiala",
-      "note": "德國最能在狹小空間轉身、打破低位防守的球員。象牙海岸若無法限制他在肋部接球，德國會很快製造連續射門。",
-      "sideStory": "老k足球新聞賽前影片把德國對象牙海岸列入預測場次，適合當作賽前小道觀點補充；未核實傳聞不列為正式消息。"
+      "note": "德國最能在狹小空間轉身、打破低位防守的球員。象牙海岸若無法限制他在肋部接球，德國會很快製造連續射門。"
     },
     {
       "name": "Serhou Guirassy",
@@ -97,8 +112,7 @@
       "currentClub": "Borussia Dortmund",
       "photoUrl": "assets/players/serhou-guirassy.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Serhou_Guirassy",
-      "note": "象牙海岸面對德國最需要的前場支點。只要他能撐住第一下身體對抗，球隊才有機會把反擊從解圍變成真正推進。",
-      "sideStory": "德國對象牙海岸同樣出現在老k足球新聞賽前預測影片，可作為觀賽前的民間討論入口；內容以參考為主。"
+      "note": "象牙海岸面對德國最需要的前場支點。只要他能撐住第一下身體對抗，球隊才有機會把反擊從解圍變成真正推進。"
     },
     {
       "name": "Moisés Caicedo",
@@ -106,8 +120,7 @@
       "currentClub": "Chelsea",
       "photoUrl": "assets/players/moises-caicedo.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Mois%C3%A9s_Caicedo",
-      "note": "厄瓜多中場的節奏與防守保險。首戰輸球後，這場他必須把二點球和轉守為攻的第一腳拿穩。",
-      "sideStory": "影片也討論厄瓜多對庫拉索，適合補看賽前預測與盤外聲量；球員狀態仍以官方與主流報導為準。"
+      "note": "厄瓜多中場的節奏與防守保險。首戰輸球後，這場他必須把二點球和轉守為攻的第一腳拿穩。"
     },
     {
       "name": "Juninho Bacuna",
@@ -115,8 +128,7 @@
       "currentClub": "Birmingham City",
       "photoUrl": "assets/players/juninho-bacuna.jpeg",
       "profileUrl": "https://en.wikipedia.org/wiki/Juninho_Bacuna",
-      "note": "庫拉索在中前場最需要經驗和定位球品質的人。對厄瓜多如果要止血，他的持球判斷會比冒進壓上更重要。",
-      "sideStory": "厄瓜多對庫拉索在老k足球新聞賽前影片裡被列為預測場次，可作為小道觀點參考，不視為確認消息。"
+      "note": "庫拉索在中前場最需要經驗和定位球品質的人。對厄瓜多如果要止血，他的持球判斷會比冒進壓上更重要。"
     },
     {
       "name": "Virgil van Dijk",
@@ -124,8 +136,7 @@
       "currentClub": "Liverpool",
       "photoUrl": "assets/players/virgil-van-dijk.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Virgil_van_Dijk",
-      "note": "荷蘭後防面對瑞典雙前鋒的核心保險。這場要看他能否把 Gyökeres 和 Isak 的縱深跑動提早切斷。",
-      "sideStory": "老k足球新聞把荷蘭對瑞典列為賽前預測主題之一，賽前可以補看民間觀點，但不把小道消息當成已證實新聞。"
+      "note": "荷蘭後防面對瑞典雙前鋒的核心保險。這場要看他能否把 Gyökeres 和 Isak 的縱深跑動提早切斷。"
     },
     {
       "name": "Viktor Gyökeres",
@@ -133,8 +144,7 @@
       "currentClub": "Arsenal",
       "photoUrl": "assets/players/viktor-gyokeres.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
-      "note": "瑞典首戰大勝後最具威脅的前場箭頭。只要荷蘭防線壓太高，他的衝刺和背身處理都會放大比賽空間。",
-      "sideStory": "荷蘭對瑞典是該影片預測標題中的焦點戰，Gyökeres 的火力自然會成為留言區與賽前討論焦點。"
+      "note": "瑞典首戰大勝後最具威脅的前場箭頭。只要荷蘭防線壓太高，他的衝刺和背身處理都會放大比賽空間。"
     },
     {
       "name": "Takefusa Kubo",
@@ -142,8 +152,7 @@
       "currentClub": "Real Sociedad",
       "photoUrl": "assets/players/takefusa-kubo.png",
       "profileUrl": "https://en.wikipedia.org/wiki/Takefusa_Kubo",
-      "note": "日本在右路與肋部最有創造力的持球點。面對突尼西亞，他需要把首戰逼和荷蘭的內容轉成更明確的最後一傳。",
-      "sideStory": "突尼西亞對日本也在老k足球新聞賽前預測影片中，適合作為球迷討論與盤外觀點補充。"
+      "note": "日本在右路與肋部最有創造力的持球點。面對突尼西亞，他需要把首戰逼和荷蘭的內容轉成更明確的最後一傳。"
     },
     {
       "name": "Kaoru Mitoma",
@@ -151,8 +160,7 @@
       "currentClub": "Brighton & Hove Albion",
       "photoUrl": "assets/players/kaoru-mitoma.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Kaoru_Mitoma",
-      "note": "日本左路最直接的一對一爆點。若突尼西亞邊後衛退得太深，日本就能靠他的突破把禁區前節奏打開。",
-      "sideStory": "這支賽前預測影片涵蓋突尼西亞對日本，三笘薰的邊路對位可作為賽前延伸討論點。"
+      "note": "日本左路最直接的一對一爆點。若突尼西亞邊後衛退得太深，日本就能靠他的突破把禁區前節奏打開。"
     },
     {
       "name": "Youssef Msakni",
@@ -160,8 +168,7 @@
       "currentClub": "Al-Arabi",
       "photoUrl": "assets/players/youssef-msakni.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Youssef_Msakni",
-      "note": "突尼西亞最需要老將在壓力下穩住第一腳。首戰大敗後，他的反擊選擇與定位球處理會直接影響球隊能否留在比賽裡。",
-      "sideStory": "老k足球新聞把突尼西亞對日本列入預測場次，Msakni 這類老將的經驗會是賽前討論裡容易被放大的看點。"
+      "note": "突尼西亞最需要老將在壓力下穩住第一腳。首戰大敗後，他的反擊選擇與定位球處理會直接影響球隊能否留在比賽裡。"
     }
   ],
   "watchPoints": [
@@ -198,10 +205,6 @@
     {
       "label": "ELTA Sports YouTube：Brazil 3-0 Haiti 精華",
       "url": "https://www.youtube.com/watch?v=5Ajm4MzkII4&list=PLDB8ct-UxVolHpjQ41rhG0sJB8Vsjcdjg"
-    },
-    {
-      "label": "老k足球新聞：06/21 四場賽前預測與小道討論",
-      "url": "https://www.youtube.com/watch?v=-bNOJiSwbyI"
     },
     {
       "label": "The Guardian：USA 2-0 Australia 即時戰報",

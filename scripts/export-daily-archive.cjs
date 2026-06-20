@@ -91,10 +91,9 @@ function renderDaily(data, meta) {
     `### ${player.name || ""} (${player.team || ""})`,
     `- 職業隊：${player.currentClub || ""}`,
     `- 球星看點：${player.note || ""}`,
-    player.sideStory ? `- 場邊話題：${player.sideStory}` : null,
     `- 照片：${player.photoUrl || ""}`,
     `- 來源：${player.profileUrl || ""}`
-  ].filter(Boolean).join("\n"));
+  ].join("\n"));
 
   const videos = list(data.highlightVideos, (video) => [
     `- [${video.title || video.url}](${video.url || ""})`,
