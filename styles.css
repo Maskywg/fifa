@@ -472,13 +472,15 @@ h2 {
 
 .fan-brief-grid {
   display: grid;
-  grid-template-columns: minmax(320px, 0.86fr) minmax(0, 1.14fr);
+  grid-template-columns: minmax(0, 1.28fr) minmax(320px, 0.72fr);
   gap: 18px;
   align-items: start;
 }
 
 .fan-brief-media {
   display: block;
+  position: sticky;
+  top: 18px;
   overflow: hidden;
   border-radius: 8px;
   border: 1px solid rgba(0, 111, 255, 0.16);
@@ -491,6 +493,14 @@ h2 {
   width: 100%;
   aspect-ratio: 16 / 9;
   object-fit: cover;
+}
+
+.fan-brief-source {
+  display: block;
+  padding: 10px 12px;
+  color: #dcecff;
+  font-size: 0.82rem;
+  font-weight: 800;
 }
 
 .fan-brief-cards {
@@ -508,7 +518,7 @@ h2 {
 
 .fan-brief-card h3 {
   margin: 4px 0 10px;
-  font-size: 1.08rem;
+  font-size: 1.18rem;
 }
 
 .fan-brief-card p {

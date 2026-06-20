@@ -133,8 +133,9 @@ function renderFanBrief(brief) {
   const image = create("img", "");
   image.src = brief.coverImage;
   image.alt = brief.coverAlt || `${brief.source || "影片"}封面`;
-  image.loading = "lazy";
+  image.loading = "eager";
   media.append(image);
+  media.append(create("span", "fan-brief-source", `${brief.source || "影片"} 封面 / 開啟影片`));
 
   const cards = create("div", "fan-brief-cards");
   brief.items.forEach((item) => {
@@ -147,7 +148,7 @@ function renderFanBrief(brief) {
     cards.append(card);
   });
 
-  grid.append(media, cards);
+  grid.append(cards, media);
 }
 
 function renderWatchPoints(points) {
