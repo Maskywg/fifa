@@ -45,3 +45,18 @@ python3 -m http.server 8080
 ```
 
 再開啟 `http://localhost:8080`。
+
+## Obsidian 歸檔
+
+每日頁面內容會覆寫 `data/daily.json`，但已提交的舊版本仍保存在 Git 歷史裡。可用腳本把所有歷史版本匯出成 Obsidian Markdown：
+
+```bash
+node scripts/export-daily-archive.cjs "/Users/masky/Documents/2ndbrain/2ndbrain/FIFA Match Radar"
+```
+
+匯出規則：
+
+- 每個 `data/daily.json` commit 會產生一篇 Markdown。
+- 檔名和 frontmatter 都包含 `YYYY-MM-DD`，優先使用 `台灣時間` 的目標日期。
+- 筆記會依月份放在 `YYYY-MM/` 資料夾。
+- 同步產生 `FIFA Match Radar Archive Index.md`，方便在 Obsidian 裡瀏覽。
