@@ -111,6 +111,45 @@ function renderVideos(videos = []) {
   });
 }
 
+function renderFanBrief(brief) {
+  const section = document.querySelector("#fan-brief");
+  const note = document.querySelector("#fanBriefNote");
+  const grid = document.querySelector("#fanBriefGrid");
+  if (!section || !note || !grid) return;
+
+  if (!brief?.items?.length) {
+    section.hidden = true;
+    return;
+  }
+
+  section.hidden = false;
+  note.textContent = brief.note || "";
+  grid.innerHTML = "";
+
+  const media = create("a", "fan-brief-media");
+  media.href = brief.sourceUrl;
+  media.target = "_blank";
+  media.rel = "noreferrer";
+  const image = create("img", "");
+  image.src = brief.coverImage;
+  image.alt = brief.coverAlt || `${brief.source || "影片"}封面`;
+  image.loading = "lazy";
+  media.append(image);
+
+  const cards = create("div", "fan-brief-cards");
+  brief.items.forEach((item) => {
+    const card = create("article", "fan-brief-card");
+    card.append(create("p", "fan-brief-match", item.match));
+    card.append(create("h3", "", item.headline));
+    card.append(create("p", "", item.tactics));
+    card.append(create("p", "", item.stories));
+    card.append(create("p", "fan-brief-prediction", item.prediction));
+    cards.append(card);
+  });
+
+  grid.append(media, cards);
+}
+
 function renderWatchPoints(points) {
   const list = document.querySelector("#watchPoints");
   list.innerHTML = "";
@@ -135,6 +174,7 @@ function renderDaily(data) {
   text("#updatedAt", `Last updated ${new Date(data.publishedAt).toLocaleString("zh-TW", { timeZone: "Asia/Taipei" })}`);
   renderMatches(data.matches);
   renderVideos(data.highlightVideos);
+  renderFanBrief(data.fanBrief);
   renderPlayers(data.players);
   renderWatchPoints(data.watchPoints);
   renderSources(data);

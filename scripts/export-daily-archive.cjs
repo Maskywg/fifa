@@ -102,6 +102,20 @@ function renderDaily(data, meta) {
     `  - 說明：${video.description || ""}`
   ].join("\n"));
 
+  const fanBrief = data.fanBrief?.items?.length ? [
+    `來源：${data.fanBrief.source || ""} ${data.fanBrief.sourceUrl ? `(${data.fanBrief.sourceUrl})` : ""}`,
+    "",
+    data.fanBrief.note || "",
+    "",
+    ...data.fanBrief.items.map((item) => [
+      `### ${item.match || ""}`,
+      `- 焦點：${item.headline || ""}`,
+      `- 戰術：${item.tactics || ""}`,
+      `- 場外故事：${item.stories || ""}`,
+      `- 預測：${item.prediction || ""}`
+    ].join("\n\n"))
+  ].join("\n") : "_無資料_\n";
+
   const watchPoints = list(data.watchPoints, (point) => `- ${point}`);
   const sources = list(data.sources, (source) => `- [${source.label || source.url}](${source.url || ""})`);
 
@@ -131,6 +145,10 @@ function renderDaily(data, meta) {
     "## 精彩影片",
     "",
     videos,
+    "",
+    "## 場外焦點故事",
+    "",
+    fanBrief,
     "",
     "## 看球重點",
     "",

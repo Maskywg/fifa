@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-06-20T17:53:27+08:00",
+  "publishedAt": "2026-06-20T18:20:00+08:00",
   "targetDateLabel": "2026-06-21 台灣時間",
   "visualDate": "Jun 21",
   "summary": "明天台灣時間從凌晨 1:00 到中午 12:00 一共四場，主軸是 E、F 組第二輪。最值得看的是德國對象牙海岸：兩隊首戰都拿 3 分，勝方幾乎直接掌握 E 組出線節奏；荷蘭對瑞典則是星度最高的一戰，瑞典首戰 5 比 1 爆量進球後，要驗證這波火力是不是足以壓過荷蘭的控球和後場高度。",
@@ -207,6 +207,10 @@
       "url": "https://www.youtube.com/watch?v=5Ajm4MzkII4&list=PLDB8ct-UxVolHpjQ41rhG0sJB8Vsjcdjg"
     },
     {
+      "label": "老k足球新聞：四場賽前預測與場外故事",
+      "url": "https://www.youtube.com/watch?v=-bNOJiSwbyI"
+    },
+    {
       "label": "The Guardian：USA 2-0 Australia 即時戰報",
       "url": "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live"
     },
@@ -214,5 +218,43 @@
       "label": "The Guardian：Scotland 0-1 Morocco 即時戰報",
       "url": "https://www.theguardian.com/football/live/2026/jun/19/scotland-v-morocco-world-cup-2026-live"
     }
-  ]
+  ],
+  "fanBrief": {
+    "title": "場外焦點故事",
+    "source": "老k足球新聞",
+    "sourceUrl": "https://www.youtube.com/watch?v=-bNOJiSwbyI",
+    "note": "以下依使用者提供之老k足球新聞影片整理改寫，作為賽前補充與場外故事參考；涉及傳聞、私生活與預測的內容不視為本站正式查證結論。主圖為影片封面。",
+    "items": [
+      {
+        "match": "Netherlands vs Sweden",
+        "headline": "荷蘭防線退太深會被瑞典雙前鋒懲罰",
+        "tactics": "影片認為荷蘭中場選擇會影響破 5-3-2 的效率，Justin Kluivert 的技術特點可能比 Tijjani Reijnders 更適合撕開瑞典防線；瑞典在 Graham Potter 手下以 3-1-4-2 / 3-4-2-1 動態結構解放 Alexander Isak 與 Viktor Gyökeres。",
+        "stories": "Cody Gakpo 的信仰與隊內聖經小組、Yasin Ayari 對父親祖國突尼西亞進球後未慶祝、Rafael van der Vaart 涉及日本球員外貌的爭議言論，都是影片提到的場外話題。",
+        "prediction": "影片傾向這會是對攻戰，平手機率高，可能 1:1，或荷蘭 2:1 小勝。"
+      },
+      {
+        "match": "Germany vs Côte d'Ivoire",
+        "headline": "德國迎來第一場真正壓力測試",
+        "tactics": "德國主打 4-2-3-1，靠 Florian Wirtz 與 Jamal Musiala 在肋部雙輪驅動，並有高大中衛群帶來定位球優勢；象牙海岸則以防守紀律、邊路速度和 Franck Kessié 的中場對抗作為反擊核心。",
+        "stories": "影片提到 Julian Nagelsmann 與 Lena Wurzenberger 的婚姻及公關背景，另提到 Elye Wahi 捲入法國調查但經足協交涉後取得入境參賽許可。",
+        "prediction": "影片看好德國不敗，但認為象牙海岸有能力製造麻煩，比分可能落在 2:1、3:1 或 2:2。"
+      },
+      {
+        "match": "Tunisia vs Japan",
+        "headline": "世界盃第 1000 場，日本要把控球轉成勝勢",
+        "tactics": "影片稱這場具世界盃第 1000 場的歷史意義。突尼西亞首戰大敗後換帥，由 Hervé Renard 接手並可能改打四後衛；日本在久保建英缺陣下，將更依賴伊東純也、前田大然、上田綺世等人的邊路和肋部衝擊。",
+        "stories": "影片提到森保一與 Harry Kane 合影引發對大中鋒想像，也提到田中碧與鈴木愛理遠距離戀愛分手的傳聞。",
+        "prediction": "影片主軸是日本必須主動搶三分，但突尼西亞換帥後可能以情緒與國家榮譽感拉高比賽強度。"
+      },
+      {
+        "match": "Ecuador vs Curaçao",
+        "headline": "厄瓜多必須搶淨勝球，庫拉索先求站穩",
+        "tactics": "影片把庫拉索定位成本屆最小參賽國、姿態低且親民；厄瓜多則以 Moisés Caicedo 為黃金一代核心，主打高壓反搶與邊路提速，因末輪要碰德國，本場必須盡快拉開比分。",
+        "stories": "Willian Pacho 固定穿 51 號紀念母親，Caicedo 早年差點加盟曼聯卻因轉會金差額未成，是影片提到最有記憶點的兩個場外故事。",
+        "prediction": "影片極度看好厄瓜多至少贏兩球，可能 2:0 或 3:0。"
+      }
+    ],
+    "coverImage": "assets/video-stills/oldk-fifa-preview.jpg",
+    "coverAlt": "老k足球新聞世界盃賽前預測影片封面"
+  }
 }
