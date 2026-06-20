@@ -24,25 +24,25 @@ function renderMatches(matches) {
   const grid = document.querySelector("#matchGrid");
   grid.innerHTML = "";
 
-  matches.forEach((match) => {
+  matches.forEach(({ priority, group, time, home, away, headline, venue, analysis, tags = [] }) => {
     const card = create("article", "match-card");
     const meta = create("div", "match-meta");
-    meta.append(create("span", "priority", match.priority));
-    meta.append(create("span", "", `${match.group} · ${match.time}`));
+    meta.append(create("span", "priority", priority));
+    meta.append(create("span", "", `${group} · ${time}`));
 
     const teams = create("div", "teams");
-    teams.append(create("span", "team-home", match.home));
+    teams.append(create("span", "team-home", home));
     teams.append(create("span", "", "vs"));
-    teams.append(create("span", "team-away", match.away));
+    teams.append(create("span", "team-away", away));
 
-    const headline = create("h3", "", match.headline);
-    const analysis = create("p", "card-copy", match.analysis);
-    const tags = create("div", "tag-row");
+    const headlineNode = create("h3", "", headline);
+    const analysisNode = create("p", "card-copy", analysis);
+    const tagsNode = create("div", "tag-row");
 
-    match.tags.forEach((tag) => tags.append(create("span", "tag", tag)));
-    card.append(meta, teams, headline);
-    if (match.venue) card.append(create("p", "card-copy", match.venue));
-    card.append(analysis, tags);
+    tags.forEach((tag) => tagsNode.append(create("span", "tag", tag)));
+    card.append(meta, teams, headlineNode);
+    if (venue) card.append(create("p", "card-copy", venue));
+    card.append(analysisNode, tagsNode);
     grid.append(card);
   });
 }
