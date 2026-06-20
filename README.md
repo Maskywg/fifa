@@ -51,7 +51,7 @@ python3 -m http.server 8080
 每日頁面內容會覆寫 `data/daily.json`，但已提交的舊版本仍保存在 Git 歷史裡。可用腳本把所有歷史版本匯出成 Obsidian Markdown：
 
 ```bash
-node scripts/export-daily-archive.cjs "/Users/masky/Documents/2ndbrain/2ndbrain/FIFA Match Radar"
+node scripts/export-daily-archive.cjs "/Users/masky/Library/CloudStorage/GoogleDrive-maskywg@gmail.com/我的雲端硬碟/2ndbrain/2ndbrain/知識庫/FIFA世界盃賽程雷達"
 ```
 
 匯出規則：
