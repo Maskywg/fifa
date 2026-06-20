@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-06-20T11:21:03+08:00",
+  "publishedAt": "2026-06-20T17:40:31+08:00",
   "targetDateLabel": "2026-06-21 台灣時間",
   "visualDate": "Jun 21",
   "summary": "明天台灣時間從凌晨 1:00 到中午 12:00 一共四場，主軸是 E、F 組第二輪。最值得看的是德國對象牙海岸：兩隊首戰都拿 3 分，勝方幾乎直接掌握 E 組出線節奏；荷蘭對瑞典則是星度最高的一戰，瑞典首戰 5 比 1 爆量進球後，要驗證這波火力是不是足以壓過荷蘭的控球和後場高度。",
@@ -88,7 +88,8 @@
       "currentClub": "Bayern Munich",
       "photoUrl": "assets/players/jamal-musiala.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Jamal_Musiala",
-      "note": "德國最能在狹小空間轉身、打破低位防守的球員。象牙海岸若無法限制他在肋部接球，德國會很快製造連續射門。"
+      "note": "德國最能在狹小空間轉身、打破低位防守的球員。象牙海岸若無法限制他在肋部接球，德國會很快製造連續射門。",
+      "sideStory": "老k足球新聞賽前影片把德國對象牙海岸列入預測場次，適合當作賽前小道觀點補充；未核實傳聞不列為正式消息。"
     },
     {
       "name": "Serhou Guirassy",
@@ -96,7 +97,8 @@
       "currentClub": "Borussia Dortmund",
       "photoUrl": "assets/players/serhou-guirassy.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Serhou_Guirassy",
-      "note": "象牙海岸面對德國最需要的前場支點。只要他能撐住第一下身體對抗，球隊才有機會把反擊從解圍變成真正推進。"
+      "note": "象牙海岸面對德國最需要的前場支點。只要他能撐住第一下身體對抗，球隊才有機會把反擊從解圍變成真正推進。",
+      "sideStory": "德國對象牙海岸同樣出現在老k足球新聞賽前預測影片，可作為觀賽前的民間討論入口；內容以參考為主。"
     },
     {
       "name": "Moisés Caicedo",
@@ -104,7 +106,8 @@
       "currentClub": "Chelsea",
       "photoUrl": "assets/players/moises-caicedo.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Mois%C3%A9s_Caicedo",
-      "note": "厄瓜多中場的節奏與防守保險。首戰輸球後，這場他必須把二點球和轉守為攻的第一腳拿穩。"
+      "note": "厄瓜多中場的節奏與防守保險。首戰輸球後，這場他必須把二點球和轉守為攻的第一腳拿穩。",
+      "sideStory": "影片也討論厄瓜多對庫拉索，適合補看賽前預測與盤外聲量；球員狀態仍以官方與主流報導為準。"
     },
     {
       "name": "Juninho Bacuna",
@@ -112,7 +115,8 @@
       "currentClub": "Birmingham City",
       "photoUrl": "assets/players/juninho-bacuna.jpeg",
       "profileUrl": "https://en.wikipedia.org/wiki/Juninho_Bacuna",
-      "note": "庫拉索在中前場最需要經驗和定位球品質的人。對厄瓜多如果要止血，他的持球判斷會比冒進壓上更重要。"
+      "note": "庫拉索在中前場最需要經驗和定位球品質的人。對厄瓜多如果要止血，他的持球判斷會比冒進壓上更重要。",
+      "sideStory": "厄瓜多對庫拉索在老k足球新聞賽前影片裡被列為預測場次，可作為小道觀點參考，不視為確認消息。"
     },
     {
       "name": "Virgil van Dijk",
@@ -120,7 +124,8 @@
       "currentClub": "Liverpool",
       "photoUrl": "assets/players/virgil-van-dijk.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Virgil_van_Dijk",
-      "note": "荷蘭後防面對瑞典雙前鋒的核心保險。這場要看他能否把 Gyökeres 和 Isak 的縱深跑動提早切斷。"
+      "note": "荷蘭後防面對瑞典雙前鋒的核心保險。這場要看他能否把 Gyökeres 和 Isak 的縱深跑動提早切斷。",
+      "sideStory": "老k足球新聞把荷蘭對瑞典列為賽前預測主題之一，賽前可以補看民間觀點，但不把小道消息當成已證實新聞。"
     },
     {
       "name": "Viktor Gyökeres",
@@ -128,7 +133,8 @@
       "currentClub": "Arsenal",
       "photoUrl": "assets/players/viktor-gyokeres.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
-      "note": "瑞典首戰大勝後最具威脅的前場箭頭。只要荷蘭防線壓太高，他的衝刺和背身處理都會放大比賽空間。"
+      "note": "瑞典首戰大勝後最具威脅的前場箭頭。只要荷蘭防線壓太高，他的衝刺和背身處理都會放大比賽空間。",
+      "sideStory": "荷蘭對瑞典是該影片預測標題中的焦點戰，Gyökeres 的火力自然會成為留言區與賽前討論焦點。"
     },
     {
       "name": "Takefusa Kubo",
@@ -136,7 +142,8 @@
       "currentClub": "Real Sociedad",
       "photoUrl": "assets/players/takefusa-kubo.png",
       "profileUrl": "https://en.wikipedia.org/wiki/Takefusa_Kubo",
-      "note": "日本在右路與肋部最有創造力的持球點。面對突尼西亞，他需要把首戰逼和荷蘭的內容轉成更明確的最後一傳。"
+      "note": "日本在右路與肋部最有創造力的持球點。面對突尼西亞，他需要把首戰逼和荷蘭的內容轉成更明確的最後一傳。",
+      "sideStory": "突尼西亞對日本也在老k足球新聞賽前預測影片中，適合作為球迷討論與盤外觀點補充。"
     },
     {
       "name": "Kaoru Mitoma",
@@ -144,7 +151,8 @@
       "currentClub": "Brighton & Hove Albion",
       "photoUrl": "assets/players/kaoru-mitoma.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Kaoru_Mitoma",
-      "note": "日本左路最直接的一對一爆點。若突尼西亞邊後衛退得太深，日本就能靠他的突破把禁區前節奏打開。"
+      "note": "日本左路最直接的一對一爆點。若突尼西亞邊後衛退得太深，日本就能靠他的突破把禁區前節奏打開。",
+      "sideStory": "這支賽前預測影片涵蓋突尼西亞對日本，三笘薰的邊路對位可作為賽前延伸討論點。"
     },
     {
       "name": "Youssef Msakni",
@@ -152,7 +160,8 @@
       "currentClub": "Al-Arabi",
       "photoUrl": "assets/players/youssef-msakni.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Youssef_Msakni",
-      "note": "突尼西亞最需要老將在壓力下穩住第一腳。首戰大敗後，他的反擊選擇與定位球處理會直接影響球隊能否留在比賽裡。"
+      "note": "突尼西亞最需要老將在壓力下穩住第一腳。首戰大敗後，他的反擊選擇與定位球處理會直接影響球隊能否留在比賽裡。",
+      "sideStory": "老k足球新聞把突尼西亞對日本列入預測場次，Msakni 這類老將的經驗會是賽前討論裡容易被放大的看點。"
     }
   ],
   "watchPoints": [
@@ -189,6 +198,10 @@
     {
       "label": "ELTA Sports YouTube：Brazil 3-0 Haiti 精華",
       "url": "https://www.youtube.com/watch?v=5Ajm4MzkII4&list=PLDB8ct-UxVolHpjQ41rhG0sJB8Vsjcdjg"
+    },
+    {
+      "label": "老k足球新聞：06/21 四場賽前預測與小道討論",
+      "url": "https://www.youtube.com/watch?v=-bNOJiSwbyI"
     },
     {
       "label": "The Guardian：USA 2-0 Australia 即時戰報",
