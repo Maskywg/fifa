@@ -1,11 +1,18 @@
 {
-  "publishedAt": "2026-06-21T09:04:08+08:00",
+  "publishedAt": "2026-06-21T14:34:35+08:00",
   "targetDateLabel": "2026-06-22 台灣時間",
   "visualDate": "Jun 22",
   "summary": "明天台灣時間從 00:00 到 09:00 一共四場，主軸是 G、H 組第二輪。最值得看的是 Spain vs Saudi Arabia：西班牙首戰被維德角逼成 0 比 0，已經不能只靠控球漂亮；沙烏地首戰 1 比 1 逼和烏拉圭，若再拿分，H 組會從紙面強弱變成真正混戰。",
   "dailyAngle": "這一天的看球重點是兩個小組都還沒有球隊拉開。H 組四隊首戰全平，西班牙與烏拉圭雖然星度最高，但都需要把場面優勢轉成進球；G 組同樣四隊各 1 分，比利時要面對伊朗的低位與反擊，埃及則看 Salah 能不能帶隊拿到世界盃久違勝利。",
   "sourceNote": "賽程、場地與分組架構以 FIFA World Cup 26 官方賽程與積分頁為主；開球時間以 SB Nation 賽程頁所列美東時間換算為 Asia/Taipei。本頁鎖定台灣時間 2026-06-22 00:00 至 23:59 的賽事，因此對應官方當地日期 2026-06-21 的四場 G/H 組第二輪。",
   "highlightVideos": [
+    {
+      "title": "Japan 4-0 Tunisia：Kamada 開局、Ueda 雙響、Junya Ito 破門",
+      "source": "The Sun match clips",
+      "player": "Daichi Kamada / Ayase Ueda / Junya Ito",
+      "description": "日本在世界盃第 1000 場比賽 4 比 0 擊敗突尼西亞。The Sun 賽後頁整理 Kamada 4 分鐘開局、Ueda 31 與 84 分鐘雙響、Junya Ito 69 分鐘進球；目前未找到可確認官方或愛爾達 YouTube 精華，先保留可外開播放的媒體頁。",
+      "url": "https://www.thesun.co.uk/sport/39486996/world-cup-2026-japan-tunisia/"
+    },
     {
       "title": "Netherlands 5-1 Sweden：Brobbey、Gakpo 各進兩球",
       "source": "The Guardian / Houston Chronicle",
@@ -233,6 +240,10 @@
     {
       "label": "Bavarian Football Works：Germany vs Côte d'Ivoire 賽後分析",
       "url": "https://www.bavarianfootballworks.com/fifa-world-cup/219089/match-analysis-observations-world-cup-germany-ivory-coast"
+    },
+    {
+      "label": "The Sun：Tunisia 0-4 Japan 賽後與進球片段",
+      "url": "https://www.thesun.co.uk/sport/39486996/world-cup-2026-japan-tunisia/"
     }
   ]
 }
