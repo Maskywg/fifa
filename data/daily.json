@@ -1,181 +1,189 @@
 {
-  "publishedAt": "2026-06-20T18:20:00+08:00",
-  "targetDateLabel": "2026-06-21 台灣時間",
-  "visualDate": "Jun 21",
-  "summary": "明天台灣時間從凌晨 1:00 到中午 12:00 一共四場，主軸是 E、F 組第二輪。最值得看的是德國對象牙海岸：兩隊首戰都拿 3 分，勝方幾乎直接掌握 E 組出線節奏；荷蘭對瑞典則是星度最高的一戰，瑞典首戰 5 比 1 爆量進球後，要驗證這波火力是不是足以壓過荷蘭的控球和後場高度。",
-  "dailyAngle": "這一天的看球重點是第二輪的分組分水嶺。E 組有兩場同日連動：德國與象牙海岸爭第一，厄瓜多和庫拉索則都不能再輸；F 組則是一邊看瑞典能否延續開幕戰大勝氣勢，一邊看日本能否把首戰逼和荷蘭的內容轉成對突尼西亞的三分。",
-  "sourceNote": "賽程、場地與分組架構以 FIFA World Cup 26 官方賽程與積分頁為主；因 FIFA 頁面在本環境以動態內容載入，具體開球時間、比分與積分以 2026-06-20 台灣時間上午可讀之 SB Nation、Guardian、Houston Chronicle 等主流媒體頁面交叉整理。本頁以台灣時間 2026-06-21 00:00 至 23:59 的賽事為準。",
+  "publishedAt": "2026-06-21T09:04:08+08:00",
+  "targetDateLabel": "2026-06-22 台灣時間",
+  "visualDate": "Jun 22",
+  "summary": "明天台灣時間從 00:00 到 09:00 一共四場，主軸是 G、H 組第二輪。最值得看的是 Spain vs Saudi Arabia：西班牙首戰被維德角逼成 0 比 0，已經不能只靠控球漂亮；沙烏地首戰 1 比 1 逼和烏拉圭，若再拿分，H 組會從紙面強弱變成真正混戰。",
+  "dailyAngle": "這一天的看球重點是兩個小組都還沒有球隊拉開。H 組四隊首戰全平，西班牙與烏拉圭雖然星度最高，但都需要把場面優勢轉成進球；G 組同樣四隊各 1 分，比利時要面對伊朗的低位與反擊，埃及則看 Salah 能不能帶隊拿到世界盃久違勝利。",
+  "sourceNote": "賽程、場地與分組架構以 FIFA World Cup 26 官方賽程與積分頁為主；開球時間以 SB Nation 賽程頁所列美東時間換算為 Asia/Taipei。本頁鎖定台灣時間 2026-06-22 00:00 至 23:59 的賽事，因此對應官方當地日期 2026-06-21 的四場 G/H 組第二輪。",
   "highlightVideos": [
     {
-      "title": "Brazil 3-0 Haiti：Cunha 雙響、Vinicius 補時破門",
-      "source": "ELTA Sports YouTube",
-      "player": "Matheus Cunha / Vinicius Junior",
-      "description": "愛爾達體育上架的巴西 3 比 0 海地精華，Cunha 梅開二度，Vinicius 補時破門。",
-      "url": "https://www.youtube.com/watch?v=5Ajm4MzkII4&list=PLDB8ct-UxVolHpjQ41rhG0sJB8Vsjcdjg"
+      "title": "Netherlands 5-1 Sweden：Brobbey、Gakpo 各進兩球",
+      "source": "The Guardian / Houston Chronicle",
+      "player": "Brian Brobbey / Cody Gakpo",
+      "description": "前一賽日最爆量的進球回看。未找到可確認嵌入的 FIFA 或 ELTA 官方精華，先保留可外開戰報連結，追蹤 Brobbey 開局雙響與 Gakpo 下半場連進兩球。",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live"
     },
     {
-      "title": "USA 2-0 Australia：Alex Freeman 破門與美國提前晉級回看",
-      "source": "The Guardian live report",
-      "player": "Alex Freeman",
-      "description": "目前未找到可確認可嵌入的官方精華，先保留 Guardian 即時戰報外開連結，回看美國 2 比 0 澳洲與 Freeman 進球脈絡。",
-      "url": "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live"
+      "title": "Germany 2-1 Côte d'Ivoire：Undav 替補雙響逆轉",
+      "source": "The Guardian / Bavarian Football Works",
+      "player": "Deniz Undav",
+      "description": "德國靠 Undav 68 分鐘與補時進球逆轉，提前確保淘汰賽席位。可嵌入官方影片未確認，保留外開戰報與分析入口。",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live"
     },
     {
-      "title": "Scotland 0-1 Morocco：Ismael Saibari 71 秒閃擊",
-      "source": "The Guardian live report",
-      "player": "Ismael Saibari",
-      "description": "Saibari 開賽 71 秒進球是前一日最值得回看的關鍵片段；可嵌入影片未確認，暫以外開戰報連結保存。",
-      "url": "https://www.theguardian.com/football/live/2026/jun/19/scotland-v-morocco-world-cup-2026-live"
-    },
-    {
-      "title": "Netherlands vs Sweden 賽前焦點：Gyökeres、Isak 與 Ayari 火力線",
+      "title": "Netherlands 5-1 Sweden：Houston Chronicle 賽後重點",
       "source": "Houston Chronicle",
-      "player": "Viktor Gyökeres",
-      "description": "補看瑞典首戰 5 比 1 後的攻擊線背景與荷蘭賽前看點，作為明天 F 組強強對話的影片/報導入口。",
-      "url": "https://www.houstonchronicle.com/world-cup/article/sweden-netherlands-preview-world-cup-22312449.php"
+      "player": "Brian Brobbey / Cody Gakpo / Crysencio Summerville",
+      "description": "補看荷蘭如何靠邊路與前場衝擊打穿瑞典，作為隔天 G/H 組觀看前的前日進球回顧。",
+      "url": "https://www.houstonchronicle.com/world-cup/article/netherlands-sweden-score-clockwork-orange-22313400.php"
+    },
+    {
+      "title": "Germany 2-1 Côte d'Ivoire：換人如何改變比賽",
+      "source": "Bavarian Football Works",
+      "player": "Deniz Undav / Nadiem Amiri / Jamie Leweling",
+      "description": "從德國換人與節奏調整角度回看前日關鍵逆轉。此連結為外開分析，不是嵌入影片。",
+      "url": "https://www.bavarianfootballworks.com/fifa-world-cup/219089/match-analysis-observations-world-cup-germany-ivory-coast"
     }
   ],
   "matches": [
     {
       "priority": "第 1 場",
-      "group": "Group E",
-      "time": "台灣 06/21 04:00",
-      "venue": "Toronto Stadium，多倫多",
-      "home": "Germany",
-      "away": "Côte d'Ivoire",
-      "headline": "兩支首戰贏球球隊正面對撞，E 組第一主導權先決出",
-      "analysis": "德國首戰 7 比 1 大勝庫拉索，進球差已經把自己推到 E 組最有利的位置；象牙海岸則靠 1 比 0 擊敗厄瓜多拿到同樣重要的 3 分。這場不是單純看德國能不能繼續大比分，而是看象牙海岸能否用身體對抗和轉換速度，把德國前場壓迫後留下的空間變成真正威脅。德國若讓 Musiala 和 Wirtz 類型的肋部持球者順利轉身，會很快把比賽壓進象牙海岸禁區；象牙海岸則需要 Guirassy 或前場支點把第一波反擊留住，否則會長時間被迫退守。",
+      "group": "Group H",
+      "time": "台灣 06/22 00:00",
+      "venue": "Atlanta Stadium，亞特蘭大",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "headline": "西班牙首戰被逼平後不能再只贏場面，沙烏地有機會把 H 組攪成混戰",
+      "analysis": "西班牙首戰 0 比 0 踢平維德角，控球和陣地壓迫不等於三分，這場必須更早把 Lamine Yamal 與 Pedri 的肋部連線送進禁區。沙烏地首戰 1 比 1 逼和烏拉圭，代表他們不是只靠退守拖時間；Al-Dawsari 的反擊第一腳與禁區外決策會讓西班牙後場承壓。若西班牙先進球，比賽可能變成一面倒；若拖到下半場還沒破門，H 組最大熱門會背上很重的心理壓力。",
       "tags": [
-        "E 組龍頭戰",
-        "德國火力驗證",
-        "象牙海岸轉換反擊"
+        "H 組第一焦點",
+        "西班牙破低位",
+        "沙烏地反擊"
       ]
     },
     {
       "priority": "第 2 場",
-      "group": "Group F",
-      "time": "台灣 06/21 01:00",
-      "venue": "Houston Stadium，休士頓",
-      "home": "Netherlands",
-      "away": "Sweden",
-      "headline": "瑞典首戰 5 球後遇上荷蘭，F 組星度最高的一場",
-      "analysis": "瑞典首戰 5 比 1 擊敗突尼西亞，Gyökeres、Isak、Ayari、Svanberg 都打出存在感；荷蘭則與日本 2 比 2，內容有控球和個人能力，但防線轉身與中場保護仍留下疑問。這場看點是 Van Dijk 領銜的荷蘭後防能不能壓住瑞典雙前鋒的縱深跑動，以及荷蘭中場能否讓 De Jong 的節奏控制變成禁區前的有效進攻。若瑞典先進球，荷蘭會被迫打得更開，這可能讓比賽變成全日最有娛樂性的對攻。",
+      "group": "Group G",
+      "time": "台灣 06/22 03:00",
+      "venue": "Los Angeles Stadium，洛杉磯",
+      "home": "Belgium",
+      "away": "IR Iran",
+      "headline": "比利時少了 Doku 速度點，De Bruyne 要破解伊朗低位與轉換",
+      "analysis": "G 組首輪兩場都平手，比利時 1 比 1 埃及、伊朗 2 比 2 紐西蘭，因此這場勝方會立刻拿到小組主導權。比利時的問題是 Doku 據報因病缺席，少一個可以直接撕開邊路的爆點，De Bruyne 的傳球節奏和 Tielemans 類型的中場推進會更重要。伊朗則仍會把比賽切成較低節奏，靠 Taremi 的背身、門前嗅覺與定位球後點尋找機會。",
       "tags": [
-        "F 組強強對話",
-        "瑞典火力",
-        "荷蘭後防壓力"
+        "G 組主導權",
+        "Doku 缺陣變數",
+        "伊朗低位反擊"
       ]
     },
     {
       "priority": "第 3 場",
-      "group": "Group F",
-      "time": "台灣 06/21 12:00",
-      "venue": "Estadio Monterrey，蒙特雷",
-      "home": "Tunisia",
-      "away": "Japan",
-      "headline": "日本首戰逼和荷蘭後，要把內容兌現成三分",
-      "analysis": "日本首戰 2 比 2 踢平荷蘭，代表他們的壓迫、邊路推進與中前場連動足以和強隊對抗；突尼西亞則被瑞典 5 比 1 重擊，第二輪已經沒有太多容錯。日本這場關鍵在於 Kubo 與 Mitoma 能否更早把一對一優勢打到禁區內，避免只有外圍控球；突尼西亞則需要 Msakni 這類老將在反擊第一腳和定位球前後做出更冷靜的決定。若日本先拿到領先，F 組第三輪會變得非常有趣。",
+      "group": "Group H",
+      "time": "台灣 06/22 06:00",
+      "venue": "Miami Stadium，邁阿密",
+      "home": "Uruguay",
+      "away": "Cabo Verde",
+      "headline": "烏拉圭需要 Valverde 把強度轉成進球，維德角證明首戰逼平西班牙不是偶然",
+      "analysis": "烏拉圭首戰 1 比 1 沙烏地，紙面強度沒有完全兌現；維德角首戰 0 比 0 守住西班牙，已經證明這支世界盃新軍的紀律不是故事而已。這場看 Valverde 能不能在中場把二點球、遠射威脅和前壓節奏串起來，也看 Núñez 是否能把肢體優勢轉成禁區內真正的射門品質。維德角若能靠 Ryan Mendes 留住反擊第一下，烏拉圭會很難舒服地壓上。",
       "tags": [
-        "日本搶三分",
-        "突尼西亞止血",
-        "邊路一對一"
+        "H 組出線壓力",
+        "烏拉圭中場強度",
+        "維德角童話延續"
       ]
     },
     {
       "priority": "第 4 場",
-      "group": "Group E",
-      "time": "台灣 06/21 09:00",
-      "venue": "Kansas City Stadium，堪薩斯城",
-      "home": "Ecuador",
-      "away": "Curaçao",
-      "headline": "兩支首戰輸球球隊的生存戰，厄瓜多不能讓庫拉索重燃希望",
-      "analysis": "厄瓜多首戰 0 比 1 輸給象牙海岸，問題不在完全沒有對抗能力，而是最後一擊與禁區前決策不夠乾淨；庫拉索則被德國 7 比 1 打穿，第二輪若再大敗，出線形勢會非常困難。厄瓜多需要 Caicedo 在中場把節奏和二點球拿回來，讓進攻不用每次都從後場重新堆疊；庫拉索則要靠 Bacuna 的經驗與定位球，盡量把比賽切成更零碎的回合。這場星度不高，但積分壓力很直接。",
+      "group": "Group G",
+      "time": "台灣 06/22 09:00",
+      "venue": "BC Place Vancouver，溫哥華",
+      "home": "New Zealand",
+      "away": "Egypt",
+      "headline": "Salah 對上 Chris Wood，G 組最直接的中鋒與邊鋒效率考題",
+      "analysis": "紐西蘭首戰 2 比 2 伊朗，埃及首戰 1 比 1 比利時，兩隊都知道第二輪拿三分就能把第三輪壓力大幅降低。紐西蘭需要 Chris Wood 在禁區內把傳中和定位球變成高品質射門，並靠身體對抗把 Egypt 的中衛線往後壓；埃及則一切仍從 Salah 開始，他若能在右路吸引包夾後把球送到 Marmoush 或禁區弱側，埃及就有機會拿到他們期待很久的世界盃關鍵勝利。",
       "tags": [
-        "0 分生存戰",
-        "Caicedo 中場控制",
-        "庫拉索防線修正"
+        "G 組搶三分",
+        "Salah 最後世界盃線",
+        "Wood 禁區支點"
       ]
     }
   ],
   "players": [
     {
-      "name": "Jamal Musiala",
-      "team": "Germany",
-      "currentClub": "Bayern Munich",
-      "photoUrl": "assets/players/jamal-musiala.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Jamal_Musiala",
-      "note": "德國最能在狹小空間轉身、打破低位防守的球員。象牙海岸若無法限制他在肋部接球，德國會很快製造連續射門。"
+      "name": "Lamine Yamal",
+      "team": "Spain",
+      "currentClub": "Barcelona",
+      "photoUrl": "assets/players/lamine-yamal.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Lamine_Yamal",
+      "note": "西班牙最能用一對一和斜向內切製造破口的右路核心。面對沙烏地低位，他的第一腳突破會決定西班牙能否早早打開局面。"
     },
     {
-      "name": "Serhou Guirassy",
-      "team": "Côte d'Ivoire",
-      "currentClub": "Borussia Dortmund",
-      "photoUrl": "assets/players/serhou-guirassy.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Serhou_Guirassy",
-      "note": "象牙海岸面對德國最需要的前場支點。只要他能撐住第一下身體對抗，球隊才有機會把反擊從解圍變成真正推進。"
+      "name": "Pedri",
+      "team": "Spain",
+      "currentClub": "Barcelona",
+      "photoUrl": "assets/players/pedri.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Pedri",
+      "note": "西班牙禁區前最需要冷靜處理球的人。若只是橫向傳導，沙烏地會越守越有信心；Pedri 要把節奏變化送進肋部。"
     },
     {
-      "name": "Moisés Caicedo",
-      "team": "Ecuador",
-      "currentClub": "Chelsea",
-      "photoUrl": "assets/players/moises-caicedo.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Mois%C3%A9s_Caicedo",
-      "note": "厄瓜多中場的節奏與防守保險。首戰輸球後，這場他必須把二點球和轉守為攻的第一腳拿穩。"
+      "name": "Salem Al-Dawsari",
+      "team": "Saudi Arabia",
+      "currentClub": "Al-Hilal",
+      "photoUrl": "assets/players/salem-al-dawsari.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Salem_Al-Dawsari",
+      "note": "沙烏地最有大賽記憶點的邊路攻擊手。面對西班牙，他不需要很多球權，只要幾次轉換就可能改變比賽情緒。"
     },
     {
-      "name": "Juninho Bacuna",
-      "team": "Curaçao",
-      "currentClub": "Birmingham City",
-      "photoUrl": "assets/players/juninho-bacuna.jpeg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Juninho_Bacuna",
-      "note": "庫拉索在中前場最需要經驗和定位球品質的人。對厄瓜多如果要止血，他的持球判斷會比冒進壓上更重要。"
+      "name": "Kevin De Bruyne",
+      "team": "Belgium",
+      "currentClub": "Napoli",
+      "photoUrl": "assets/players/kevin-de-bruyne.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+      "note": "比利時少了邊路爆點時，最需要他用傳球角度打穿伊朗防線。這場不是看長傳漂亮，而是看能否讓禁區前出現乾淨射門。"
     },
     {
-      "name": "Virgil van Dijk",
-      "team": "Netherlands",
-      "currentClub": "Liverpool",
-      "photoUrl": "assets/players/virgil-van-dijk.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Virgil_van_Dijk",
-      "note": "荷蘭後防面對瑞典雙前鋒的核心保險。這場要看他能否把 Gyökeres 和 Isak 的縱深跑動提早切斷。"
+      "name": "Mehdi Taremi",
+      "team": "IR Iran",
+      "currentClub": "Olympiacos",
+      "photoUrl": "assets/players/mehdi-taremi.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Mehdi_Taremi",
+      "note": "伊朗最可靠的前場收尾與支點。若球隊長時間防守，他要把少數反擊從解圍變成能威脅比利時球門的攻勢。"
     },
     {
-      "name": "Viktor Gyökeres",
-      "team": "Sweden",
-      "currentClub": "Arsenal",
-      "photoUrl": "assets/players/viktor-gyokeres.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
-      "note": "瑞典首戰大勝後最具威脅的前場箭頭。只要荷蘭防線壓太高，他的衝刺和背身處理都會放大比賽空間。"
+      "name": "Federico Valverde",
+      "team": "Uruguay",
+      "currentClub": "Real Madrid",
+      "photoUrl": "assets/players/federico-valverde.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Federico_Valverde",
+      "note": "烏拉圭中場強度、遠射和轉守為攻的核心。面對維德角，他必須把高壓搶回來的球轉成更直接的禁區威脅。"
     },
     {
-      "name": "Takefusa Kubo",
-      "team": "Japan",
-      "currentClub": "Real Sociedad",
-      "photoUrl": "assets/players/takefusa-kubo.png",
-      "profileUrl": "https://en.wikipedia.org/wiki/Takefusa_Kubo",
-      "note": "日本在右路與肋部最有創造力的持球點。面對突尼西亞，他需要把首戰逼和荷蘭的內容轉成更明確的最後一傳。"
+      "name": "Darwin Núñez",
+      "team": "Uruguay",
+      "currentClub": "Al-Hilal",
+      "photoUrl": "assets/players/darwin-nunez.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Darwin_N%C3%BA%C3%B1ez",
+      "note": "烏拉圭最能用速度和身體衝擊防線的前鋒。若他能把跑動時機和第一腳處理放穩，維德角防線會很難只靠人數守住。"
     },
     {
-      "name": "Kaoru Mitoma",
-      "team": "Japan",
-      "currentClub": "Brighton & Hove Albion",
-      "photoUrl": "assets/players/kaoru-mitoma.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Kaoru_Mitoma",
-      "note": "日本左路最直接的一對一爆點。若突尼西亞邊後衛退得太深，日本就能靠他的突破把禁區前節奏打開。"
+      "name": "Ryan Mendes",
+      "team": "Cabo Verde",
+      "currentClub": "Iğdır",
+      "photoUrl": "assets/players/ryan-mendes.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Ryan_Mendes",
+      "note": "維德角隊史最具代表性的攻擊老將之一。首戰守住西班牙後，這場需要他在反擊第一腳和定位球前後提供經驗。"
     },
     {
-      "name": "Youssef Msakni",
-      "team": "Tunisia",
-      "currentClub": "Al-Arabi",
-      "photoUrl": "assets/players/youssef-msakni.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Youssef_Msakni",
-      "note": "突尼西亞最需要老將在壓力下穩住第一腳。首戰大敗後，他的反擊選擇與定位球處理會直接影響球隊能否留在比賽裡。"
+      "name": "Chris Wood",
+      "team": "New Zealand",
+      "currentClub": "Nottingham Forest",
+      "photoUrl": "assets/players/chris-wood.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Chris_Wood_(footballer,_born_1991)",
+      "note": "紐西蘭禁區內最清楚的答案。對埃及只要能把傳中、二點球和定位球變成射門，紐西蘭就有搶三分的現實路徑。"
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "Egypt",
+      "currentClub": "自由球員",
+      "photoUrl": "assets/players/mohamed-salah.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Mohamed_Salah",
+      "note": "埃及的進攻重心和情緒核心。FourFourTwo 將這屆定位為他可能的最後一屆世界盃，對紐西蘭就是最該把期待轉成勝利的一場。"
     }
   ],
   "watchPoints": [
-    "先看 Germany vs Côte d'Ivoire：兩隊首戰都拿 3 分，勝方幾乎把 E 組第一主導權握在手上，也是明天積分價值最高的一戰。",
-    "Netherlands vs Sweden 是星度最高的一場：瑞典首戰 5 球後信心正高，荷蘭若再只拿 1 分，第三輪壓力會明顯升高。",
-    "Japan vs Tunisia 要看日本能否把內容變結果：首戰逼和荷蘭很漂亮，但面對突尼西亞這種必須贏的對手，三分才是重點。",
-    "Ecuador vs Curaçao 是典型 0 分生存戰：厄瓜多不能只控住中場卻沒進球，庫拉索則要證明被德國打穿不是整屆賽事的基調。"
+    "先看 Spain vs Saudi Arabia：西班牙首戰只拿 1 分，若再被拖住，H 組會立刻變成四隊混戰。",
+    "Belgium vs IR Iran 的關鍵是比利時少了 Doku 後還能不能製造寬度；伊朗只要守到下半場，Taremi 的一兩次機會就會被放大。",
+    "Uruguay vs Cabo Verde 要看維德角是不是能連續兩場守住強隊。烏拉圭不能只靠硬度，必須把 Valverde 的推進轉成禁區內效率。",
+    "New Zealand vs Egypt 是 G 組最直接的效率考：Wood 的禁區支點對 Salah 的邊路創造，誰先進球誰就能把對手逼出舒適區。"
   ],
   "sources": [
     {
@@ -195,66 +203,36 @@
       "url": "https://www.sbnation.com/soccer/1117905/world-cup-standings-updated-full-list-of-teams"
     },
     {
-      "label": "Bavarian Football Works：Germany vs Côte d'Ivoire 賽前分析",
-      "url": "https://www.bavarianfootballworks.com/germany-international-soccer/218624/2026-world-cup-group-stage-preview-germany-vs-ivory-coast"
+      "label": "Times of India：Belgium vs Iran 賽前 Doku 缺陣",
+      "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-blow-for-belgium-as-jeremy-doku-ruled-out-of-crucial-iran-clash-with-illness/articleshow/131882636.cms"
     },
     {
-      "label": "Houston Chronicle：Netherlands vs Sweden 賽前看點",
-      "url": "https://www.houstonchronicle.com/world-cup/article/sweden-netherlands-preview-world-cup-22312449.php"
+      "label": "The Guardian：Iran World Cup 背景與 Taremi 焦點",
+      "url": "https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal"
     },
     {
-      "label": "ELTA Sports YouTube：Brazil 3-0 Haiti 精華",
-      "url": "https://www.youtube.com/watch?v=5Ajm4MzkII4&list=PLDB8ct-UxVolHpjQ41rhG0sJB8Vsjcdjg"
+      "label": "The Guardian：Mohamed Salah 與埃及世界盃期待",
+      "url": "https://www.theguardian.com/football/2026/jun/14/mohamed-salah-has-eyes-of-a-nation-on-him-as-egypt-look-to-end-92-year-wait"
     },
     {
-      "label": "老k足球新聞：四場賽前預測與場外故事",
-      "url": "https://www.youtube.com/watch?v=-bNOJiSwbyI"
+      "label": "FourFourTwo：Egypt squad 與 Salah 最後世界盃脈絡",
+      "url": "https://www.fourfourtwo.com/team/egypt-world-cup-2026-squad"
     },
     {
-      "label": "The Guardian：USA 2-0 Australia 即時戰報",
-      "url": "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live"
+      "label": "The Guardian：Netherlands 5-1 Sweden 即時戰報",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live"
     },
     {
-      "label": "The Guardian：Scotland 0-1 Morocco 即時戰報",
-      "url": "https://www.theguardian.com/football/live/2026/jun/19/scotland-v-morocco-world-cup-2026-live"
+      "label": "The Guardian：Germany 2-1 Côte d'Ivoire 即時戰報",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live"
+    },
+    {
+      "label": "Houston Chronicle：Netherlands 5-1 Sweden 賽後報導",
+      "url": "https://www.houstonchronicle.com/world-cup/article/netherlands-sweden-score-clockwork-orange-22313400.php"
+    },
+    {
+      "label": "Bavarian Football Works：Germany vs Côte d'Ivoire 賽後分析",
+      "url": "https://www.bavarianfootballworks.com/fifa-world-cup/219089/match-analysis-observations-world-cup-germany-ivory-coast"
     }
-  ],
-  "fanBrief": {
-    "title": "場外焦點故事",
-    "source": "老k足球新聞",
-    "sourceUrl": "https://www.youtube.com/watch?v=-bNOJiSwbyI",
-    "note": "以下依使用者提供之老k足球新聞影片整理改寫，作為賽前補充與場外故事參考；涉及傳聞、私生活與預測的內容不視為本站正式查證結論。主圖為影片封面。",
-    "items": [
-      {
-        "match": "Netherlands vs Sweden",
-        "headline": "荷蘭防線退太深會被瑞典雙前鋒懲罰",
-        "tactics": "影片認為荷蘭中場選擇會影響破 5-3-2 的效率，Justin Kluivert 的技術特點可能比 Tijjani Reijnders 更適合撕開瑞典防線；瑞典在 Graham Potter 手下以 3-1-4-2 / 3-4-2-1 動態結構解放 Alexander Isak 與 Viktor Gyökeres。",
-        "stories": "Cody Gakpo 的信仰與隊內聖經小組、Yasin Ayari 對父親祖國突尼西亞進球後未慶祝、Rafael van der Vaart 涉及日本球員外貌的爭議言論，都是影片提到的場外話題。",
-        "prediction": "影片傾向這會是對攻戰，平手機率高，可能 1:1，或荷蘭 2:1 小勝。"
-      },
-      {
-        "match": "Germany vs Côte d'Ivoire",
-        "headline": "德國迎來第一場真正壓力測試",
-        "tactics": "德國主打 4-2-3-1，靠 Florian Wirtz 與 Jamal Musiala 在肋部雙輪驅動，並有高大中衛群帶來定位球優勢；象牙海岸則以防守紀律、邊路速度和 Franck Kessié 的中場對抗作為反擊核心。",
-        "stories": "影片提到 Julian Nagelsmann 與 Lena Wurzenberger 的婚姻及公關背景，另提到 Elye Wahi 捲入法國調查但經足協交涉後取得入境參賽許可。",
-        "prediction": "影片看好德國不敗，但認為象牙海岸有能力製造麻煩，比分可能落在 2:1、3:1 或 2:2。"
-      },
-      {
-        "match": "Tunisia vs Japan",
-        "headline": "世界盃第 1000 場，日本要把控球轉成勝勢",
-        "tactics": "影片稱這場具世界盃第 1000 場的歷史意義。突尼西亞首戰大敗後換帥，由 Hervé Renard 接手並可能改打四後衛；日本在久保建英缺陣下，將更依賴伊東純也、前田大然、上田綺世等人的邊路和肋部衝擊。",
-        "stories": "影片提到森保一與 Harry Kane 合影引發對大中鋒想像，也提到田中碧與鈴木愛理遠距離戀愛分手的傳聞。",
-        "prediction": "影片主軸是日本必須主動搶三分，但突尼西亞換帥後可能以情緒與國家榮譽感拉高比賽強度。"
-      },
-      {
-        "match": "Ecuador vs Curaçao",
-        "headline": "厄瓜多必須搶淨勝球，庫拉索先求站穩",
-        "tactics": "影片把庫拉索定位成本屆最小參賽國、姿態低且親民；厄瓜多則以 Moisés Caicedo 為黃金一代核心，主打高壓反搶與邊路提速，因末輪要碰德國，本場必須盡快拉開比分。",
-        "stories": "Willian Pacho 固定穿 51 號紀念母親，Caicedo 早年差點加盟曼聯卻因轉會金差額未成，是影片提到最有記憶點的兩個場外故事。",
-        "prediction": "影片極度看好厄瓜多至少贏兩球，可能 2:0 或 3:0。"
-      }
-    ],
-    "coverImage": "assets/video-stills/oldk-fifa-preview.jpg",
-    "coverAlt": "老k足球新聞世界盃賽前預測影片封面"
-  }
+  ]
 }
