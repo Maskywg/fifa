@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>⚽ 世界盃奪冠之鑰：頂級中場深度解析</title>
+<style>
+  :root {
+    --fifa-blue: #003f8a;
+    --fifa-gold: #c9a84c;
+    --fifa-light: #f5f7fa;
+    --fifa-white: #ffffff;
+    --fifa-gray: #e8edf3;
+    --text-dark: #1a2332;
+    --text-mid: #4a5568;
+    --accent-green: #1a6b3c;
+    --accent-red: #c0392b;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    background: var(--fifa-light);
+    color: var(--text-dark);
+    overflow-x: hidden;
+  }
+
+  /* ── Hero ── */
+  .hero {
+    background: linear-gradient(135deg, #003f8a 0%, #0055b3 40%, #1a6b3c 100%);
+    position: relative;
+    overflow: hidden;
+    padding: 60px 20px 80px;
+    text-align: center;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Ccircle cx='30' cy='30' r='28' stroke='rgba(255,255,255,0.06)' stroke-width='1'/%3E%3Cpath d='M30 2 L30 58 M2 30 L58 30 M8.5 8.5 L51.5 51.5 M51.5 8.5 L8.5 51.5' stroke='rgba(255,255,255,0.04)' stroke-width='1'/%3E%3C/g%3E%3C/svg%3E") repeat;
+    opacity: 0.6;
+  }
+  .hero-ball {
+    font-size: 80px;
+    line-height: 1;
+    margin-bottom: 16px;
+    animation: spin 8s linear infinite;
+    display: inline-block;
+  }
+  @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+  .hero h1 {
+    color: white;
+    font-size: clamp(22px, 4vw, 40px);
+    font-weight: 900;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+    position: relative;
+    text-shadow: 0 2px 20px rgba(0,0,0,0.3);
+  }
+  .hero-sub {
+    color: rgba(255,255,255,0.85);
+    font-size: 15px;
+    margin-top: 14px;
+    max-width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.7;
+    position: relative;
+  }
+  .hero-quote {
+    margin-top: 24px;
+    background: rgba(255,255,255,0.12);
+    border-left: 4px solid var(--fifa-gold);
+    padding: 14px 20px;
+    border-radius: 0 10px 10px 0;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgba(255,255,255,0.95);
+    font-style: italic;
+    font-size: 14px;
+    line-height: 1.7;
+    position: relative;
+  }
+
+  /* ── FIFA Badge Strip ── */
+  .badge-strip {
+    background: var(--fifa-gold);
+    padding: 10px 20px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: var(--fifa-blue);
+    text-transform: uppercase;
+  }
+
+  /* ── Filters ── */
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 30px 20px 10px;
+  }
+  .filter-btn {
+    padding: 8px 20px;
+    border-radius: 999px;
+    border: 2px solid var(--fifa-blue);
+    background: white;
+    color: var(--fifa-blue);
+    font-weight: 700;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .filter-btn:hover, .filter-btn.active {
+    background: var(--fifa-blue);
+    color: white;
+  }
+
+  /* ── Section Headers ── */
+  .section-header {
+    text-align: center;
+    padding: 40px 20px 10px;
+    position: relative;
+  }
+  .section-tag {
+    display: inline-block;
+    background: var(--fifa-gold);
+    color: var(--fifa-blue);
+    font-weight: 800;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 4px 14px;
+    border-radius: 999px;
+    margin-bottom: 10px;
+  }
+  .section-title {
+    font-size: clamp(18px, 3vw, 28px);
+    font-weight: 900;
+    color: var(--fifa-blue);
+  }
+
+  /* ── Player Grid ── */
+  .players-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 24px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 24px 40px;
+  }
+
+  /* ── Player Card ── */
+  .player-card {
+    background: white;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,63,138,0.08);
+    transition: all 0.3s cubic-bezier(0.34,1.56,0.64,1);
+    cursor: pointer;
+    border: 2px solid transparent;
+  }
+  .player-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 16px 40px rgba(0,63,138,0.18);
+    border-color: var(--fifa-gold);
+  }
+  .player-card.hidden { display: none; }
+
+  .card-img-wrap {
+    position: relative;
+    height: 220px;
+    overflow: hidden;
+    background: linear-gradient(135deg, var(--fifa-blue), #0077cc);
+  }
+  .card-img-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 20%;
+    transition: transform 0.4s;
+  }
+  .player-card:hover .card-img-wrap img { transform: scale(1.05); }
+
+  .card-flag {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    font-size: 28px;
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+  }
+  .card-number {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: var(--fifa-gold);
+    color: var(--fifa-blue);
+    font-weight: 900;
+    font-size: 13px;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .type-badge {
+    position: absolute;
+    bottom: 12px;
+    left: 12px;
+    padding: 4px 12px;
+    border-radius: 999px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+  }
+  .type-destroyer { background: #c0392b; color: white; }
+  .type-maestro { background: #2c3e50; color: white; }
+  .type-explosive { background: #1a6b3c; color: white; }
+  .type-legend { background: var(--fifa-gold); color: var(--fifa-blue); }
+
+  .card-body { padding: 18px; }
+  .player-name {
+    font-size: 19px;
+    font-weight: 900;
+    color: var(--fifa-blue);
+    line-height: 1.2;
+  }
+  .player-name-en {
+    font-size: 12px;
+    color: var(--text-mid);
+    font-weight: 500;
+    margin-bottom: 6px;
+  }
+  .club-info {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: var(--text-mid);
+    margin-bottom: 14px;
+  }
+  .club-info span { font-weight: 600; color: var(--fifa-blue); }
+
+  .strengths-label {
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--fifa-gold);
+    margin-bottom: 6px;
+  }
+  .strength-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 14px;
+  }
+  .strength-tag {
+    background: var(--fifa-gray);
+    color: var(--fifa-blue);
+    font-size: 11px;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 999px;
+  }
+
+  .desc {
+    font-size: 13px;
+    color: var(--text-mid);
+    line-height: 1.7;
+    margin-bottom: 16px;
+  }
+
+  /* ── Video Links ── */
+  .videos-section { border-top: 1px solid var(--fifa-gray); padding-top: 14px; }
+  .videos-label {
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--text-mid);
+    margin-bottom: 8px;
+  }
+  .video-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    background: var(--fifa-gray);
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--text-dark);
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    transition: all 0.2s;
+    line-height: 1.4;
+  }
+  .video-link:hover {
+    background: var(--fifa-blue);
+    color: white;
+  }
+  .video-link .play-icon {
+    width: 24px;
+    height: 24px;
+    background: #ff0000;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 10px;
+  }
+  .video-link:hover .play-icon { background: white; color: #ff0000; }
+
+  /* ── Tactical Table ── */
+  .table-section {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 24px 60px;
+  }
+  .tac-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,63,138,0.1);
+    background: white;
+  }
+  .tac-table thead tr { background: var(--fifa-blue); color: white; }
+  .tac-table th { padding: 14px 18px; font-size: 13px; font-weight: 700; text-align: left; }
+  .tac-table td { padding: 14px 18px; font-size: 13px; border-bottom: 1px solid var(--fifa-gray); vertical-align: top; line-height: 1.6; }
+  .tac-table tr:last-child td { border-bottom: none; }
+  .tac-table tr:hover td { background: #f0f5ff; }
+  .tac-type-pill {
+    display: inline-block;
+    padding: 3px 12px;
+    border-radius: 999px;
+    font-size: 11px;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  /* ── Footer ── */
+  footer {
+    background: var(--fifa-blue);
+    color: rgba(255,255,255,0.7);
+    text-align: center;
+    padding: 30px 20px;
+    font-size: 13px;
+  }
+  footer strong { color: var(--fifa-gold); }
+
+  /* ── Importance Section ── */
+  .importance-section {
+    background: white;
+    border-top: 4px solid var(--fifa-gold);
+    border-bottom: 1px solid var(--fifa-gray);
+  }
+  .importance-inner {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 56px 32px;
+  }
+  .importance-label {
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--fifa-gold);
+    margin-bottom: 12px;
+  }
+  .importance-title {
+    font-size: clamp(22px, 3.5vw, 34px);
+    font-weight: 900;
+    color: var(--fifa-blue);
+    line-height: 1.2;
+    margin-bottom: 28px;
+  }
+  .importance-body p {
+    font-size: 15px;
+    line-height: 1.9;
+    color: var(--text-mid);
+    margin-bottom: 18px;
+  }
+  .importance-body p strong {
+    color: var(--text-dark);
+    font-weight: 700;
+  }
+  .importance-stats {
+    display: flex;
+    gap: 0;
+    margin-top: 40px;
+    border: 2px solid var(--fifa-gray);
+    border-radius: 14px;
+    overflow: hidden;
+  }
+  .stat-item {
+    flex: 1;
+    text-align: center;
+    padding: 28px 18px;
+    border-right: 2px solid var(--fifa-gray);
+    transition: background 0.2s;
+  }
+  .stat-item:last-child { border-right: none; }
+  .stat-item:hover { background: #f0f5ff; }
+  .stat-icon {
+    display: block;
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .stat-title {
+    display: block;
+    font-size: 14px;
+    font-weight: 800;
+    color: var(--fifa-blue);
+    margin-bottom: 8px;
+  }
+  .stat-desc {
+    display: block;
+    font-size: 12px;
+    color: var(--text-mid);
+    line-height: 1.6;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 600px) {
+    .players-grid { grid-template-columns: 1fr; padding: 12px; }
+    .card-img-wrap { height: 180px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-ball">⚽</div>
+  <h1>世界盃奪冠之鑰<br>頂級中場球員深度解析</h1>
+  <p class="hero-sub">FIFA World Cup 2026 · 15位世界級中場球員完整戰術分析與精華影片</p>
+  <blockquote class="hero-quote">
+    「前鋒決定比分，門將決定生死，但中場決定的是一支球隊到底像不像一支球隊。」
+  </blockquote>
+</section>
+
+<div class="badge-strip">⚽ FIFA WORLD CUP 2026 · CANADA · MEXICO · USA ⚽</div>
+
+<!-- Importance Narrative -->
+<section class="importance-section">
+  <div class="importance-inner">
+    <div class="importance-label">⚽ 為什麼中場才是關鍵？</div>
+    <h2 class="importance-title">中場，是一支球隊的心跳</h2>
+    <div class="importance-body">
+      <p>在現代足球的演化過程中，前鋒的光環最耀眼，門將的失誤最致命，但<strong>決定一場比賽走向的，往往是那些不在鎂光燈正中央的中場球員</strong>。</p>
+      <p>中場控制的，是節奏。快與慢、收與放、施壓與緩衝——這些看不見的博弈，全部發生在中場那一條隱形的戰線上。當中場失守，前鋒再有天分也難以獲得高質量的傳球；當中場掌控全局，哪怕兩翼並不出眾，球隊依然能流暢運轉，如同精密的機器。</p>
+      <p>在世界盃這種高強度的淘汰賽制中，這個差異被放大到極致。<strong>對手的準備越充分，戰術越密集，破局的能力就越依賴中場的個人質素與整體組織</strong>。那些能在混亂中保持冷靜、在逆境中穩住節奏、在僵局中憑一次傳球或突破撕開缺口的中場球員，才是球隊真正的奪冠引擎。</p>
+      <p>世界盃擴軍後，48支球隊、104場比賽，密集的賽程讓體能消耗成為新的變數。<strong>擁有深度、厚度與智慧的中場陣容，才能在長達一個月的賽事中持續輸出</strong>——這正是以下15位球員，被認為是本屆世界盃最值得關注焦點的核心原因。</p>
+    </div>
+    <div class="importance-stats">
+      <div class="stat-item">
+        <span class="stat-icon">🧠</span>
+        <span class="stat-title">節奏掌控</span>
+        <span class="stat-desc">中場決定比賽的呼吸頻率，控制對手何時能威脅你的球門</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-icon">🔗</span>
+        <span class="stat-title">攻守樞紐</span>
+        <span class="stat-desc">連接後防與前鋒的橋樑，讓球隊在攻守轉換間不脫節</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-icon">💡</span>
+        <span class="stat-title">破局關鍵</span>
+        <span class="stat-desc">在密集防守下，一次精準直塞或帶球突進就能改變整場比賽</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-icon">🏆</span>
+        <span class="stat-title">冠軍方程式</span>
+        <span class="stat-desc">近四屆世界盃冠軍隊，無一不擁有至少一位頂級中場坐鎮</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Filters -->
+<div class="filters">
+  <button class="filter-btn active" onclick="filterCards('all')">全部 15 人</button>
+  <button class="filter-btn" onclick="filterCards('destroyer')">🛡️ 防守鐵閘</button>
+  <button class="filter-btn" onclick="filterCards('maestro')">🎨 組織大腦</button>
+  <button class="filter-btn" onclick="filterCards('explosive')">💥 致命武器</button>
+  <button class="filter-btn" onclick="filterCards('legend')">👑 傳奇老將</button>
+</div>
+
+<!-- Section 1 -->
+<div class="section-header">
+  <span class="section-tag">Part 01</span>
+  <h2 class="section-title">🌟 新生代崛起與防線掃蕩者</h2>
+</div>
+
+<div class="players-grid" id="grid">
+
+  <!-- 1. João Neves -->
+  <div class="player-card" data-type="destroyer">
+    <div class="card-img-wrap">
+      <img src="players/joao-neves.jpg" alt="João Neves" onerror="this.src='https://resources.premierleague.com/photos/2024/07/placeholder.png'; this.style.objectPosition='center'">
+      <span class="card-flag">🇵🇹</span>
+      <span class="card-number">1</span>
+      <span class="type-badge type-destroyer">防守鐵閘</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">若昂·內維斯</div>
+      <div class="player-name-en">João Neves</div>
+      <div class="club-info">⚽ <span>PSG</span> · 葡萄牙國家隊</div>
+      <div class="strengths-label">核心優勢</div>
+      <div class="strength-tags">
+        <span class="strength-tag">全能戰士</span>
+        <span class="strength-tag">高壓逼搶</span>
+        <span class="strength-tag">比賽閱讀</span>
+        <span class="strength-tag">即插即用</span>
+      </div>
+      <p class="desc">不靠單一誇張特質，而是「什麼都能做」。能貼身逼搶、快速回收，在高壓下將球摘出來，具有極高的戰術適應力。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=João+Neves+Technical+Elegance+Skills+Passes+PSG" target="_blank">
+          <span class="play-icon">▶</span>João Neves - Technical Elegance Skills Passes Assists Tackles PSG
+        </a>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=João+Neves+2026+World+Class+Skills+Goals+Passes" target="_blank">
+          <span class="play-icon">▶</span>João Neves 2026 – World Class Skills, Goals & Passes
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 2. Caicedo -->
+  <div class="player-card" data-type="destroyer">
+    <div class="card-img-wrap">
+      <img src="players/caicedo.jpg" alt="Caicedo" onerror="this.style.background='linear-gradient(135deg,#003f8a,#1a6b3c)'">
+      <span class="card-flag">🇪🇨</span>
+      <span class="card-number">2</span>
+      <span class="type-badge type-destroyer">防守鐵閘</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">莫伊塞斯·凱塞多</div>
+      <div class="player-name-en">Moisés Caicedo</div>
+      <div class="club-info">⚽ <span>Chelsea</span> · 厄瓜多國家隊</div>
+      <div class="strengths-label">核心優勢</div>
+      <div class="strength-tags">
+        <span class="strength-tag">恐怖覆蓋面積</span>
+        <span class="strength-tag">身體對抗</span>
+        <span class="strength-tag">攻守重啟鍵</span>
+      </div>
+      <p class="desc">現代型防守後腰，擁有恐怖的覆蓋面積與攔截預判。搶下球權後能精準輸送到危險區域，不讓球隊被對手壓扁。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=World+Beaters+Moisés+Caicedo+Chelsea+Ecuador+Highlights" target="_blank">
+          <span class="play-icon">▶</span>World Beaters: Moisés Caicedo - Chelsea & Ecuador Highlights
+        </a>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Moisés+Caicedo+Can+Do+EVERYTHING" target="_blank">
+          <span class="play-icon">▶</span>Moisés Caicedo Can Do EVERYTHING
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. Declan Rice -->
+  <div class="player-card" data-type="destroyer">
+    <div class="card-img-wrap">
+      <img src="players/declan-rice.jpg" alt="Declan Rice" onerror="this.style.background='linear-gradient(135deg,#003f8a,#1a6b3c)'">
+      <span class="card-flag">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span>
+      <span class="card-number">3</span>
+      <span class="type-badge type-destroyer">防守鐵閘</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">德克蘭·賴斯</div>
+      <div class="player-name-en">Declan Rice</div>
+      <div class="club-info">⚽ <span>Arsenal</span> · 英格蘭國家隊</div>
+      <div class="strengths-label">核心優勢</div>
+      <div class="strength-tags">
+        <span class="strength-tag">空間守護神</span>
+        <span class="strength-tag">頂級站位</span>
+        <span class="strength-tag">遠射威脅</span>
+        <span class="strength-tag">定位球</span>
+      </div>
+      <p class="desc">當今足壇少數能單人撐起中場防守面積的球員。近年攻擊能力大幅進化，是英格蘭決定防守下限的關鍵。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=BEST+Declan+Rice+Moments+Arsenal+Goals+Assists+Tackles" target="_blank">
+          <span class="play-icon">▶</span>BEST Declan Rice Moments For Arsenal | Goals, Assists & Tackles!
+        </a>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Declan+Rice+ALL+England+Goals+Three+Lions" target="_blank">
+          <span class="play-icon">▶</span>Declan Rice ALL England Goals for the Three Lions
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Section 2 header inside grid via CSS trick – use wrapper -->
+</div>
+
+<div class="section-header">
+  <span class="section-tag">Part 02</span>
+  <h2 class="section-title">🎨 中場藝術家與進攻爆破手</h2>
+</div>
+
+<div class="players-grid">
+
+  <!-- 4. Mac Allister -->
+  <div class="player-card" data-type="maestro">
+    <div class="card-img-wrap">
+      <img src="players/mac-allister.jpg" alt="Mac Allister" onerror="this.style.background='linear-gradient(135deg,#003f8a,#74b9ff)'">
+      <span class="card-flag">🇦🇷</span>
+      <span class="card-number">4</span>
+      <span class="type-badge type-maestro">組織大腦</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">亞歷克西斯·麥卡利斯特</div>
+      <div class="player-name-en">Alexis Mac Allister</div>
+      <div class="club-info">⚽ <span>Liverpool</span> · 阿根廷國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">萬能拼圖</span>
+        <span class="strength-tag">隱形連接器</span>
+        <span class="strength-tag">空間管理</span>
+      </div>
+      <p class="desc">極度懂得空間管理，透過超前站位和無球跑動帶開防守，是連接前場球星與後場防線的完美樞紐。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Alexis+Mac+Allister+Goal+Liverpool+Fulham+every+angle" target="_blank">
+          <span class="play-icon">▶</span>Every Angle of the Amazing Alexis Mac Allister Goal | Liverpool 4-3 Fulham
+        </a>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Alexis+Mac+Allister+Favourite+Messi+Moments+ESPN" target="_blank">
+          <span class="play-icon">▶</span>Alexis Mac Allister's Favourite Messi Moments & Top Midfielders
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5. Enzo Fernandez -->
+  <div class="player-card" data-type="maestro">
+    <div class="card-img-wrap">
+      <img src="players/enzo-fernandez.jpg" alt="Enzo Fernandez" onerror="this.style.background='linear-gradient(135deg,#003f8a,#74b9ff)'">
+      <span class="card-flag">🇦🇷</span>
+      <span class="card-number">5</span>
+      <span class="type-badge type-maestro">組織大腦</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">恩佐·費爾南德斯</div>
+      <div class="player-name-en">Enzo Fernández</div>
+      <div class="club-info">⚽ <span>Chelsea</span> · 阿根廷國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">長傳精準</span>
+        <span class="strength-tag">節奏控制</span>
+        <span class="strength-tag">攻守互補</span>
+      </div>
+      <p class="desc">視野遼闊，擅長透過節奏變化為混亂的進攻梳理清晰路線。與凱塞多組成「一攻一防」黃金雙重奏。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Enzo+Fernandez+passing+masterclass+skills+Chelsea" target="_blank">
+          <span class="play-icon">▶</span>Enzo Fernandez Passing Masterclass & Skills
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. Valverde -->
+  <div class="player-card" data-type="explosive">
+    <div class="card-img-wrap">
+      <img src="players/valverde.jpg" alt="Valverde" onerror="this.style.background='linear-gradient(135deg,#1a6b3c,#003f8a)'">
+      <span class="card-flag">🇺🇾</span>
+      <span class="card-number">6</span>
+      <span class="type-badge type-explosive">致命武器</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">費德里科·巴爾韋德</div>
+      <div class="player-name-en">Federico Valverde</div>
+      <div class="club-info">⚽ <span>Real Madrid</span> · 烏拉圭國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">野性衝刺</span>
+        <span class="strength-tag">爆射遠射</span>
+        <span class="strength-tag">強行破局</span>
+      </div>
+      <p class="desc">擁有南美球員的拼搏野性與歐洲化紀律感。能強行用衝刺和標誌性爆射遠射撕開密集防守。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Federico+Valverde+power+runs+long+range+goals+Real+Madrid" target="_blank">
+          <span class="play-icon">▶</span>Federico Valverde Power Runs and Long Range Goals
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 7. Bellingham -->
+  <div class="player-card" data-type="explosive">
+    <div class="card-img-wrap">
+      <img src="players/bellingham.jpg" alt="Bellingham" onerror="this.style.background='linear-gradient(135deg,#1a6b3c,#003f8a)'">
+      <span class="card-flag">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span>
+      <span class="card-number">7</span>
+      <span class="type-badge type-explosive">致命武器</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">裘德·貝林厄姆</div>
+      <div class="player-name-en">Jude Bellingham</div>
+      <div class="club-info">⚽ <span>Real Madrid</span> · 英格蘭國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">現代混合體</span>
+        <span class="strength-tag">禁區終結</span>
+        <span class="strength-tag">領袖氣質</span>
+      </div>
+      <p class="desc">無法被單一位置定義。既能中場對抗推進，也能像前腰插入禁區完結。他的發揮決定了英格蘭的上限。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=ALL+JUDE+BELLINGHAM+Real+Madrid+Goals" target="_blank">
+          <span class="play-icon">▶</span>ALL of JUDE BELLINGHAM's Real Madrid Goals
+        </a>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Coldest+Jude+Bellingham+Moments+In+History" target="_blank">
+          <span class="play-icon">▶</span>Coldest Jude Bellingham Moments In History
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 8. Bruno Fernandes -->
+  <div class="player-card" data-type="explosive">
+    <div class="card-img-wrap">
+      <img src="players/bruno-fernandes.jpg" alt="Bruno Fernandes" onerror="this.style.background='linear-gradient(135deg,#c0392b,#003f8a)'">
+      <span class="card-flag">🇵🇹</span>
+      <span class="card-number">8</span>
+      <span class="type-badge type-explosive">致命武器</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">布魯諾·費爾南德斯</div>
+      <div class="player-name-en">Bruno Fernandes</div>
+      <div class="club-info">⚽ <span>Man United</span> · 葡萄牙國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">機會製造機</span>
+        <span class="strength-tag">逆境領袖</span>
+        <span class="strength-tag">天馬行空</span>
+      </div>
+      <p class="desc">敢傳別人不敢傳的球，是承擔極大風險但也帶來極高回報的進攻發動機。葡萄牙前場的直接輸送線。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=100+Bruno+Fernandes+United+Assists" target="_blank">
+          <span class="play-icon">▶</span>100 Bruno Fernandes United Assists
+        </a>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Bruno+Fernandes+Record+Breaking+Premier+League+Assists" target="_blank">
+          <span class="play-icon">▶</span>Bruno Fernandes Record Breaking Premier League Assists
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 9. Musiala -->
+  <div class="player-card" data-type="explosive">
+    <div class="card-img-wrap">
+      <img src="players/musiala.jpg" alt="Musiala" onerror="this.style.background='linear-gradient(135deg,#c0392b,#003f8a)'">
+      <span class="card-flag">🇩🇪</span>
+      <span class="card-number">9</span>
+      <span class="type-badge type-explosive">致命武器</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">賈馬爾·穆西亞拉</div>
+      <div class="player-name-en">Jamal Musiala</div>
+      <div class="club-info">⚽ <span>Bayern Munich</span> · 德國國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">小空間舞者</span>
+        <span class="strength-tag">中路爆破</span>
+        <span class="strength-tag">節奏變化</span>
+      </div>
+      <p class="desc">擁有當今足壇最頂尖的中路爆破能力。看他過人不像在突破，而是在人牆細縫中「劃過去」。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Jamal+Musiala+Best+Dribbles+Solo+Goals+Bundesliga" target="_blank">
+          <span class="play-icon">▶</span>Jamal Musiala - Best Dribbles & Solo Goals
+        </a>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Jamal+Musiala+Top+5+Goals" target="_blank">
+          <span class="play-icon">▶</span>Jamal Musiala - Top 5 Goals
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 10. Pedri -->
+  <div class="player-card" data-type="maestro">
+    <div class="card-img-wrap">
+      <img src="players/pedri.jpg" alt="Pedri" onerror="this.style.background='linear-gradient(135deg,#c0392b,#003f8a)'">
+      <span class="card-flag">🇪🇸</span>
+      <span class="card-number">10</span>
+      <span class="type-badge type-maestro">組織大腦</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">佩德里</div>
+      <div class="player-name-en">Pedri</div>
+      <div class="club-info">⚽ <span>Barcelona</span> · 西班牙國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">古典大師</span>
+        <span class="strength-tag">節奏掌控</span>
+        <span class="strength-tag">無縫銜接</span>
+      </div>
+      <p class="desc">雖年輕但踢球極具老派大師靈氣。深諳「節奏慢與快」的藝術，與羅德里搭配代表西班牙中場最高智慧。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Pedri+magic+skills+pass+masterclass+Barcelona" target="_blank">
+          <span class="play-icon">▶</span>Pedri Magic Skills and Pass Masterclass Barcelona
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 11. Vitinha -->
+  <div class="player-card" data-type="maestro">
+    <div class="card-img-wrap">
+      <img src="players/vitinha.jpg" alt="Vitinha" onerror="this.style.background='linear-gradient(135deg,#003f8a,#0077cc)'">
+      <span class="card-flag">🇵🇹</span>
+      <span class="card-number">11</span>
+      <span class="type-badge type-maestro">組織大腦</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">維蒂尼亞</div>
+      <div class="player-name-en">Vitinha</div>
+      <div class="club-info">⚽ <span>PSG</span> · 葡萄牙國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">極致擺脫</span>
+        <span class="strength-tag">護球傳導</span>
+        <span class="strength-tag">球隊晴雨表</span>
+      </div>
+      <p class="desc">能在對手逼搶貼上前的瞬間完成轉身，安全地將球帶出危險區域。是葡萄牙後場到前場「不脫節」的樞紐。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Vitinha+elegant+skills+press+evasion+PSG+Portugal" target="_blank">
+          <span class="play-icon">▶</span>Vitinha Elegant Skills and Press Evasion PSG
+        </a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Section 3 -->
+<div class="section-header">
+  <span class="section-tag">Part 03</span>
+  <h2 class="section-title">👑 傳奇老將與時代迴聲</h2>
+</div>
+
+<div class="players-grid">
+
+  <!-- 12. Modrić -->
+  <div class="player-card" data-type="legend">
+    <div class="card-img-wrap">
+      <img src="players/modric.jpg" alt="Modric" onerror="this.style.background='linear-gradient(135deg,#c9a84c,#003f8a)'">
+      <span class="card-flag">🇭🇷</span>
+      <span class="card-number">12</span>
+      <span class="type-badge type-legend">傳奇老將</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">路卡·莫德里奇</div>
+      <div class="player-name-en">Luka Modrić</div>
+      <div class="club-info">⚽ <span>Real Madrid</span> · 克羅埃西亞國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">降維理解</span>
+        <span class="strength-tag">外腳背大師</span>
+        <span class="strength-tag">精神象徵</span>
+      </div>
+      <p class="desc">早已超越身體機能限制，將比賽理解提升到另一維度。標誌性外腳背（Trivela）是世界足壇的藝術符號。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Luka+Modric+Croatia+2018+World+Cup+All+Goals+Highlights+FIFA" target="_blank">
+          <span class="play-icon">▶</span>Luka Modric and Runner-up Croatia | All Goals & Highlights | 2018 World Cup
+        </a>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=GENIUS+at+Real+Madrid+LUKA+MODRIC+HIGHLIGHTS" target="_blank">
+          <span class="play-icon">▶</span>A GENIUS at Real Madrid | LUKA MODRIC HIGHLIGHTS
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 13. De Bruyne -->
+  <div class="player-card" data-type="legend">
+    <div class="card-img-wrap">
+      <img src="players/de-bruyne.jpg" alt="De Bruyne" onerror="this.style.background='linear-gradient(135deg,#c9a84c,#003f8a)'">
+      <span class="card-flag">🇧🇪</span>
+      <span class="card-number">13</span>
+      <span class="type-badge type-legend">傳奇老將</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">凱文·德布勞內</div>
+      <div class="player-name-en">Kevin De Bruyne</div>
+      <div class="club-info">⚽ <span>Man City</span> · 比利時國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">上帝視角</span>
+        <span class="strength-tag">手術刀傳球</span>
+        <span class="strength-tag">瞬間破局</span>
+      </div>
+      <p class="desc">傳球力量、弧度、提前量與想像力無可複製，能用一記傳球擊穿整條防線。只需一個瞬間即能改變比賽。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=GENIUS+Playmaker+Kevin+De+Bruyne+Premier+League+Legacy" target="_blank">
+          <span class="play-icon">▶</span>GENIUS Playmaker: Kevin De Bruyne's Premier League Legacy
+        </a>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=World-Class+Vision+Kevin+De+Bruyne+Top+Assists" target="_blank">
+          <span class="play-icon">▶</span>World-Class Vision: Kevin De Bruyne's Top Assists
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 14. Rodri -->
+  <div class="player-card" data-type="maestro">
+    <div class="card-img-wrap">
+      <img src="players/rodri.jpg" alt="Rodri" onerror="this.style.background='linear-gradient(135deg,#c0392b,#003f8a)'">
+      <span class="card-flag">🇪🇸</span>
+      <span class="card-number">14</span>
+      <span class="type-badge type-maestro">組織大腦</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">羅德里</div>
+      <div class="player-name-en">Rodri</div>
+      <div class="club-info">⚽ <span>Man City</span> · 西班牙國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">球隊呼吸頻率</span>
+        <span class="strength-tag">第一後腰</span>
+        <span class="strength-tag">定海神針</span>
+      </div>
+      <p class="desc">當今足壇公認第一後腰，決定了球隊的提速、降速、壓上與防守保護。只要羅德里在場，球隊就顯得無比穩定。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=Rodri+tactical+masterclass+defensive+anchor+goals+Spain" target="_blank">
+          <span class="play-icon">▶</span>Rodri Tactical Masterclass Defensive Anchor and Goals
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 15. Kanté -->
+  <div class="player-card" data-type="destroyer">
+    <div class="card-img-wrap">
+      <img src="players/kante.jpg" alt="Kante" onerror="this.style.background='linear-gradient(135deg,#003f8a,#1a6b3c)'">
+      <span class="card-flag">🇫🇷</span>
+      <span class="card-number">15</span>
+      <span class="type-badge type-destroyer">防守鐵閘</span>
+    </div>
+    <div class="card-body">
+      <div class="player-name">恩戈洛·坎特</div>
+      <div class="player-name-en">N'Golo Kanté</div>
+      <div class="club-info">⚽ <span>Al-Ittihad</span> · 法國國家隊</div>
+      <div class="strength-tags">
+        <span class="strength-tag">過不去的坎</span>
+        <span class="strength-tag">永無止境奔跑</span>
+        <span class="strength-tag">法國保險鎖</span>
+      </div>
+      <p class="desc">用最謙遜的表情做著最繁重的工作。巔峰期一人能覆蓋兩人的防守面積，具備無與倫比的攔截和搶斷直覺。</p>
+      <div class="videos-section">
+        <div class="videos-label">🎬 精華影片</div>
+        <a class="video-link" href="https://www.youtube.com/results?search_query=N'Golo+Kante+running+non+stop+tackling+compilation" target="_blank">
+          <span class="play-icon">▶</span>N'Golo Kante Running Non Stop and Tackling Compilation
+        </a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Tactical Table -->
+<div class="section-header">
+  <span class="section-tag">戰術總結</span>
+  <h2 class="section-title">📊 不同類型中場的盃賽價值</h2>
+</div>
+
+<div class="table-section">
+  <table class="tac-table">
+    <thead>
+      <tr>
+        <th>中場類型</th>
+        <th>代表球員</th>
+        <th>盃賽核心戰術價值</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="tac-type-pill" style="background:#c0392b;color:white">🛡️ 防守鐵閘</span></td>
+        <td>賴斯、凱塞多、坎特</td>
+        <td><strong>決定下限</strong>：提供屏障，封鎖危險區域，讓球隊在強強對決中站得住腳。</td>
+      </tr>
+      <tr>
+        <td><span class="tac-type-pill" style="background:#2c3e50;color:white">🎨 組織大腦</span></td>
+        <td>恩佐、佩德里、羅德里</td>
+        <td><strong>掌控呼吸</strong>：調整比賽節奏，在對手逼搶下穩住局勢，轉化攻防節奏。</td>
+      </tr>
+      <tr>
+        <td><span class="tac-type-pill" style="background:#1a6b3c;color:white">💥 致命武器</span></td>
+        <td>貝林厄姆、巴爾韋德、穆西亞拉</td>
+        <td><strong>決定上限</strong>：利用個人爆發力、突破或遠射，強行打破僵局。</td>
+      </tr>
+      <tr>
+        <td><span class="tac-type-pill" style="background:#c9a84c;color:#003f8a">👑 傳奇老將</span></td>
+        <td>莫德里奇、德布勞內</td>
+        <td><strong>大賽心態</strong>：在關鍵一刻，靠無與倫比的經驗與冷靜一擊斃命。</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<footer>
+  <div style="font-size:30px;margin-bottom:10px">⚽</div>
+  世界盃擴軍後賽事更加密集，誰擁有最聰明、最硬、最能扛住壓力的中場，<br>誰就最接近最後的答案！<br><br>
+  <strong>FIFA World Cup 2026</strong> · Canada · Mexico · USA
+</footer>
+
+<script>
+function filterCards(type) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+
+  document.querySelectorAll('.player-card').forEach(card => {
+    if (type === 'all' || card.dataset.type === type) {
+      card.classList.remove('hidden');
+    } else {
+      card.classList.add('hidden');
+    }
+  });
+}
+</script>
+</body>
+</html>
