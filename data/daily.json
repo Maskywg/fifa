@@ -1,196 +1,197 @@
 {
-  "publishedAt": "2026-06-21T14:34:35+08:00",
-  "targetDateLabel": "2026-06-22 台灣時間",
-  "visualDate": "Jun 22",
-  "summary": "明天台灣時間從 00:00 到 09:00 一共四場，主軸是 G、H 組第二輪。最值得看的是 Spain vs Saudi Arabia：西班牙首戰被維德角逼成 0 比 0，已經不能只靠控球漂亮；沙烏地首戰 1 比 1 逼和烏拉圭，若再拿分，H 組會從紙面強弱變成真正混戰。",
-  "dailyAngle": "這一天的看球重點是兩個小組都還沒有球隊拉開。H 組四隊首戰全平，西班牙與烏拉圭雖然星度最高，但都需要把場面優勢轉成進球；G 組同樣四隊各 1 分，比利時要面對伊朗的低位與反擊，埃及則看 Salah 能不能帶隊拿到世界盃久違勝利。",
-  "sourceNote": "賽程、場地與分組架構以 FIFA World Cup 26 官方賽程與積分頁為主；開球時間以 SB Nation 賽程頁所列美東時間換算為 Asia/Taipei。本頁鎖定台灣時間 2026-06-22 00:00 至 23:59 的賽事，因此對應官方當地日期 2026-06-21 的四場 G/H 組第二輪。",
+  "publishedAt": "2026-06-22T09:06:30+08:00",
+  "targetDateLabel": "2026-06-23 台灣時間",
+  "visualDate": "Jun 23",
+  "summary": "明天台灣時間 01:00 到 11:00 一共四場，主軸是 I、J 組第二輪。最值得看的是 Argentina vs Austria：Messi 首戰對 Algeria 上演帽子戲法，已追平 Klose 的世界盃歷史進球紀錄；Austria 也以 3 比 1 擊敗 Jordan，這場勝方幾乎可以把晉級主動權握在手上。",
+  "dailyAngle": "這一天的看球重點是強隊能否提前把小組推向可控局面。Argentina 與 Austria 都是開局三分，France 與 Norway 也同樣首戰贏球；相反地，Iraq、Senegal、Jordan、Algeria 都背著首戰落敗壓力，第二輪如果再輸，第三輪就會變成算分與追淨勝球的硬仗。",
+  "sourceNote": "賽程與場地以 FIFA World Cup 26 官方賽程頁為主，開球時間以 SB Nation 賽程頁所列美東時間換算為 Asia/Taipei。本頁鎖定台灣時間 2026-06-23 00:00 至 23:59 的賽事，因此對應官方當地日期 2026-06-22 的四場 I/J 組第二輪。積分與首輪結果以 SB Nation 最新積分頁交叉確認。",
   "highlightVideos": [
     {
-      "title": "Japan 4-0 Tunisia：Kamada 開局、Ueda 雙響、Junya Ito 破門",
-      "source": "The Sun match clips",
-      "player": "Daichi Kamada / Ayase Ueda / Junya Ito",
-      "description": "日本在世界盃第 1000 場比賽 4 比 0 擊敗突尼西亞。The Sun 賽後頁整理 Kamada 4 分鐘開局、Ueda 31 與 84 分鐘雙響、Junya Ito 69 分鐘進球；目前未找到可確認官方或愛爾達 YouTube 精華，先保留可外開播放的媒體頁。",
-      "url": "https://www.thesun.co.uk/sport/39486996/world-cup-2026-japan-tunisia/"
+      "title": "Spain 4-0 Saudi Arabia：Yamal 首顆世界盃進球、Oyarzabal 早早打開比賽",
+      "source": "The Guardian match report",
+      "player": "Lamine Yamal / Mikel Oyarzabal",
+      "description": "前一賽日最具話題的進球回看。西班牙靠 Yamal 先開紀錄，Oyarzabal 很早參與多個進球，沙烏地後段再吞烏龍。未找到可確認嵌入的 FIFA 或 ELTA 官方精華，先保留可外開戰報連結。",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live"
     },
     {
-      "title": "Netherlands 5-1 Sweden：Brobbey、Gakpo 各進兩球",
-      "source": "The Guardian / Houston Chronicle",
-      "player": "Brian Brobbey / Cody Gakpo",
-      "description": "前一賽日最爆量的進球回看。未找到可確認嵌入的 FIFA 或 ELTA 官方精華，先保留可外開戰報連結，追蹤 Brobbey 開局雙響與 Gakpo 下半場連進兩球。",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live"
+      "title": "Uruguay 2-2 Cabo Verde：Pina 任意球與 Varela 追平，H 組繼續爆冷",
+      "source": "The Guardian match report",
+      "player": "Kevin Pina / Maxi Araújo / Helio Varela",
+      "description": "維德角連續逼平西班牙與烏拉圭，是前一輪最值得補看的黑馬故事。此連結為外開即時戰報，尚未確認官方可嵌入影片。",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/uruguay-v-cape-verde-world-cup-2026-live"
     },
     {
-      "title": "Germany 2-1 Côte d'Ivoire：Undav 替補雙響逆轉",
-      "source": "The Guardian / Bavarian Football Works",
-      "player": "Deniz Undav",
-      "description": "德國靠 Undav 68 分鐘與補時進球逆轉，提前確保淘汰賽席位。可嵌入官方影片未確認，保留外開戰報與分析入口。",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live"
+      "title": "Japan 4-0 Tunisia：Ayase Ueda 雙響，日本提前站穩 F 組競爭位置",
+      "source": "The Guardian match report",
+      "player": "Ayase Ueda / Daichi Kamada / Junya Ito",
+      "description": "日本延續首戰逼平荷蘭後的強勢，Ueda 雙響讓突尼西亞連兩場大比分失利。先保留可外開戰報連結，等待官方或可嵌入精華釋出。",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest"
     },
     {
-      "title": "Netherlands 5-1 Sweden：Houston Chronicle 賽後重點",
-      "source": "Houston Chronicle",
-      "player": "Brian Brobbey / Cody Gakpo / Crysencio Summerville",
-      "description": "補看荷蘭如何靠邊路與前場衝擊打穿瑞典，作為隔天 G/H 組觀看前的前日進球回顧。",
-      "url": "https://www.houstonchronicle.com/world-cup/article/netherlands-sweden-score-clockwork-orange-22313400.php"
-    },
-    {
-      "title": "Germany 2-1 Côte d'Ivoire：換人如何改變比賽",
-      "source": "Bavarian Football Works",
-      "player": "Deniz Undav / Nadiem Amiri / Jamie Leweling",
-      "description": "從德國換人與節奏調整角度回看前日關鍵逆轉。此連結為外開分析，不是嵌入影片。",
-      "url": "https://www.bavarianfootballworks.com/fifa-world-cup/219089/match-analysis-observations-world-cup-germany-ivory-coast"
+      "title": "Argentina 3-0 Algeria：Messi 帽子戲法追平世界盃歷史進球紀錄",
+      "source": "El País / Houston Chronicle",
+      "player": "Lionel Messi",
+      "description": "作為 Argentina vs Austria 的賽前背景，回看 Messi 首戰帽子戲法與歷史紀錄壓力。此項為外開新聞連結，不是嵌入影片。",
+      "url": "https://elpais.com/argentina/2026-06-17/argentina-argelia-el-partido-del-mundial-2026-en-vivo.html"
     }
   ],
   "matches": [
     {
       "priority": "第 1 場",
-      "group": "Group H",
-      "time": "台灣 06/22 00:00",
-      "venue": "Atlanta Stadium，亞特蘭大",
-      "home": "Spain",
-      "away": "Saudi Arabia",
-      "headline": "西班牙首戰被逼平後不能再只贏場面，沙烏地有機會把 H 組攪成混戰",
-      "analysis": "西班牙首戰 0 比 0 踢平維德角，控球和陣地壓迫不等於三分，這場必須更早把 Lamine Yamal 與 Pedri 的肋部連線送進禁區。沙烏地首戰 1 比 1 逼和烏拉圭，代表他們不是只靠退守拖時間；Al-Dawsari 的反擊第一腳與禁區外決策會讓西班牙後場承壓。若西班牙先進球，比賽可能變成一面倒；若拖到下半場還沒破門，H 組最大熱門會背上很重的心理壓力。",
+      "group": "Group J",
+      "time": "台灣 06/23 01:00",
+      "venue": "Dallas Stadium，達拉斯",
+      "home": "Argentina",
+      "away": "Austria",
+      "headline": "Messi 只差一球獨居世界盃歷史射手王，奧地利要驗證首戰三分含金量",
+      "analysis": "Argentina 首戰 3 比 0 擊敗 Algeria，Messi 的帽子戲法把比賽焦點從衛冕壓力推到歷史紀錄；面對 Austria，Argentina 不能只靠情緒浪潮，還要看 Álvarez 的前場壓迫與禁區牽制能不能讓 Messi 少背一些持球負擔。Austria 首戰 3 比 1 贏 Jordan，Schmid、Posch 與 Arnautović 都參與關鍵時刻，但那場他們被 Jordan 製造不少射門壓力；如果中場線被 Argentina 拉開，Rangnick 式高壓會很快變成回追防守。",
       "tags": [
-        "H 組第一焦點",
-        "西班牙破低位",
-        "沙烏地反擊"
+        "J 組榜首戰",
+        "Messi 歷史紀錄",
+        "奧地利高壓考題"
       ]
     },
     {
       "priority": "第 2 場",
-      "group": "Group G",
-      "time": "台灣 06/22 03:00",
-      "venue": "Los Angeles Stadium，洛杉磯",
-      "home": "Belgium",
-      "away": "IR Iran",
-      "headline": "比利時少了 Doku 速度點，De Bruyne 要破解伊朗低位與轉換",
-      "analysis": "G 組首輪兩場都平手，比利時 1 比 1 埃及、伊朗 2 比 2 紐西蘭，因此這場勝方會立刻拿到小組主導權。比利時的問題是 Doku 據報因病缺席，少一個可以直接撕開邊路的爆點，De Bruyne 的傳球節奏和 Tielemans 類型的中場推進會更重要。伊朗則仍會把比賽切成較低節奏，靠 Taremi 的背身、門前嗅覺與定位球後點尋找機會。",
+      "group": "Group I",
+      "time": "台灣 06/23 05:00",
+      "venue": "Philadelphia Stadium，費城",
+      "home": "France",
+      "away": "Iraq",
+      "headline": "France 要把首戰優勢變成提前出線路徑，Iraq 只能把比賽拖進低比分",
+      "analysis": "France 首戰 3 比 1 擊敗 Senegal，和 Norway 一起站上 I 組三分區；這場若再贏，最後一輪面對 Norway 前就能大幅降低風險。Mbappé 仍是最直接的破局點，但真正關鍵是 France 能不能在禁區前快速轉邊，避免 Iraq 用密集站位把比賽磨慢。Iraq 首戰 1 比 4 輸給 Norway，防線被速度和禁區衝擊打穿，Graham Arnold 這場大概率會更務實；Mohanad Ali 若能在前場留住第一點，Iraq 才有時間把防守變成反擊。",
       "tags": [
-        "G 組主導權",
-        "Doku 缺陣變數",
-        "伊朗低位反擊"
+        "I 組強弱分水嶺",
+        "France 邊路提速",
+        "Iraq 低比分求生"
       ]
     },
     {
       "priority": "第 3 場",
-      "group": "Group H",
-      "time": "台灣 06/22 06:00",
-      "venue": "Miami Stadium，邁阿密",
-      "home": "Uruguay",
-      "away": "Cabo Verde",
-      "headline": "烏拉圭需要 Valverde 把強度轉成進球，維德角證明首戰逼平西班牙不是偶然",
-      "analysis": "烏拉圭首戰 1 比 1 沙烏地，紙面強度沒有完全兌現；維德角首戰 0 比 0 守住西班牙，已經證明這支世界盃新軍的紀律不是故事而已。這場看 Valverde 能不能在中場把二點球、遠射威脅和前壓節奏串起來，也看 Núñez 是否能把肢體優勢轉成禁區內真正的射門品質。維德角若能靠 Ryan Mendes 留住反擊第一下，烏拉圭會很難舒服地壓上。",
+      "group": "Group I",
+      "time": "台灣 06/23 08:00",
+      "venue": "New York New Jersey Stadium，紐約/紐澤西",
+      "home": "Norway",
+      "away": "Senegal",
+      "headline": "Haaland 首戰大勝後碰上 Senegal，Norway 的黃金世代要證明不只會虐弱隊",
+      "analysis": "Norway 首戰 4 比 1 擊敗 Iraq，目前以淨勝球領跑 I 組，Haaland 與 Ødegaard 的核心結構也讓這支隊伍看起來比過去更成熟。問題是 Senegal 的身體對抗、邊路速度與 Mané 的大賽經驗，會讓 Norway 第一次遇到真正能反擊他們身後空間的對手。Senegal 首戰 1 比 3 輸 France，第二輪不能再只守不攻；若 Mané 能把反擊第一腳處理乾淨，Norway 後防會比首戰忙很多。",
       "tags": [
-        "H 組出線壓力",
-        "烏拉圭中場強度",
-        "維德角童話延續"
+        "I 組榜首壓力",
+        "Haaland 對抗 Mané",
+        "Norway 黃金世代"
       ]
     },
     {
       "priority": "第 4 場",
-      "group": "Group G",
-      "time": "台灣 06/22 09:00",
-      "venue": "BC Place Vancouver，溫哥華",
-      "home": "New Zealand",
-      "away": "Egypt",
-      "headline": "Salah 對上 Chris Wood，G 組最直接的中鋒與邊鋒效率考題",
-      "analysis": "紐西蘭首戰 2 比 2 伊朗，埃及首戰 1 比 1 比利時，兩隊都知道第二輪拿三分就能把第三輪壓力大幅降低。紐西蘭需要 Chris Wood 在禁區內把傳中和定位球變成高品質射門，並靠身體對抗把 Egypt 的中衛線往後壓；埃及則一切仍從 Salah 開始，他若能在右路吸引包夾後把球送到 Marmoush 或禁區弱側，埃及就有機會拿到他們期待很久的世界盃關鍵勝利。",
+      "group": "Group J",
+      "time": "台灣 06/23 11:00",
+      "venue": "San Francisco Bay Area Stadium，舊金山灣區",
+      "home": "Jordan",
+      "away": "Algeria",
+      "headline": "兩隊首戰都輸，Jordan vs Algeria 是 J 組最早的淘汰壓力戰",
+      "analysis": "Jordan 首戰 1 比 3 輸 Austria，但內容不是完全被壓著打，Ali Olwan 的隊史世界盃首球與 Al-Taamari 的邊路威脅都證明他們有能力製造混亂。Algeria 首戰 0 比 3 輸 Argentina，對手太強是一回事，但進攻端需要 Mahrez、Gouiri 與 Amoura 更早找到射門節奏。這場若踢平，兩隊都要在最後一輪面對更硬對手時追分；因此它可能比排名看起來更開放。",
       "tags": [
-        "G 組搶三分",
-        "Salah 最後世界盃線",
-        "Wood 禁區支點"
+        "J 組保命戰",
+        "Jordan 首勝夢",
+        "Algeria 反彈壓力"
       ]
     }
   ],
   "players": [
     {
-      "name": "Lamine Yamal",
-      "team": "Spain",
-      "currentClub": "Barcelona",
-      "photoUrl": "assets/players/lamine-yamal.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Lamine_Yamal",
-      "note": "西班牙最能用一對一和斜向內切製造破口的右路核心。面對沙烏地低位，他的第一腳突破會決定西班牙能否早早打開局面。"
+      "name": "Lionel Messi",
+      "team": "Argentina",
+      "currentClub": "Inter Miami",
+      "photoUrl": "assets/players/lionel-messi.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Lionel_Messi",
+      "note": "首戰對 Algeria 上演帽子戲法，已追平 Miroslav Klose 的世界盃歷史進球紀錄。這場所有鏡頭都會等他是否再進一球。"
     },
     {
-      "name": "Pedri",
-      "team": "Spain",
-      "currentClub": "Barcelona",
-      "photoUrl": "assets/players/pedri.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Pedri",
-      "note": "西班牙禁區前最需要冷靜處理球的人。若只是橫向傳導，沙烏地會越守越有信心；Pedri 要把節奏變化送進肋部。"
+      "name": "Julián Álvarez",
+      "team": "Argentina",
+      "currentClub": "Atlético Madrid",
+      "photoUrl": "assets/players/julian-alvarez.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Juli%C3%A1n_%C3%81lvarez",
+      "note": "Argentina 前場最重要的無球壓迫與禁區牽制點。若 Austria 用高壓逼搶，他的第一時間反插會直接懲罰防線身後。"
     },
     {
-      "name": "Salem Al-Dawsari",
-      "team": "Saudi Arabia",
-      "currentClub": "Al-Hilal",
-      "photoUrl": "assets/players/salem-al-dawsari.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Salem_Al-Dawsari",
-      "note": "沙烏地最有大賽記憶點的邊路攻擊手。面對西班牙，他不需要很多球權，只要幾次轉換就可能改變比賽情緒。"
+      "name": "Marcel Sabitzer",
+      "team": "Austria",
+      "currentClub": "Borussia Dortmund",
+      "photoUrl": "assets/players/marcel-sabitzer.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Marcel_Sabitzer",
+      "note": "Austria 對 Argentina 最需要的中場節奏器。要讓高壓不是單純衝刺，他必須把搶下來的球迅速送到前場。"
     },
     {
-      "name": "Kevin De Bruyne",
-      "team": "Belgium",
-      "currentClub": "Napoli",
-      "photoUrl": "assets/players/kevin-de-bruyne.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
-      "note": "比利時少了邊路爆點時，最需要他用傳球角度打穿伊朗防線。這場不是看長傳漂亮，而是看能否讓禁區前出現乾淨射門。"
+      "name": "Marko Arnautović",
+      "team": "Austria",
+      "currentClub": "Inter Milan",
+      "photoUrl": "assets/players/marko-arnautovic.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Marko_Arnautovi%C4%87",
+      "note": "首戰補時點球鎖定勝局，仍是 Austria 最有大賽厚度的前場老將。對 Argentina，他的支點與情緒管理都很重要。"
     },
     {
-      "name": "Mehdi Taremi",
-      "team": "IR Iran",
-      "currentClub": "Olympiacos",
-      "photoUrl": "assets/players/mehdi-taremi.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Mehdi_Taremi",
-      "note": "伊朗最可靠的前場收尾與支點。若球隊長時間防守，他要把少數反擊從解圍變成能威脅比利時球門的攻勢。"
-    },
-    {
-      "name": "Federico Valverde",
-      "team": "Uruguay",
+      "name": "Kylian Mbappé",
+      "team": "France",
       "currentClub": "Real Madrid",
-      "photoUrl": "assets/players/federico-valverde.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Federico_Valverde",
-      "note": "烏拉圭中場強度、遠射和轉守為攻的核心。面對維德角，他必須把高壓搶回來的球轉成更直接的禁區威脅。"
+      "photoUrl": "assets/players/kylian-mbappe.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+      "note": "France 面對低位防守時最直接的速度答案。Iraq 若防線站得太窄，他會從左路和中路縫隙連續施壓。"
     },
     {
-      "name": "Darwin Núñez",
-      "team": "Uruguay",
-      "currentClub": "Al-Hilal",
-      "photoUrl": "assets/players/darwin-nunez.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Darwin_N%C3%BA%C3%B1ez",
-      "note": "烏拉圭最能用速度和身體衝擊防線的前鋒。若他能把跑動時機和第一腳處理放穩，維德角防線會很難只靠人數守住。"
+      "name": "Mohanad Ali",
+      "team": "Iraq",
+      "currentClub": "Dibba Al-Fujairah",
+      "photoUrl": "assets/players/mohanad-ali.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Mohanad_Ali",
+      "note": "FourFourTwo 將他視為 Iraq 陣中最值得注意的前鋒之一。對 France，他要把稀少的長傳與二點球變成真正反擊。"
     },
     {
-      "name": "Ryan Mendes",
-      "team": "Cabo Verde",
-      "currentClub": "Iğdır",
-      "photoUrl": "assets/players/ryan-mendes.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Ryan_Mendes",
-      "note": "維德角隊史最具代表性的攻擊老將之一。首戰守住西班牙後，這場需要他在反擊第一腳和定位球前後提供經驗。"
+      "name": "Erling Haaland",
+      "team": "Norway",
+      "currentClub": "Manchester City",
+      "photoUrl": "assets/players/erling-haaland.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Erling_Haaland",
+      "note": "首戰大勝後，這場才是 Norway 進攻含金量的壓力測試。面對 Senegal，他的禁區第一下和反越位跑動會決定上限。"
     },
     {
-      "name": "Chris Wood",
-      "team": "New Zealand",
-      "currentClub": "Nottingham Forest",
-      "photoUrl": "assets/players/chris-wood.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Chris_Wood_(footballer,_born_1991)",
-      "note": "紐西蘭禁區內最清楚的答案。對埃及只要能把傳中、二點球和定位球變成射門，紐西蘭就有搶三分的現實路徑。"
+      "name": "Martin Ødegaard",
+      "team": "Norway",
+      "currentClub": "Arsenal",
+      "photoUrl": "assets/players/martin-odegaard.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Martin_%C3%98degaard",
+      "note": "Norway 從反擊隊變成能控節奏隊伍的核心。他能否在 Senegal 中場壓迫下轉身出球，是 Haaland 得到乾淨機會的前提。"
     },
     {
-      "name": "Mohamed Salah",
-      "team": "Egypt",
-      "currentClub": "自由球員",
-      "photoUrl": "assets/players/mohamed-salah.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Mohamed_Salah",
-      "note": "埃及的進攻重心和情緒核心。FourFourTwo 將這屆定位為他可能的最後一屆世界盃，對紐西蘭就是最該把期待轉成勝利的一場。"
+      "name": "Sadio Mané",
+      "team": "Senegal",
+      "currentClub": "Al Nassr",
+      "photoUrl": "assets/players/sadio-mane.jpg",
+      "profileUrl": "https://commons.wikimedia.org/wiki/File:Sadio_Mane_2023_Al_Nassr_(cropped).jpg",
+      "note": "Senegal 最有大賽經驗的攻擊手。首戰輸給 France 後，這場需要他把反擊和定位球前後的第二波處理得更銳利。"
+    },
+    {
+      "name": "Riyad Mahrez",
+      "team": "Algeria",
+      "currentClub": "Al-Ahli",
+      "photoUrl": "assets/players/riyad-mahrez.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Riyad_Mahrez",
+      "note": "Algeria 首戰被 Argentina 壓住後，最需要他在 Jordan 這場拿回進攻主導權。右路內切與定位球會是反彈關鍵。"
+    },
+    {
+      "name": "Musa Al-Taamari",
+      "team": "Jordan",
+      "currentClub": "Rennes",
+      "photoUrl": "assets/players/musa-al-taamari.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Musa_Al-Taamari",
+      "note": "Jordan 最能靠盤帶和速度改變比賽的人。若 Algeria 壓上追三分，他的右路反擊就是 Jordan 搶分希望。"
     }
   ],
   "watchPoints": [
-    "先看 Spain vs Saudi Arabia：西班牙首戰只拿 1 分，若再被拖住，H 組會立刻變成四隊混戰。",
-    "Belgium vs IR Iran 的關鍵是比利時少了 Doku 後還能不能製造寬度；伊朗只要守到下半場，Taremi 的一兩次機會就會被放大。",
-    "Uruguay vs Cabo Verde 要看維德角是不是能連續兩場守住強隊。烏拉圭不能只靠硬度，必須把 Valverde 的推進轉成禁區內效率。",
-    "New Zealand vs Egypt 是 G 組最直接的效率考：Wood 的禁區支點對 Salah 的邊路創造，誰先進球誰就能把對手逼出舒適區。"
+    "先看 Argentina vs Austria：兩隊都首戰贏球，Messi 的歷史進球紀錄讓這場從小組榜首戰升級成世界盃主線劇情。",
+    "France vs Iraq 的重點是節奏。France 若前 30 分鐘就打穿低位，Iraq 會很難保住比分；若拖到下半場，心理壓力會轉回熱門隊。",
+    "Norway vs Senegal 是 I 組身體強度最高的一場。Haaland 和 Ødegaard 的組合要面對 Mané 帶起的反擊速度，防線身後空間很值得盯。",
+    "Jordan vs Algeria 可能是最開放的一場，因為兩隊都首戰落敗，平手對雙方都不夠好。Mahrez 與 Al-Taamari 的邊路對決會很有戲。"
   ],
   "sources": [
     {
@@ -210,40 +211,48 @@
       "url": "https://www.sbnation.com/soccer/1117905/world-cup-standings-updated-full-list-of-teams"
     },
     {
-      "label": "Times of India：Belgium vs Iran 賽前 Doku 缺陣",
-      "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-blow-for-belgium-as-jeremy-doku-ruled-out-of-crucial-iran-clash-with-illness/articleshow/131882636.cms"
+      "label": "Houston Chronicle：Messi 對 Austria 前的歷史紀錄背景",
+      "url": "https://www.houstonchronicle.com/world-cup/article/lionel-messi-argentina-records-austria-22314112.php"
     },
     {
-      "label": "The Guardian：Iran World Cup 背景與 Taremi 焦點",
-      "url": "https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal"
+      "label": "El País：Argentina 3-0 Algeria 與 Messi 帽子戲法",
+      "url": "https://elpais.com/argentina/2026-06-17/argentina-argelia-el-partido-del-mundial-2026-en-vivo.html"
     },
     {
-      "label": "The Guardian：Mohamed Salah 與埃及世界盃期待",
-      "url": "https://www.theguardian.com/football/2026/jun/14/mohamed-salah-has-eyes-of-a-nation-on-him-as-egypt-look-to-end-92-year-wait"
+      "label": "The Guardian：Austria 3-1 Jordan 即時戰報",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest"
     },
     {
-      "label": "FourFourTwo：Egypt squad 與 Salah 最後世界盃脈絡",
-      "url": "https://www.fourfourtwo.com/team/egypt-world-cup-2026-squad"
+      "label": "The Guardian：Norway World Cup 黃金世代背景",
+      "url": "https://www.theguardian.com/football/2026/jun/15/norway-world-cup-slick-modern-model-erling-haaland"
     },
     {
-      "label": "The Guardian：Netherlands 5-1 Sweden 即時戰報",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live"
+      "label": "FourFourTwo：Norway World Cup 2026 squad",
+      "url": "https://www.fourfourtwo.com/team/norway-world-cup-2026-squad"
     },
     {
-      "label": "The Guardian：Germany 2-1 Côte d'Ivoire 即時戰報",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live"
+      "label": "FourFourTwo：Iraq World Cup 2026 squad",
+      "url": "https://www.fourfourtwo.com/team/iraq-world-cup-2026-squad"
     },
     {
-      "label": "Houston Chronicle：Netherlands 5-1 Sweden 賽後報導",
-      "url": "https://www.houstonchronicle.com/world-cup/article/netherlands-sweden-score-clockwork-orange-22313400.php"
+      "label": "The Guardian：Iraq head coach Graham Arnold 背景",
+      "url": "https://www.theguardian.com/football/2026/jun/15/iraq-head-coach-graham-arnold-world-cup-2026"
     },
     {
-      "label": "Bavarian Football Works：Germany vs Côte d'Ivoire 賽後分析",
-      "url": "https://www.bavarianfootballworks.com/fifa-world-cup/219089/match-analysis-observations-world-cup-germany-ivory-coast"
+      "label": "FourFourTwo：Algeria World Cup 2026 squad",
+      "url": "https://www.fourfourtwo.com/team/algeria-world-cup-2026-squad"
     },
     {
-      "label": "The Sun：Tunisia 0-4 Japan 賽後與進球片段",
-      "url": "https://www.thesun.co.uk/sport/39486996/world-cup-2026-japan-tunisia/"
+      "label": "The Guardian：Spain 4-0 Saudi Arabia 即時戰報",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live"
+    },
+    {
+      "label": "The Guardian：Uruguay 2-2 Cabo Verde 即時戰報",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/uruguay-v-cape-verde-world-cup-2026-live"
+    },
+    {
+      "label": "The Guardian：Tunisia 0-4 Japan 即時戰報",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest"
     }
   ]
 }
