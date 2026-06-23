@@ -104,7 +104,8 @@
       "currentClub": "Bayern Munich",
       "photoUrl": "assets/players/harry-kane.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Harry_Kane",
-      "note": "England 的禁區支點與隊長。面對 Ghana 的反擊威脅，他不只要終結，也要在前場把第一波壓迫和回做串起來。"
+      "note": "England 的禁區支點與隊長。面對 Ghana 的反擊威脅，他不只要終結，也要在前場把第一波壓迫和回做串起來。",
+      "currentClubUrl": "https://fcbayern.com/en"
     },
     {
       "name": "Jude Bellingham",
@@ -112,7 +113,8 @@
       "currentClub": "Real Madrid",
       "photoUrl": "assets/players/jude-bellingham.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Jude_Bellingham",
-      "note": "Guardian 賽前指出他即將迎來國家隊第 50 場。對 Ghana，他在十號位和中場線之間的接球，會決定 England 能否避免被反擊打亂。"
+      "note": "Guardian 賽前指出他即將迎來國家隊第 50 場。對 Ghana，他在十號位和中場線之間的接球，會決定 England 能否避免被反擊打亂。",
+      "currentClubUrl": "https://www.realmadrid.com/en-US"
     },
     {
       "name": "Mohammed Kudus",
@@ -120,7 +122,8 @@
       "currentClub": "Tottenham Hotspur",
       "photoUrl": "assets/players/mohammed-kudus.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Mohammed_Kudus",
-      "note": "Ghana 最能靠盤帶和身體轉身破壞防線的人。England 若中場退得太深，他會是把球帶進危險區的第一選項。"
+      "note": "Ghana 最能靠盤帶和身體轉身破壞防線的人。England 若中場退得太深，他會是把球帶進危險區的第一選項。",
+      "currentClubUrl": "https://www.tottenhamhotspur.com/"
     },
     {
       "name": "Antoine Semenyo",
@@ -128,7 +131,8 @@
       "currentClub": "Bournemouth",
       "photoUrl": "assets/players/antoine-semenyo.png",
       "profileUrl": "https://en.wikipedia.org/wiki/Antoine_Semenyo",
-      "note": "Tuchel 賽前談到 Ghana 的速度威脅，Semenyo 正是能攻擊 England 邊後衛身後空間的關鍵跑者。"
+      "note": "Tuchel 賽前談到 Ghana 的速度威脅，Semenyo 正是能攻擊 England 邊後衛身後空間的關鍵跑者。",
+      "currentClubUrl": "https://www.afcb.co.uk/"
     },
     {
       "name": "Cristiano Ronaldo",
@@ -136,7 +140,8 @@
       "currentClub": "Al Nassr",
       "photoUrl": "assets/players/cristiano-ronaldo.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "note": "首戰平局後，他的先發角色成為 Portugal 最大話題。這場若繼續先發，禁區效率與無球壓迫會被放大檢視。"
+      "note": "首戰平局後，他的先發角色成為 Portugal 最大話題。這場若繼續先發，禁區效率與無球壓迫會被放大檢視。",
+      "currentClubUrl": "https://alnassr.sa/"
     },
     {
       "name": "Vitinha",
@@ -144,7 +149,8 @@
       "currentClub": "Paris Saint-Germain",
       "photoUrl": "assets/players/vitinha.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Vitinha_(footballer,_born_February_2000)",
-      "note": "Portugal 需要更快的中場轉向與壓迫後第一腳，Vitinha 是讓球不只繞外圍傳遞的關鍵。"
+      "note": "Portugal 需要更快的中場轉向與壓迫後第一腳，Vitinha 是讓球不只繞外圍傳遞的關鍵。",
+      "currentClubUrl": "https://en.psg.fr/"
     },
     {
       "name": "Eldor Shomurodov",
@@ -152,7 +158,8 @@
       "currentClub": "İstanbul Başakşehir",
       "photoUrl": "assets/players/eldor-shomurodov.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Eldor_Shomurodov",
-      "note": "Uzbekistan 隊長與前場支點。若他能把長傳留住，Uzbekistan 才能把防守壓力轉成真正反擊。"
+      "note": "Uzbekistan 隊長與前場支點。若他能把長傳留住，Uzbekistan 才能把防守壓力轉成真正反擊。",
+      "currentClubUrl": "https://ibfk.com.tr/"
     },
     {
       "name": "Abdukodir Khusanov",
@@ -160,7 +167,8 @@
       "currentClub": "Manchester City",
       "photoUrl": "assets/players/abdukodir-khusanov.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Abdukodir_Khusanov",
-      "note": "El País 賽前把他形容成 Uzbekistan 防線的核心對抗點。對 Portugal，他要在禁區前處理 Ronaldo 與二線插上的碰撞。"
+      "note": "El País 賽前把他形容成 Uzbekistan 防線的核心對抗點。對 Portugal，他要在禁區前處理 Ronaldo 與二線插上的碰撞。",
+      "currentClubUrl": "https://www.mancity.com/"
     },
     {
       "name": "James Rodríguez",
@@ -168,7 +176,8 @@
       "currentClub": "León",
       "photoUrl": "assets/players/james-rodriguez.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/James_Rodr%C3%ADguez",
-      "note": "Colombia 仍需要他的左腳傳球、定位球和節奏控制。面對 DR Congo 的身體對抗，他能不能提早找到邊路會很重要。"
+      "note": "Colombia 仍需要他的左腳傳球、定位球和節奏控制。面對 DR Congo 的身體對抗，他能不能提早找到邊路會很重要。",
+      "currentClubUrl": "https://clubleon.mx/"
     },
     {
       "name": "Yoane Wissa",
@@ -176,7 +185,8 @@
       "currentClub": "Newcastle United",
       "photoUrl": "assets/players/yoane-wissa.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Yoane_Wissa",
-      "note": "DR Congo 首戰逼平 Portugal 後，最需要能把反擊變成射門的人。Wissa 的衝刺和禁區判斷會直接考驗 Colombia 後防。"
+      "note": "DR Congo 首戰逼平 Portugal 後，最需要能把反擊變成射門的人。Wissa 的衝刺和禁區判斷會直接考驗 Colombia 後防。",
+      "currentClubUrl": "https://www.newcastleunited.com/"
     },
     {
       "name": "Luka Modrić",
@@ -184,7 +194,8 @@
       "currentClub": "AC Milan",
       "photoUrl": "assets/players/luka-modric.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
-      "note": "Croatia 首戰失四球後需要把比賽節奏降下來。Modrić 的控球和轉移，是避免再被拖進對攻的第一道保險。"
+      "note": "Croatia 首戰失四球後需要把比賽節奏降下來。Modrić 的控球和轉移，是避免再被拖進對攻的第一道保險。",
+      "currentClubUrl": "https://www.acmilan.com/en"
     },
     {
       "name": "Joško Gvardiol",
@@ -192,7 +203,8 @@
       "currentClub": "Manchester City",
       "photoUrl": "assets/players/josko-gvardiol.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Jo%C5%A1ko_Gvardiol",
-      "note": "Croatia 對 Panama 不能只靠控球，還要靠他從後場推進打破第一線壓迫。防守端也要補上首戰暴露的身後空間。"
+      "note": "Croatia 對 Panama 不能只靠控球，還要靠他從後場推進打破第一線壓迫。防守端也要補上首戰暴露的身後空間。",
+      "currentClubUrl": "https://www.mancity.com/"
     },
     {
       "name": "Adalberto Carrasquilla",
@@ -200,7 +212,8 @@
       "currentClub": "Pumas UNAM",
       "photoUrl": "assets/players/adalberto-carrasquilla.jpg",
       "profileUrl": "https://en.wikipedia.org/wiki/Adalberto_Carrasquilla",
-      "note": "Panama 最重要的中場出口。若他被 Croatia 限制住，Panama 很難把比賽從防守半場推回中線。"
+      "note": "Panama 最重要的中場出口。若他被 Croatia 限制住，Panama 很難把比賽從防守半場推回中線。",
+      "currentClubUrl": "https://pumas.mx/"
     }
   ],
   "watchPoints": [

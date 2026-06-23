@@ -598,6 +598,17 @@ h2 {
   white-space: nowrap;
 }
 
+.player-card .player-club a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.player-card .player-club a:hover {
+  color: #006fff;
+}
+
 .player-photo {
   width: 86px;
   height: 86px;

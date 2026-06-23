@@ -66,7 +66,17 @@ function renderPlayers(players) {
     const meta = create("div", "player-meta");
     meta.append(create("span", "player-team", player.team));
     if (player.currentClub) {
-      meta.append(create("span", "player-club", `職業隊：${player.currentClub}`));
+      const club = create("span", "player-club", "職業隊：");
+      if (player.currentClubUrl) {
+        const clubLink = create("a", "", player.currentClub);
+        clubLink.href = player.currentClubUrl;
+        clubLink.target = "_blank";
+        clubLink.rel = "noreferrer";
+        club.append(clubLink);
+      } else {
+        club.append(document.createTextNode(player.currentClub));
+      }
+      meta.append(club);
     }
     if (player.profileUrl) {
       const source = create("a", "photo-source", "照片來源");
