@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-06-24T12:23:21+08:00",
+  "publishedAt": "2026-06-24T12:45:18+08:00",
   "targetDateLabel": "2026-06-25 台灣時間",
   "visualDate": "Jun 25",
   "summary": "明天台灣時間 03:00 到 09:00 進入 A、B、C 組第三輪收官，一共六場同日決定出線順位。最值得優先看的是 Scotland vs Brazil：Brazil 仍是星度最高的淘汰賽級別隊伍，但 Scotland 正在爭取把睽違多年的世界盃回歸變成真正出線故事。",
@@ -44,7 +44,7 @@
       "home": "Scotland",
       "away": "Brazil",
       "headline": "Brazil 的淘汰賽級星度碰上 Scotland 的出線野心，C 組最有張力的一場",
-      "analysis": "Brazil 前兩輪已經把主動權拿回來，但開局對 Morocco 的 1 比 1 也提醒 Ancelotti：這支隊伍不能只靠個人天賦慢慢解題。Vinicius Junior、Raphinha 與 Rodrygo 若能在半空間和弱邊轉移中連線，Scotland 的防線會被迫長時間後退。Scotland 的關鍵在於 McTominay 能不能把中場對抗變成前插威脅；只要前 30 分鐘不被 Brazil 拉開，他們就能把比賽拖進壓力更重的第三輪節奏。",
+      "analysis": "Brazil 前兩輪已經把主動權拿回來，但開局對 Morocco 的 1 比 1 也提醒 Ancelotti：這支隊伍不能只靠個人天賦慢慢解題。Raphinha 傷勢讓右路選擇變少，但 Neymar 預期傷癒回歸，搭配 Vinicius Junior、Endrick、Martinelli 等不同型態攻擊手，仍足以讓 Scotland 的防線長時間後退。Scotland 的關鍵在於 McTominay 能不能把中場對抗變成前插威脅；只要前 30 分鐘不被 Brazil 拉開，他們就能把比賽拖進壓力更重的第三輪節奏。",
       "tags": [
         "C 組出線戰",
         "Brazil 星度壓力",
@@ -138,13 +138,13 @@
       "currentClubUrl": "https://www.realmadrid.com/en-US"
     },
     {
-      "name": "Raphinha",
+      "name": "Neymar",
       "team": "Brazil",
-      "currentClub": "Barcelona",
-      "photoUrl": "assets/players/raphinha.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Raphinha",
-      "note": "Brazil 需要他在右路提供直線速度與反搶能量，避免進攻全部落到 Vinicius Junior 一側。",
-      "currentClubUrl": "https://www.fcbarcelona.com/en/"
+      "currentClub": "Santos",
+      "photoUrl": "assets/players/neymar.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Neymar",
+      "note": "Guardian 賽前指出他預期傷癒回歸。Raphinha 傷缺後，Neymar 的創造力與定位球品質更可能成為 Brazil 對 Scotland 的情緒焦點。",
+      "currentClubUrl": "https://www.santosfc.com.br/en/"
     },
     {
       "name": "Scott McTominay",
@@ -301,6 +301,14 @@
     {
       "label": "FourFourTwo：Brazil World Cup 2026 squad and storyline",
       "url": "https://www.fourfourtwo.com/team/brazil-world-cup-2026-squad"
+    },
+    {
+      "label": "Guardian：Scotland vs Brazil 賽前 Neymar 回歸與 Raphinha 傷勢背景",
+      "url": "https://www.theguardian.com/football/2026/jun/23/steve-clarke-warns-scotland-of-threat-posed-by-returning-brazil-icon-neymar"
+    },
+    {
+      "label": "Barca Blaugranes：Barcelona 關注 Raphinha 腿後肌傷勢",
+      "url": "https://www.barcablaugranes.com/world-cup-2026/124533/barcelona-sending-warning-to-brazil-over-raphinha-injury"
     },
     {
       "label": "FourFourTwo：World Cup 2026 scores so far",
