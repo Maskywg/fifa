@@ -1,226 +1,265 @@
 {
-  "publishedAt": "2026-06-23T09:24:20+08:00",
-  "targetDateLabel": "2026-06-24 台灣時間",
-  "visualDate": "Jun 24",
-  "summary": "明天台灣時間 01:00 到 10:00 一共四場，焦點轉到 K、L 組第二輪。最值得優先看的是 England vs Ghana：兩隊首戰都贏，England 若再拿三分就能提前鎖定淘汰賽席位；Ghana 則帶著首戰零封 Panama 的信心，準備測試 Tuchel 這支 England 的防線穩定度。",
-  "dailyAngle": "這一天的共同主題是第二輪的壓力分層。England、Ghana、Colombia 都握有三分，Portugal 只有一分但陣容深度最豪華；Croatia、Panama、Uzbekistan 則背著首戰失利或落後壓力，DR Congo 首戰逼平 Portugal 後反而有機會把 K 組攪成真正亂局。",
-  "sourceNote": "賽程與場地以 FIFA World Cup 26 官方賽程頁為主，開球時間以 SB Nation 6/23 更新賽程所列美東時間換算為 Asia/Taipei。本頁鎖定台灣時間 2026-06-24 00:00 至 23:59，因此對應官方當地日期 2026-06-23 的 K/L 組第二輪。積分與首輪結果以 SB Nation 最新積分頁交叉確認，賽前故事線補充 Guardian、Houston Chronicle、FourFourTwo 與 El País 報導。",
+  "publishedAt": "2026-06-24T12:23:21+08:00",
+  "targetDateLabel": "2026-06-25 台灣時間",
+  "visualDate": "Jun 25",
+  "summary": "明天台灣時間 03:00 到 09:00 進入 A、B、C 組第三輪收官，一共六場同日決定出線順位。最值得優先看的是 Scotland vs Brazil：Brazil 仍是星度最高的淘汰賽級別隊伍，但 Scotland 正在爭取把睽違多年的世界盃回歸變成真正出線故事。",
+  "dailyAngle": "這一天的共同主題是第三輪的同組同步壓力。Mexico 已經握有 A 組主動權，Canada 與 Switzerland 要直接爭 B 組頭名，Brazil、Morocco、Scotland 則在 C 組互相擠壓順位；對 South Korea、Czechia、Bosnia、Qatar、Haiti 來說，最後 90 分鐘更像是在爭取第二名或最佳第三名的生命線。",
+  "sourceNote": "賽程與場地以 FIFA World Cup 26 官方賽程為主，開球時間以 TechRadar/Tom's Guide 所列英國、美東與當地時間換算為 Asia/Taipei。本頁鎖定台灣時間 2026-06-25 00:00 至 23:59，因此對應美洲當地 2026-06-24 的 A/B/C 組第三輪。積分與出線情境以 SB Nation 6/24 更新的賽程、積分與晉級名單交叉確認；賽前故事線補充 Guardian、FourFourTwo 與 Tom's Guide。",
   "highlightVideos": [
     {
-      "title": "Argentina 2-0 Austria：Messi 雙響成為世界盃歷史射手王",
-      "source": "The Guardian match report",
-      "player": "Lionel Messi",
-      "description": "前一賽日最大進球故事。Messi 對 Austria 梅開二度，把世界盃生涯進球推到 18 球並超越 Klose。未找到可確認嵌入的 FIFA、ELTA 或 YouTube 官方精華，先保留可外開戰報連結。",
-      "url": "https://www.theguardian.com/football/2026/jun/22/argentina-austria-world-cup-group-j-match-report"
-    },
-    {
-      "title": "France 3-0 Iraq：Mbappé 雙響，暴風雨延誤後仍主宰比賽",
+      "title": "Portugal 5-0 Uzbekistan：Ronaldo 梅開二度回應先發爭議",
       "source": "The Guardian live report",
-      "player": "Kylian Mbappé / Ousmane Dembélé",
-      "description": "France 連兩勝的關鍵回看。Mbappé 兩球加上 Dembélé 進球，讓 France 在 I 組保持強勢。此項為外開即時戰報，尚未確認官方可嵌入影片。",
-      "url": "https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates"
+      "player": "Cristiano Ronaldo",
+      "description": "前一賽日最鮮明的進球故事。Portugal 在首戰平局後反彈，Ronaldo 雙響，Nuno Mendes、Rafa Leão 與 Khusanov 烏龍球也讓 K 組局勢重新洗牌。未找到可確認嵌入的 FIFA、ELTA 或 YouTube 官方精華，先保留外開戰報。",
+      "url": "https://www.theguardian.com/football/live/2026/jun/23/portugal-v-uzbekistan-world-cup-2026-live"
     },
     {
-      "title": "Portugal 1-1 DR Congo：Ronaldo 先發爭議與 Portugal 進攻卡住",
-      "source": "The Guardian analysis",
-      "player": "Cristiano Ronaldo / Bruno Fernandes",
-      "description": "作為 Portugal vs Uzbekistan 的賽前背景，這篇整理 Portugal 首戰平局後的核心爭議：Ronaldo 的先發角色、Fernandes 的責任與 Martínez 的用人壓力。此連結為外開分析，不是嵌入影片。",
-      "url": "https://www.theguardian.com/football/2026/jun/22/cristiano-ronaldo-portugal-world-cup"
+      "title": "Colombia 1-0 DR Congo：Daniel Muñoz 76 分鐘決勝",
+      "source": "The Guardian live report",
+      "player": "Daniel Muñoz",
+      "description": "Colombia 靠 Muñoz 下半場進球鎖定晉級，DR Congo 門將 Lionel Mpasi 多次撲救仍無法守住平局。此項為外開即時戰報，尚未確認官方可嵌入影片。",
+      "url": "https://www.theguardian.com/football/live/2026/jun/24/fifa-world-cup-2026-live-colombia-v-dr-congo-updates-col-vs-cod-group-k-match-score-latest"
     },
     {
-      "title": "England 4-2 Croatia：Kane、Bellingham 與 Tuchel 的高節奏起手式",
-      "source": "SB Nation schedule / Guardian preview context",
-      "player": "Harry Kane / Jude Bellingham",
-      "description": "England vs Ghana 前必看的首輪背景。England 首戰進了四球，但 Tuchel 賽前仍要求改善防守退太深與反擊管理問題。先保留外開賽程與戰報脈絡連結。",
-      "url": "https://www.theguardian.com/football/2026/jun/23/thomas-tuchel-england-ghana-world-cup-defence-improve"
+      "title": "England 0-0 Ghana：Ghana 防線讓 L 組保持懸念",
+      "source": "The Guardian player ratings",
+      "player": "Jerome Opoku / Jonas Adjetey",
+      "description": "England 被 Ghana 逼平，L 組最後一輪仍有變數。這場沒有進球精華可嵌入，因此保留 Guardian 球員評分與戰術觀察連結。",
+      "url": "https://www.theguardian.com/football/2026/jun/23/england-0-0-ghana-world-cup-2026-group-l-player-ratings"
+    },
+    {
+      "title": "World Cup 2026 晉級名單更新：Mexico、USA、Germany 等隊已過關",
+      "source": "SB Nation knockout bracket tracker",
+      "player": "Mexico / Canada / Brazil context",
+      "description": "作為 A/B/C 組第三輪的背景，SB Nation 持續更新已晉級球隊與 Round of 32 形勢。此項為外開追蹤頁，不是嵌入影片。",
+      "url": "https://www.sbnation.com/fifa-world-cup/1119051/world-cup-2026-knockout-bracket-who-qualified"
     }
   ],
   "matches": [
     {
       "priority": "第 1 場",
-      "group": "Group L",
-      "time": "台灣 06/24 04:00",
-      "venue": "Boston Stadium，波士頓",
-      "home": "England",
-      "away": "Ghana",
-      "headline": "England 再贏就能提前出線，但 Ghana 的反擊速度會直接測試 Tuchel 的防線修正",
-      "analysis": "England 首戰 4 比 2 擊敗 Croatia，進攻端的 Kane、Bellingham 與中前場串聯很有說服力，但 Tuchel 賽前仍公開要求改善防守結構，尤其是不能太早退成低位。Ghana 首戰 1 比 0 贏 Panama，已經拿到關鍵三分；如果 Kudus、Semenyo 能把反擊第一腳處理乾淨，England 中後場的站位和回追會被迫進入真正壓力測試。這場勝方幾乎可以把出線主動權握在手上。",
+      "group": "Group C",
+      "time": "台灣 06/25 06:00",
+      "venue": "Miami Stadium，邁阿密",
+      "home": "Scotland",
+      "away": "Brazil",
+      "headline": "Brazil 的淘汰賽級星度碰上 Scotland 的出線野心，C 組最有張力的一場",
+      "analysis": "Brazil 前兩輪已經把主動權拿回來，但開局對 Morocco 的 1 比 1 也提醒 Ancelotti：這支隊伍不能只靠個人天賦慢慢解題。Vinicius Junior、Raphinha 與 Rodrygo 若能在半空間和弱邊轉移中連線，Scotland 的防線會被迫長時間後退。Scotland 的關鍵在於 McTominay 能不能把中場對抗變成前插威脅；只要前 30 分鐘不被 Brazil 拉開，他們就能把比賽拖進壓力更重的第三輪節奏。",
       "tags": [
-        "L 組榜首戰",
-        "England 出線門票",
-        "Ghana 反擊測試"
+        "C 組出線戰",
+        "Brazil 星度壓力",
+        "Scotland 回歸故事"
       ]
     },
     {
       "priority": "第 2 場",
-      "group": "Group K",
-      "time": "台灣 06/24 01:00",
-      "venue": "Houston Stadium，休士頓",
-      "home": "Portugal",
-      "away": "Uzbekistan",
-      "headline": "Portugal 首戰只拿一分後不能再慢熱，Uzbekistan 要靠 Khusanov 把比賽拖成肉搏",
-      "analysis": "Portugal 首戰 1 比 1 被 DR Congo 逼平後，壓力不只在積分，也在 Ronaldo 的角色與 Martínez 的用人判斷。面對首戰 1 比 3 輸 Colombia 的 Uzbekistan，Portugal 需要 Bruno Fernandes、Vitinha 與邊路速度更早接管節奏，否則比賽會越踢越像首戰那種低效率控球。Uzbekistan 的目標很明確：讓 Shomurodov 留住前場第一點，讓 Khusanov 的對抗把 Portugal 的禁區節奏切碎。",
+      "group": "Group B",
+      "time": "台灣 06/25 03:00",
+      "venue": "BC Place Vancouver，溫哥華",
+      "home": "Switzerland",
+      "away": "Canada",
+      "headline": "Canada 主場氣勢對上 Switzerland 的大賽穩定度，B 組頭名直接對決",
+      "analysis": "Canada 已經用大比分勝利證明主場不是只有情緒加成，Davies 的左路推進和 Jonathan David 的禁區效率是他們最清楚的贏球路徑。Switzerland 的優勢在於節奏管理與中場硬度，Xhaka 能不能把球權從 Canada 的高壓中拆出來，會決定這場是主隊速度秀，還是瑞士把比賽壓成低風險的排名戰。這場勝負很可能直接改寫 B 組淘汰賽路徑。",
       "tags": [
-        "K 組反彈壓力",
-        "Ronaldo 角色爭議",
-        "Uzbekistan 首勝夢"
+        "B 組頭名戰",
+        "Canada 主場能量",
+        "Switzerland 控場"
       ]
     },
     {
       "priority": "第 3 場",
-      "group": "Group K",
-      "time": "台灣 06/24 10:00",
-      "venue": "Estadio Guadalajara，瓜達拉哈拉",
-      "home": "Colombia",
-      "away": "DR Congo",
-      "headline": "Colombia 有機會提前接近出線，DR Congo 若再搶分就會把 K 組推向混戰",
-      "analysis": "Colombia 首戰 3 比 1 擊敗 Uzbekistan，目前以淨勝球領跑 K 組；這場如果再贏，最後一輪面對 Portugal 前就能把風險降到最低。James Rodríguez 的傳球節奏和定位球仍是 Colombia 的中樞，邊路與二線插上則要持續懲罰 DR Congo 防線。DR Congo 首戰逼平 Portugal 不是偶然，Wissa、Mbemba 與整體身體強度會讓比賽很難踢；若他們先守住前 30 分鐘，K 組排名會變得非常有趣。",
+      "group": "Group A",
+      "time": "台灣 06/25 09:00",
+      "venue": "Mexico City Stadium，墨西哥城",
+      "home": "Czechia",
+      "away": "Mexico",
+      "headline": "Mexico 已率先晉級但還要守住主場氣勢，Czechia 需要 Schick 把希望變成進球",
+      "analysis": "SB Nation 的晉級追蹤已把 Mexico 列為 A 組率先過關球隊，但第三輪在墨西哥城仍不能鬆掉，因為主場敘事和淘汰賽種子路徑都需要延續。Edson Álvarez 的中場保護與 Santiago Giménez 的禁區終結，是 Mexico 最穩的骨架。Czechia 若還想搶第二或最佳第三名，Patrik Schick 必須把有限傳中和定位球轉化成真正射門，否則 Mexico 的控球會慢慢把比賽消耗完。",
       "tags": [
-        "K 組榜首壓力",
-        "Colombia 出線路徑",
-        "DR Congo 攪局能力"
+        "A 組主場收官",
+        "Mexico 已晉級",
+        "Czechia 必須進球"
       ]
     },
     {
       "priority": "第 4 場",
-      "group": "Group L",
-      "time": "台灣 06/24 07:00",
-      "venue": "Toronto Stadium，多倫多",
-      "home": "Panama",
-      "away": "Croatia",
-      "headline": "Croatia 首戰丟四球後必須修正防守，Panama 需要把零封失利變成搶分耐心",
-      "analysis": "Croatia 首戰 2 比 4 輸 England，問題不在完全沒有創造力，而是防線被節奏變化反覆拉開；面對 Panama，如果 Modrić 的控場與 Gvardiol 的推進能把球權穩住，Croatia 仍有足夠品質反彈。Panama 首戰 0 比 1 輸 Ghana，比分讓他們仍保有競爭空間；Carrasquilla 必須把中場第一腳傳出去，否則 Croatia 的經驗會慢慢把比賽壓成半場攻防。",
+      "group": "Group A",
+      "time": "台灣 06/25 09:00",
+      "venue": "Estadio Monterrey，蒙特雷",
+      "home": "South Africa",
+      "away": "South Korea",
+      "headline": "South Korea 要搶 A 組第二，South Africa 需要把速度反擊踢成最後生機",
+      "analysis": "A 組最後一輪同步開球，South Korea 的目標很直接：避開被 Czechia 追上的風險，盡量用勝利鎖住第二名或至少提高最佳第三名分數。Son Heung-min 的反擊第一腳與 Lee Kang-in 的肋部傳球，是 South Korea 最能把比賽打開的兩個點。South Africa 首戰輸給 Mexico 後已經沒有太多容錯，若不能在前場逼出失誤，長時間防守會讓體能與心態一起被壓住。",
       "tags": [
-        "L 組保命戰",
-        "Croatia 防線修正",
-        "Panama 中場出口"
+        "A 組第二名壓力",
+        "South Korea 反擊",
+        "South Africa 最後機會"
+      ]
+    },
+    {
+      "priority": "第 5 場",
+      "group": "Group C",
+      "time": "台灣 06/25 06:00",
+      "venue": "Atlanta Stadium，亞特蘭大",
+      "home": "Morocco",
+      "away": "Haiti",
+      "headline": "Morocco 要把首戰逼平 Brazil 的強度延續到出線門檻，Haiti 為尊嚴與最佳第三名可能性而戰",
+      "analysis": "Morocco 的問題不是強度，而是能否在必須贏的比賽裡主動創造足夠機會。Hakimi 的右路推進和定位球品質會是打開 Haiti 密集防線的關鍵。Haiti 已被外界視為 C 組最艱難的一隊，但 Duckens Nazon 仍是能在單次反擊裡改變情緒的人；若 Morocco 久攻不下，這場會比排名紙面看起來更緊。",
+      "tags": [
+        "C 組同步收官",
+        "Morocco 主動進攻",
+        "Haiti 尊嚴戰"
+      ]
+    },
+    {
+      "priority": "第 6 場",
+      "group": "Group B",
+      "time": "台灣 06/25 03:00",
+      "venue": "Seattle Stadium，西雅圖",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "headline": "Bosnia 與 Qatar 都需要勝利保住數學希望，Džeko 對 Afif 是最後一搏的核心對話",
+      "analysis": "這場不像 Switzerland vs Canada 那樣決定頭名，但對兩隊都是不能再等待的比賽。Bosnia 需要 Džeko 在禁區內把第一點和二次進攻串起來，否則很難把控球變成高品質射門。Qatar 則要靠 Akram Afif 的帶球與最後一傳，讓比賽不只是被動承受。若另一場很早出現比分，這裡的情緒和冒險程度會跟著快速升高。",
+      "tags": [
+        "B 組生死線",
+        "Džeko 禁區支點",
+        "Afif 反擊創造"
       ]
     }
   ],
   "players": [
     {
-      "name": "Harry Kane",
-      "team": "England",
-      "currentClub": "Bayern Munich",
-      "photoUrl": "assets/players/harry-kane.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Harry_Kane",
-      "note": "England 的禁區支點與隊長。面對 Ghana 的反擊威脅，他不只要終結，也要在前場把第一波壓迫和回做串起來。",
-      "currentClubUrl": "https://fcbayern.com/en"
-    },
-    {
-      "name": "Jude Bellingham",
-      "team": "England",
+      "name": "Vinicius Junior",
+      "team": "Brazil",
       "currentClub": "Real Madrid",
-      "photoUrl": "assets/players/jude-bellingham.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Jude_Bellingham",
-      "note": "Guardian 賽前指出他即將迎來國家隊第 50 場。對 Ghana，他在十號位和中場線之間的接球，會決定 England 能否避免被反擊打亂。",
+      "photoUrl": "assets/players/vinicius-junior.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior",
+      "note": "Brazil 最能用個人突破改變防線形狀的人。對 Scotland，他要把左路一對一變成禁區內的連續威脅。",
       "currentClubUrl": "https://www.realmadrid.com/en-US"
     },
     {
-      "name": "Mohammed Kudus",
-      "team": "Ghana",
-      "currentClub": "Tottenham Hotspur",
-      "photoUrl": "assets/players/mohammed-kudus.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Mohammed_Kudus",
-      "note": "Ghana 最能靠盤帶和身體轉身破壞防線的人。England 若中場退得太深，他會是把球帶進危險區的第一選項。",
-      "currentClubUrl": "https://www.tottenhamhotspur.com/"
+      "name": "Raphinha",
+      "team": "Brazil",
+      "currentClub": "Barcelona",
+      "photoUrl": "assets/players/raphinha.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Raphinha",
+      "note": "Brazil 需要他在右路提供直線速度與反搶能量，避免進攻全部落到 Vinicius Junior 一側。",
+      "currentClubUrl": "https://www.fcbarcelona.com/en/"
     },
     {
-      "name": "Antoine Semenyo",
-      "team": "Ghana",
-      "currentClub": "Bournemouth",
-      "photoUrl": "assets/players/antoine-semenyo.png",
-      "profileUrl": "https://en.wikipedia.org/wiki/Antoine_Semenyo",
-      "note": "Tuchel 賽前談到 Ghana 的速度威脅，Semenyo 正是能攻擊 England 邊後衛身後空間的關鍵跑者。",
-      "currentClubUrl": "https://www.afcb.co.uk/"
+      "name": "Scott McTominay",
+      "team": "Scotland",
+      "currentClub": "Napoli",
+      "photoUrl": "assets/players/scott-mctominay.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Scott_McTominay",
+      "note": "Scotland 的中場對抗和後插上威脅都離不開他。若能把 Brazil 中場壓回去，Scotland 才有搶分可能。",
+      "currentClubUrl": "https://sscnapoli.it/en/"
     },
     {
-      "name": "Cristiano Ronaldo",
-      "team": "Portugal",
-      "currentClub": "Al Nassr",
-      "photoUrl": "assets/players/cristiano-ronaldo.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "note": "首戰平局後，他的先發角色成為 Portugal 最大話題。這場若繼續先發，禁區效率與無球壓迫會被放大檢視。",
-      "currentClubUrl": "https://alnassr.sa/"
-    },
-    {
-      "name": "Vitinha",
-      "team": "Portugal",
+      "name": "Achraf Hakimi",
+      "team": "Morocco",
       "currentClub": "Paris Saint-Germain",
-      "photoUrl": "assets/players/vitinha.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Vitinha_(footballer,_born_February_2000)",
-      "note": "Portugal 需要更快的中場轉向與壓迫後第一腳，Vitinha 是讓球不只繞外圍傳遞的關鍵。",
+      "photoUrl": "assets/players/achraf-hakimi.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Achraf_Hakimi",
+      "note": "Morocco 要主動拆 Haiti 防線時，Hakimi 的右路推進、斜傳與定位球會是最穩定的開關。",
       "currentClubUrl": "https://en.psg.fr/"
     },
     {
-      "name": "Eldor Shomurodov",
-      "team": "Uzbekistan",
-      "currentClub": "İstanbul Başakşehir",
-      "photoUrl": "assets/players/eldor-shomurodov.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Eldor_Shomurodov",
-      "note": "Uzbekistan 隊長與前場支點。若他能把長傳留住，Uzbekistan 才能把防守壓力轉成真正反擊。",
-      "currentClubUrl": "https://ibfk.com.tr/"
+      "name": "Alphonso Davies",
+      "team": "Canada",
+      "currentClub": "Bayern Munich",
+      "photoUrl": "assets/players/alphonso-davies.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Alphonso_Davies",
+      "note": "Canada 的左路推進器。面對 Switzerland 的節奏控制，他每次帶球越過第一線都可能把主場聲量帶起來。",
+      "currentClubUrl": "https://fcbayern.com/en"
     },
     {
-      "name": "Abdukodir Khusanov",
-      "team": "Uzbekistan",
-      "currentClub": "Manchester City",
-      "photoUrl": "assets/players/abdukodir-khusanov.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Abdukodir_Khusanov",
-      "note": "El País 賽前把他形容成 Uzbekistan 防線的核心對抗點。對 Portugal，他要在禁區前處理 Ronaldo 與二線插上的碰撞。",
-      "currentClubUrl": "https://www.mancity.com/"
+      "name": "Jonathan David",
+      "team": "Canada",
+      "currentClub": "Juventus",
+      "photoUrl": "assets/players/jonathan-david.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Jonathan_David",
+      "note": "Canada 需要有人把速度優勢變成終結。David 的跑位和禁區第一腳，是 B 組頭名戰的核心效率指標。",
+      "currentClubUrl": "https://www.juventus.com/en/"
     },
     {
-      "name": "James Rodríguez",
-      "team": "Colombia",
-      "currentClub": "León",
-      "photoUrl": "assets/players/james-rodriguez.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/James_Rodr%C3%ADguez",
-      "note": "Colombia 仍需要他的左腳傳球、定位球和節奏控制。面對 DR Congo 的身體對抗，他能不能提早找到邊路會很重要。",
-      "currentClubUrl": "https://clubleon.mx/"
+      "name": "Granit Xhaka",
+      "team": "Switzerland",
+      "currentClub": "Bayer Leverkusen",
+      "photoUrl": "assets/players/granit-xhaka.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Granit_Xhaka",
+      "note": "Switzerland 的控場核心。若他能抗住 Canada 高壓，Switzerland 就能把比賽拉回自己熟悉的低失誤節奏。",
+      "currentClubUrl": "https://www.bayer04.de/en-us"
     },
     {
-      "name": "Yoane Wissa",
-      "team": "DR Congo",
-      "currentClub": "Newcastle United",
-      "photoUrl": "assets/players/yoane-wissa.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Yoane_Wissa",
-      "note": "DR Congo 首戰逼平 Portugal 後，最需要能把反擊變成射門的人。Wissa 的衝刺和禁區判斷會直接考驗 Colombia 後防。",
-      "currentClubUrl": "https://www.newcastleunited.com/"
+      "name": "Edin Džeko",
+      "team": "Bosnia and Herzegovina",
+      "currentClub": "Schalke 04",
+      "photoUrl": "assets/players/edin-dzeko.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Edin_D%C5%BEeko",
+      "note": "Bosnia 的最後生機仍繫在他的禁區支點與射門判斷。對 Qatar，他需要把有限機會直接變成比分。",
+      "currentClubUrl": "https://schalke04.de/en/"
     },
     {
-      "name": "Luka Modrić",
-      "team": "Croatia",
+      "name": "Akram Afif",
+      "team": "Qatar",
+      "currentClub": "Al Sadd",
+      "photoUrl": "assets/players/akram-afif.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Akram_Afif",
+      "note": "Qatar 最有創造力的持球點。若他能在反擊中吸住兩名防守者，Qatar 才能把壓力轉成機會。",
+      "currentClubUrl": "https://al-saddclub.com/"
+    },
+    {
+      "name": "Santiago Giménez",
+      "team": "Mexico",
       "currentClub": "AC Milan",
-      "photoUrl": "assets/players/luka-modric.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
-      "note": "Croatia 首戰失四球後需要把比賽節奏降下來。Modrić 的控球和轉移，是避免再被拖進對攻的第一道保險。",
+      "photoUrl": "assets/players/santiago-gimenez.png",
+      "profileUrl": "https://en.wikipedia.org/wiki/Santiago_Gim%C3%A9nez",
+      "note": "Mexico 已晉級後仍需要維持禁區效率。Giménez 的第一腳終結會決定主場收官是否乾淨。",
       "currentClubUrl": "https://www.acmilan.com/en"
     },
     {
-      "name": "Joško Gvardiol",
-      "team": "Croatia",
-      "currentClub": "Manchester City",
-      "photoUrl": "assets/players/josko-gvardiol.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Jo%C5%A1ko_Gvardiol",
-      "note": "Croatia 對 Panama 不能只靠控球，還要靠他從後場推進打破第一線壓迫。防守端也要補上首戰暴露的身後空間。",
-      "currentClubUrl": "https://www.mancity.com/"
+      "name": "Edson Álvarez",
+      "team": "Mexico",
+      "currentClub": "Fenerbahçe",
+      "photoUrl": "assets/players/edson-alvarez.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Edson_%C3%81lvarez",
+      "note": "Mexico 的中場保險。面對 Czechia 的定位球與長傳，他的二點球保護會讓主隊少很多風險。",
+      "currentClubUrl": "https://www.fenerbahce.org/"
     },
     {
-      "name": "Adalberto Carrasquilla",
-      "team": "Panama",
-      "currentClub": "Pumas UNAM",
-      "photoUrl": "assets/players/adalberto-carrasquilla.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Adalberto_Carrasquilla",
-      "note": "Panama 最重要的中場出口。若他被 Croatia 限制住，Panama 很難把比賽從防守半場推回中線。",
-      "currentClubUrl": "https://pumas.mx/"
+      "name": "Patrik Schick",
+      "team": "Czechia",
+      "currentClub": "Bayer Leverkusen",
+      "photoUrl": "assets/players/patrik-schick.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Patrik_Schick",
+      "note": "Czechia 最需要的就是把半機會變成進球。Schick 的空中對抗與禁區嗅覺，是挑戰 Mexico 的主要路徑。",
+      "currentClubUrl": "https://www.bayer04.de/en-us"
+    },
+    {
+      "name": "Son Heung-min",
+      "team": "South Korea",
+      "currentClub": "Los Angeles FC",
+      "photoUrl": "assets/players/son-heung-min.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Son_Heung-min",
+      "note": "South Korea 的反擊第一選擇。最後一輪若要避開混亂排名，他必須把空間衝刺變成真正射門。",
+      "currentClubUrl": "https://www.lafc.com/"
+    },
+    {
+      "name": "Lee Kang-in",
+      "team": "South Korea",
+      "currentClub": "Paris Saint-Germain",
+      "photoUrl": "assets/players/lee-kang-in.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Lee_Kang-in",
+      "note": "South Korea 需要他在肋部接球後送出最後一傳，否則 South Africa 的低位防守會讓比賽變得很黏。",
+      "currentClubUrl": "https://en.psg.fr/"
     }
   ],
   "watchPoints": [
-    "先看 England vs Ghana：兩隊同為三分，勝方幾乎等於踏進淘汰賽；England 的進攻火力和 Ghana 的反擊速度正好互相檢驗。",
-    "Portugal vs Uzbekistan 的重點不是 Portugal 會不會控球，而是控球能否變成禁區內的高品質機會。Ronaldo 先發爭議會讓每次進攻選擇都被放大。",
-    "Colombia vs DR Congo 是 K 組排名變化最大的比賽。Colombia 若兩連勝就接近出線，DR Congo 若再拿分，Portugal 的壓力會繼續升高。",
-    "Panama vs Croatia 是 L 組的早期保命戰。Croatia 不能再讓比賽開放，Panama 則要證明首戰只輸一球不是偶然。"
+    "先看 Scotland vs Brazil：Brazil 星度最高，但 Scotland 若守住開局，這場會變成 C 組最有淘汰賽味道的心理戰。",
+    "03:00 兩場 B 組同步開球要一起盯。Switzerland vs Canada 決定頭名，Bosnia vs Qatar 則會被另一場比分牽動冒險程度。",
+    "09:00 A 組同步收官重點在 Mexico 是否輪換仍保持控制，以及 South Korea 能不能用勝利把第二名壓力關掉。",
+    "第三輪同步賽的看點不是單場比分而已，還有最佳第三名門檻；任何早段進球都可能讓同組另一場立刻改變風險策略。"
   ],
   "sources": [
     {
@@ -240,40 +279,52 @@
       "url": "https://www.sbnation.com/soccer/1117905/world-cup-standings-updated-full-list-of-teams"
     },
     {
-      "label": "Guardian：England vs Ghana 賽前防守修正",
-      "url": "https://www.theguardian.com/football/2026/jun/23/thomas-tuchel-england-ghana-world-cup-defence-improve"
+      "label": "SB Nation：World Cup 2026 晉級名單追蹤",
+      "url": "https://www.sbnation.com/fifa-world-cup/1119051/world-cup-2026-knockout-bracket-who-qualified"
     },
     {
-      "label": "Guardian：England 對 Ghana 賽前氣氛與 Bellingham 第 50 場",
-      "url": "https://www.theguardian.com/football/2026/jun/23/thomas-tuchel-britpop-football-england-world-cup-ghana"
+      "label": "SB Nation：Group B Canada 出線情境",
+      "url": "https://www.sbnation.com/fifa-world-cup/1118974/world-cup-2026-group-b-advancement-scenarios-for-canada-and-others"
     },
     {
-      "label": "Guardian：Portugal 首戰後 Ronaldo 角色爭議",
-      "url": "https://www.theguardian.com/football/2026/jun/22/cristiano-ronaldo-portugal-world-cup"
+      "label": "TechRadar：World Cup 2026 完整轉播賽程",
+      "url": "https://www.techradar.com/vpn/best-vpn-for-soccer-streams-and-fifa-world-cup-2022"
     },
     {
-      "label": "Houston Chronicle：Portugal vs Uzbekistan 賽前資訊",
-      "url": "https://www.houstonchronicle.com/world-cup/article/portugal-uzbekistan-preview-world-cup-houston-22314778.php"
+      "label": "Tom's Guide：Mexico 2026 世界盃觀賽與 A 組賽程",
+      "url": "https://www.tomsguide.com/entertainment/sports/how-to-watch-fifa-world-cup-2026-in-mexico"
     },
     {
-      "label": "FourFourTwo：Portugal World Cup 2026 squad",
-      "url": "https://www.fourfourtwo.com/team/portugal-world-cup-2026-squad"
+      "label": "Tom's Guide：Canada 2026 世界盃觀賽與 B 組賽程",
+      "url": "https://www.tomsguide.com/entertainment/sports/watch-world-cup-2026-in-canada"
     },
     {
-      "label": "FourFourTwo：Colombia World Cup 2026 squad",
-      "url": "https://www.fourfourtwo.com/team/colombia-world-cup-2026-squad"
+      "label": "FourFourTwo：Brazil World Cup 2026 squad and storyline",
+      "url": "https://www.fourfourtwo.com/team/brazil-world-cup-2026-squad"
     },
     {
-      "label": "El País：Khusanov 與 Uzbekistan 防線背景",
-      "url": "https://elpais.com/deportes/mundial-futbol/2026-06-22/il-bello-cannavaro-se-encomienda-al-monstruo-khusanov.html"
+      "label": "FourFourTwo：World Cup 2026 scores so far",
+      "url": "https://www.fourfourtwo.com/competition/all-of-the-world-cup-scores-so-far-at-the-2026-tournament"
     },
     {
-      "label": "Guardian：Argentina 2-0 Austria 與 Messi 紀錄",
-      "url": "https://www.theguardian.com/football/2026/jun/22/argentina-austria-world-cup-group-j-match-report"
+      "label": "Guardian：South Korea vs South Africa 前 Son 與晉級壓力",
+      "url": "https://www.theguardian.com/football/2026/jun/24/south-korea-son-hyeung-min-oh-hyeon-gyu-world-cup-2026"
     },
     {
-      "label": "Guardian：France 3-0 Iraq 即時戰報",
-      "url": "https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates"
+      "label": "Guardian：Portugal 5-0 Uzbekistan 戰報",
+      "url": "https://www.theguardian.com/football/live/2026/jun/23/portugal-v-uzbekistan-world-cup-2026-live"
+    },
+    {
+      "label": "Guardian：Colombia 1-0 DR Congo 戰報",
+      "url": "https://www.theguardian.com/football/live/2026/jun/24/fifa-world-cup-2026-live-colombia-v-dr-congo-updates-col-vs-cod-group-k-match-score-latest"
+    },
+    {
+      "label": "Guardian：England 0-0 Ghana 球員評分",
+      "url": "https://www.theguardian.com/football/2026/jun/23/england-0-0-ghana-world-cup-2026-group-l-player-ratings"
+    },
+    {
+      "label": "Wikimedia/Wikipedia player profile photos",
+      "url": "https://commons.wikimedia.org/"
     }
   ]
 }
