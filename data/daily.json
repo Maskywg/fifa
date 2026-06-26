@@ -53,6 +53,21 @@
     },
     {
       "priority": "第 2 場",
+      "group": "Group I",
+      "time": "台灣 06/27 03:00",
+      "venue": "Toronto Stadium，多倫多",
+      "home": "Senegal",
+      "away": "Iraq",
+      "headline": "Senegal 與 Iraq 都 0 分，最後一輪只剩最佳第三名與尊嚴窗口",
+      "analysis": "Senegal 連輸 France、Norway，但兩場都有進球，代表 Mane 仍能把零碎球權變成威脅；Iraq 兩戰失 7 球，防線承壓明顯，但 Mohanad Ali 仍是能把反擊變成射門的核心。這場的晉級數學不漂亮：勝方最多 3 分，還要看其他組第三名排序與淨勝球。不過對 Senegal 來說，搶下三分至少能把自己留在等待區；對 Iraq 來說，第一屆回到世界盃的最後一戰，需要先避免被早段進球打散。",
+      "tags": [
+        "I 組第三名機會",
+        "Senegal 進攻尊嚴",
+        "Iraq 防線壓力"
+      ]
+    },
+    {
+      "priority": "第 3 場",
       "group": "Group H",
       "time": "台灣 06/27 08:00",
       "venue": "Estadio Guadalajara，瓜達拉哈拉",
@@ -67,37 +82,7 @@
       ]
     },
     {
-      "priority": "第 3 場",
-      "group": "Group G",
-      "time": "台灣 06/27 11:00",
-      "venue": "Seattle Stadium，西雅圖",
-      "home": "Egypt",
-      "away": "IR Iran",
-      "headline": "Egypt vs Iran 決定 G 組上半部，Salah 與 Taremi 身上同時背著足球與場外敘事",
-      "analysis": "Egypt 先與 Belgium 1-1，再 3-1 擊敗 New Zealand，目前是 Group G 最接近主導權的一隊；Iran 前兩戰都平手，若想直接進淘汰賽，這場必須把防守韌性轉成進球。Salah 與 Marmoush 能讓 Egypt 在轉換中直接攻擊禁區，而 Taremi 的支點與禁區嗅覺是 Iran 少數能穩定製造高價值機會的來源。Guardian 也指出 Seattle Pride Match 的場外爭議會讓這場被全世界放大檢視；真正回到球場，誰先處理好情緒和節奏，誰就更接近 G 組第一或至少前二。",
-      "tags": [
-        "G 組晉級核心戰",
-        "Salah vs Taremi",
-        "Seattle 場外焦點"
-      ]
-    },
-    {
       "priority": "第 4 場",
-      "group": "Group G",
-      "time": "台灣 06/27 11:00",
-      "venue": "BC Place Vancouver，溫哥華",
-      "home": "New Zealand",
-      "away": "Belgium",
-      "headline": "Belgium 不能再只踢成控制場面，De Bruyne 必須把最後一輪變成效率戰",
-      "analysis": "Belgium 前兩戰只拿 2 分，1-1 Egypt、0-0 Iran 的結果讓他們還活著，但也暴露進攻端缺少最後一刀。面對 New Zealand，De Bruyne 的第一腳斜傳與定位球品質會決定 Belgium 能否快速解除壓力；如果拖到下半場仍未領先，Chris Wood 的高球與二點球會讓比賽變得很危險。New Zealand 只有 1 分但不是沒有路徑，若先守住再偷到定位球，G 組同步戰況會讓 Belgium 心理壓力急速升高。",
-      "tags": [
-        "G 組同步收官",
-        "Belgium 必須提速",
-        "New Zealand 高球威脅"
-      ]
-    },
-    {
-      "priority": "第 5 場",
       "group": "Group H",
       "time": "台灣 06/27 08:00",
       "venue": "Houston Stadium，休士頓",
@@ -112,18 +97,33 @@
       ]
     },
     {
-      "priority": "第 6 場",
-      "group": "Group I",
-      "time": "台灣 06/27 03:00",
-      "venue": "Toronto Stadium，多倫多",
-      "home": "Senegal",
-      "away": "Iraq",
-      "headline": "Senegal 與 Iraq 都 0 分，最後一輪只剩最佳第三名與尊嚴窗口",
-      "analysis": "Senegal 連輸 France、Norway，但兩場都有進球，代表 Mane 仍能把零碎球權變成威脅；Iraq 兩戰失 7 球，防線承壓明顯，但 Mohanad Ali 仍是能把反擊變成射門的核心。這場的晉級數學不漂亮：勝方最多 3 分，還要看其他組第三名排序與淨勝球。不過對 Senegal 來說，搶下三分至少能把自己留在等待區；對 Iraq 來說，第一屆回到世界盃的最後一戰，需要先避免被早段進球打散。",
+      "priority": "第 5 場",
+      "group": "Group G",
+      "time": "台灣 06/27 11:00",
+      "venue": "Seattle Stadium，西雅圖",
+      "home": "Egypt",
+      "away": "IR Iran",
+      "headline": "Egypt vs Iran 決定 G 組上半部，Salah 與 Taremi 身上同時背著足球與場外敘事",
+      "analysis": "Egypt 先與 Belgium 1-1，再 3-1 擊敗 New Zealand，目前是 Group G 最接近主導權的一隊；Iran 前兩戰都平手，若想直接進淘汰賽，這場必須把防守韌性轉成進球。Salah 與 Marmoush 能讓 Egypt 在轉換中直接攻擊禁區，而 Taremi 的支點與禁區嗅覺是 Iran 少數能穩定製造高價值機會的來源。Guardian 也指出 Seattle Pride Match 的場外爭議會讓這場被全世界放大檢視；真正回到球場，誰先處理好情緒和節奏，誰就更接近 G 組第一或至少前二。",
       "tags": [
-        "I 組第三名機會",
-        "Senegal 進攻尊嚴",
-        "Iraq 防線壓力"
+        "G 組晉級核心戰",
+        "Salah vs Taremi",
+        "Seattle 場外焦點"
+      ]
+    },
+    {
+      "priority": "第 6 場",
+      "group": "Group G",
+      "time": "台灣 06/27 11:00",
+      "venue": "BC Place Vancouver，溫哥華",
+      "home": "New Zealand",
+      "away": "Belgium",
+      "headline": "Belgium 不能再只踢成控制場面，De Bruyne 必須把最後一輪變成效率戰",
+      "analysis": "Belgium 前兩戰只拿 2 分，1-1 Egypt、0-0 Iran 的結果讓他們還活著，但也暴露進攻端缺少最後一刀。面對 New Zealand，De Bruyne 的第一腳斜傳與定位球品質會決定 Belgium 能否快速解除壓力；如果拖到下半場仍未領先，Chris Wood 的高球與二點球會讓比賽變得很危險。New Zealand 只有 1 分但不是沒有路徑，若先守住再偷到定位球，G 組同步戰況會讓 Belgium 心理壓力急速升高。",
+      "tags": [
+        "G 組同步收官",
+        "Belgium 必須提速",
+        "New Zealand 高球威脅"
       ]
     }
   ],
