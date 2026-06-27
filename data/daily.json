@@ -1,319 +1,138 @@
 {
-  "publishedAt": "2026-06-26T09:18:59+08:00",
-  "targetDateLabel": "2026-06-27 台灣時間",
-  "visualDate": "Jun 27",
-  "summary": "明天台灣時間從 03:00 到 11:00 是 G、H、I 組第三輪收官，一共六場決定小組第一、第二名與最佳第三名門檻。最值得優先看的是 Norway vs France：Haaland 與 Mbappé 前兩戰都各進兩球，這場同時是 Group I 頭名戰與金靴級中鋒對決。",
-  "dailyAngle": "這一天的共同主題是「最後一輪的同步壓力」。France 與 Norway 都 6 分，直接決定 Group I 頭名；Spain 4 分但還沒鎖死 Group H，Uruguay、Cabo Verde、Saudi Arabia 都仍有晉級路徑；Group G 則由 Egypt、Iran、Belgium、New Zealand 同時收官，Egypt vs Iran 不只關乎小組第一，也帶著 Seattle Pride Match 的場外敘事。",
-  "sourceNote": "賽程與場地以 FIFA World Cup 26 官方賽程為基準，開球時間以 SB Nation 所列美東轉播時間換算為 Asia/Taipei。本頁鎖定台灣時間 2026-06-27 00:00 至 23:59，因此對應美洲當地 2026-06-26 的 G/H/I 組最後一輪。積分與近期比分以 SB Nation 賽程/積分榜、Guardian、Houston Chronicle 與 FIFA/Wikipedia 賽程頁交叉確認。",
+  "publishedAt": "2026-06-28T00:14:50+08:00",
+  "targetDateLabel": "2026-06-29 台灣時間",
+  "visualDate": "Jun 29",
+  "summary": "明天台灣時間只有一場世界盃：03:00 South Africa vs Canada，揭開 32 強淘汰賽。兩隊都是隊史首次闖進世界盃淘汰賽；Canada 靠 Jonathan David 的帽子戲法建立火力信心，South Africa 則靠紀律防守與門將 Ronwen Williams 爆冷晉級。",
+  "dailyAngle": "小組賽結束後，Match Radar 進入單場淘汰賽模式。這場的核心不是名氣，而是風格衝突：Canada 會用高位壓迫和雙前鋒主動搶開局，South Africa 則希望把節奏拖入低比分、定位球，甚至延長賽與十二碼。Alphonso Davies 能否傷癒登場，是開賽前最重要的名單訊號。",
+  "sourceNote": "賽程與場地以 FIFA 官方賽程為準：美西時間 6 月 28 日 12:00 在 Los Angeles Stadium 開踢，換算 Asia/Taipei 為 6 月 29 日 03:00。South Africa 以 A 組第二（4 分、得失球 -1）晉級，Canada 以 B 組第二（4 分、得失球 +5）晉級；近期比分與球員狀態由 FIFA、NBC Sports、Goal、FourFourTwo 與 Squawka 交叉確認。",
   "highlightVideos": [
     {
-      "title": "Ecuador 2-1 Germany：Plata 絕殺級反超，Ecuador 逆轉晉級",
-      "source": "The Guardian live report",
-      "player": "Gonzalo Plata / Nilson Angulo",
-      "description": "前一賽日最大冷門：Germany 早早由 Sané 進球，但 Ecuador 先追平、再靠 Plata 在 77 分鐘後段反超，拿下淘汰賽門票。未找到可確認嵌入的 FIFA、ELTA 或 YouTube 官方精華，先保留外開戰報。",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live"
+      "title": "France 4-1 Norway：Dembélé 32 分鐘帽子戲法",
+      "source": "公視新聞網 PNN",
+      "player": "Ousmane Dembélé",
+      "description": "前一賽日最突出的進球演出：Dembélé 在上半場 32 分鐘內完成帽子戲法，France 三連勝拿下 I 組第一。此為可外開播放的新聞影片頁。",
+      "url": "https://news.pts.org.tw/article/815015"
     },
     {
-      "title": "Netherlands 3-1 Tunisia：荷蘭鎖定 F 組第一",
-      "source": "The Guardian live report",
-      "player": "Brian Brobbey / Jan-Paul van Hecke",
-      "description": "Netherlands 早段連進兩球控制比賽，最後以 3-1 收下 F 組頭名，Round of 32 將對 Morocco。此項為外開戰報，尚未確認官方可嵌入影片。",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live"
+      "title": "FIFA 官方世界盃精華中心",
+      "source": "FIFA official",
+      "player": "World Cup 2026 highlights",
+      "description": "FIFA 官方精華頁持續更新各場比賽影片；站方播放器不提供穩定通用的外站嵌入網址，因此保留官方外開播放連結。",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/highlights"
     },
     {
-      "title": "Japan 1-1 Sweden：Maeda 與 Elanga 進球，兩隊攜手晉級",
-      "source": "The Guardian live report",
-      "player": "Daizen Maeda / Anthony Elanga",
-      "description": "Japan 與 Sweden 下半場互進精彩進球，平手結果讓兩隊都進入淘汰賽；Japan 可能迎來 Brazil 對決。此項為外開戰報，尚未確認官方可嵌入影片。",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live"
+      "title": "Canada 6-0 Qatar：Jonathan David 帽子戲法",
+      "source": "FIFA official highlights",
+      "player": "Jonathan David",
+      "description": "David 對 Qatar 連進三球，成為 96 年來首位在世界盃戴帽的 Concacaf 球員，也是 Canada 淘汰賽最重要的終結者。官方頁內含精華播放器，採外開連結。",
+      "url": "https://www.fifa.com/fr/tournaments/mens/worldcup/canadamexicousa2026/articles/resume-temps-forts-canada-qatar-groupe-b"
     },
     {
-      "title": "Group G/H/I 收官背景：Norway-France、Egypt-Iran、Uruguay-Spain 成主軸",
-      "source": "SB Nation schedule and standings",
-      "player": "Erling Haaland / Kylian Mbappé / Mohamed Salah / Pedri",
-      "description": "SB Nation 賽程與積分榜確認 6/26 美東時間六場收官；Guardian 另以 Haaland vs Mbappé 作為 Group I 頭名戰主軸，Houston Chronicle 則整理 Cabo Verde 與 Saudi Arabia 的晉級可能。此項為外開背景資訊。",
-      "url": "https://www.sbnation.com/soccer/1117513/world-cup-schedule-2026-how-to-watch-every-match-scores-and-more"
+      "title": "South Africa 1-0 Korea Republic：歷史性晉級精華",
+      "source": "FIFA official highlights hub",
+      "player": "Ronwen Williams / South Africa",
+      "description": "South Africa 在最後一輪零封 Korea Republic，隊史首次進入世界盃淘汰賽。FIFA 官方首頁精華區提供該場影片，採外開播放。",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"
     }
   ],
   "matches": [
     {
       "priority": "第 1 場",
-      "group": "Group I",
-      "time": "台灣 06/27 03:00",
-      "venue": "Boston Stadium，波士頓",
-      "home": "Norway",
-      "away": "France",
-      "headline": "Haaland 對 Mbappé 的金靴級正面交鋒，勝者幾乎帶走 Group I 頭名",
-      "analysis": "France 先後 3-1 勝 Senegal、3-0 勝 Iraq，Norway 則 4-1 勝 Iraq、3-2 勝 Senegal，兩隊同為 6 分。這場不是單純的豪門展示，而是小組第一、淘汰賽路徑與金靴敘事一起壓上來。Haaland 前兩戰各有進球火力，Norway 會盡量把球送進禁區早點完成終結；France 的優勢在於 Mbappé 能從左路與中路轉換，把防線拉成一對一。若 Norway 的 Ødegaard 能在壓迫下穩住第一腳，這場會變成真正的巨星互攻；若 France 中場先搶到節奏，Haaland 可能長時間等不到高品質傳中。",
+      "group": "Round of 32",
+      "time": "台灣 06/29 03:00",
+      "venue": "Los Angeles Stadium，洛杉磯",
+      "home": "South Africa",
+      "away": "Canada",
+      "headline": "兩隊隊史第一次世界盃淘汰賽：Canada 火力對 South Africa 低比分韌性",
+      "analysis": "South Africa 小組賽先 0-2 輸 Mexico，再 1-1 逼平 Czechia，最後 1-0 擊敗 Korea Republic，以 4 分和 -1 得失球差拿到 A 組第二。Canada 則先 1-1 Bosnia and Herzegovina，接著 6-0 大勝 Qatar，再 1-2 不敵 Switzerland，同樣 4 分但得失球差達 +5。Canada 的進攻上限較高：Jonathan David 對 Qatar 戴帽，Cyle Larin 能牽制中衛，Jesse Marsch 的高位壓迫也會測試 South Africa 的第一腳出球。South Africa 的勝負手是 Ronwen Williams；他若能把前 30 分鐘守成低比分，Bafana Bafana 的定位球、反擊與十二碼能力會逐步放大。Alphonso Davies 小組賽三場皆缺陣，最新消息仍把他列為淘汰賽前的關鍵健康變數，不宜預設先發。",
       "tags": [
-        "Group I 頭名戰",
-        "Haaland vs Mbappé",
-        "金靴級對決"
-      ]
-    },
-    {
-      "priority": "第 2 場",
-      "group": "Group I",
-      "time": "台灣 06/27 03:00",
-      "venue": "Toronto Stadium，多倫多",
-      "home": "Senegal",
-      "away": "Iraq",
-      "headline": "Senegal 與 Iraq 都 0 分，最後一輪只剩最佳第三名與尊嚴窗口",
-      "analysis": "Senegal 連輸 France、Norway，但兩場都有進球，代表 Mane 仍能把零碎球權變成威脅；Iraq 兩戰失 7 球，防線承壓明顯，但 Mohanad Ali 仍是能把反擊變成射門的核心。這場的晉級數學不漂亮：勝方最多 3 分，還要看其他組第三名排序與淨勝球。不過對 Senegal 來說，搶下三分至少能把自己留在等待區；對 Iraq 來說，第一屆回到世界盃的最後一戰，需要先避免被早段進球打散。",
-      "tags": [
-        "I 組第三名機會",
-        "Senegal 進攻尊嚴",
-        "Iraq 防線壓力"
-      ]
-    },
-    {
-      "priority": "第 3 場",
-      "group": "Group H",
-      "time": "台灣 06/27 08:00",
-      "venue": "Estadio Guadalajara，瓜達拉哈拉",
-      "home": "Uruguay",
-      "away": "Spain",
-      "headline": "Spain 要守住 H 組第一，Uruguay 必須把 Bielsa 式高壓變成勝利",
-      "analysis": "Spain 目前 4 分、淨勝球優勢明顯，但還沒把 H 組頭名完全鎖住；Uruguay 兩連平後只有 2 分，對 Spain 不能只滿足於抗衡場面。Spain 的核心問題是風險管理：Pedri 已有黃牌風險，Lamine Yamal 的一對一又是打開比賽最直接的鑰匙，Luis de la Fuente 要在保護淘汰賽與守住頭名之間取捨。Uruguay 需要 Valverde 先把中場對抗拉高，再讓 Darwin Núñez 去衝 Spain 中衛身後。這場如果早早出現第一球，會比一般小組末輪更開放。",
-      "tags": [
-        "H 組第一名戰",
-        "Spain 控球風險",
-        "Uruguay 必須贏"
-      ]
-    },
-    {
-      "priority": "第 4 場",
-      "group": "Group H",
-      "time": "台灣 06/27 08:00",
-      "venue": "Houston Stadium，休士頓",
-      "home": "Cabo Verde",
-      "away": "Saudi Arabia",
-      "headline": "Cabo Verde 世界盃初登場仍保有晉級夢，Saudi Arabia 必須主動搶勝",
-      "analysis": "Cabo Verde 連續逼平 Spain 與 Uruguay，2 分背後是非常清楚的防守紀律；Houston Chronicle 指出他們仍有機會靠最後一輪勝利衝進 Round of 32。Saudi Arabia 只有 1 分，若想從 H 組翻上來，Salem Al-Dawsari 不能只在左路等待反擊，他需要更早進到禁區前沿創造射門或犯規。Cabo Verde 的 Ryan Mendes 經驗與終結能力，是把防守奇蹟轉成真正門票的關鍵。這場不是最大牌，但可能是最純粹的晉級生死戰。",
-      "tags": [
-        "H 組生死戰",
-        "Cabo Verde 歷史機會",
-        "Saudi 必須搶勝"
-      ]
-    },
-    {
-      "priority": "第 5 場",
-      "group": "Group G",
-      "time": "台灣 06/27 11:00",
-      "venue": "Seattle Stadium，西雅圖",
-      "home": "Egypt",
-      "away": "IR Iran",
-      "headline": "Egypt vs Iran 決定 G 組上半部，Salah 與 Taremi 身上同時背著足球與場外敘事",
-      "analysis": "Egypt 先與 Belgium 1-1，再 3-1 擊敗 New Zealand，目前是 Group G 最接近主導權的一隊；Iran 前兩戰都平手，若想直接進淘汰賽，這場必須把防守韌性轉成進球。Salah 與 Marmoush 能讓 Egypt 在轉換中直接攻擊禁區，而 Taremi 的支點與禁區嗅覺是 Iran 少數能穩定製造高價值機會的來源。Guardian 也指出 Seattle Pride Match 的場外爭議會讓這場被全世界放大檢視；真正回到球場，誰先處理好情緒和節奏，誰就更接近 G 組第一或至少前二。",
-      "tags": [
-        "G 組晉級核心戰",
-        "Salah vs Taremi",
-        "Seattle 場外焦點"
-      ]
-    },
-    {
-      "priority": "第 6 場",
-      "group": "Group G",
-      "time": "台灣 06/27 11:00",
-      "venue": "BC Place Vancouver，溫哥華",
-      "home": "New Zealand",
-      "away": "Belgium",
-      "headline": "Belgium 不能再只踢成控制場面，De Bruyne 必須把最後一輪變成效率戰",
-      "analysis": "Belgium 前兩戰只拿 2 分，1-1 Egypt、0-0 Iran 的結果讓他們還活著，但也暴露進攻端缺少最後一刀。面對 New Zealand，De Bruyne 的第一腳斜傳與定位球品質會決定 Belgium 能否快速解除壓力；如果拖到下半場仍未領先，Chris Wood 的高球與二點球會讓比賽變得很危險。New Zealand 只有 1 分但不是沒有路徑，若先守住再偷到定位球，G 組同步戰況會讓 Belgium 心理壓力急速升高。",
-      "tags": [
-        "G 組同步收官",
-        "Belgium 必須提速",
-        "New Zealand 高球威脅"
+        "32 強開幕戰",
+        "兩隊首次淘汰賽",
+        "David 帽子戲法狀態",
+        "Davies 傷勢觀察"
       ]
     }
   ],
   "players": [
     {
-      "name": "Erling Haaland",
-      "team": "Norway",
-      "currentClub": "Manchester City",
-      "photoUrl": "assets/players/erling-haaland.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Erling_Haaland",
-      "note": "前兩場對 Iraq、Senegal 持續進球，這場面對 France 是他把 Norway 從黑馬推成頭名候選的最大舞台。",
-      "currentClubUrl": "https://www.mancity.com/"
+      "name": "Ronwen Williams",
+      "team": "South Africa",
+      "currentClub": "Mamelodi Sundowns",
+      "photoUrl": "assets/players/ronwen-williams.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Ronwen_Williams",
+      "note": "South Africa 的隊長兼最後一道防線。淘汰賽若被拖進延長賽或十二碼，他過去的撲點能力會成為最具體的爆冷武器。",
+      "currentClubUrl": "https://sundownsfc.co.za/"
     },
     {
-      "name": "Martin Ødegaard",
-      "team": "Norway",
-      "currentClub": "Arsenal",
-      "photoUrl": "assets/players/martin-odegaard.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Martin_%C3%98degaard",
-      "note": "Norway 若想讓 Haaland 拿到舒服球權，Ødegaard 必須在 France 壓迫下把第一腳轉移與直塞做乾淨。",
-      "currentClubUrl": "https://www.arsenal.com/"
+      "name": "Lyle Foster",
+      "team": "South Africa",
+      "currentClub": "Burnley",
+      "photoUrl": "assets/players/lyle-foster.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Lyle_Foster",
+      "note": "South Africa 少數具英格蘭頂級聯賽經驗的前鋒；即使不是先發，他的衝刺和支點能力仍能改變下半場反擊品質。",
+      "currentClubUrl": "https://www.burnleyfootballclub.com/"
     },
     {
-      "name": "Kylian Mbappé",
-      "team": "France",
-      "currentClub": "Real Madrid",
-      "photoUrl": "assets/players/kylian-mbappe.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
-      "note": "Guardian 把這場定位為 Mbappé 與 Haaland 的正面比較。France 的進攻層次更完整，但最終仍常由 Mbappé 決定爆點。",
-      "currentClubUrl": "https://www.realmadrid.com/en-US"
+      "name": "Jonathan David",
+      "team": "Canada",
+      "currentClub": "Juventus",
+      "photoUrl": "assets/players/jonathan-david.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Jonathan_David",
+      "note": "對 Qatar 上演帽子戲法，是 Canada 最穩定的禁區終結點。面對收縮防線，他的無球跑位比單純持球突破更關鍵。",
+      "currentClubUrl": "https://www.juventus.com/en/"
     },
     {
-      "name": "Sadio Mané",
-      "team": "Senegal",
-      "currentClub": "Al Nassr",
-      "photoUrl": "assets/players/sadio-mane.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Sadio_Man%C3%A9",
-      "note": "Senegal 連敗後仍需要 Mané 把零碎反擊轉成真正射門。對 Iraq，這可能是他保住最佳第三名希望的最後窗口。",
-      "currentClubUrl": "https://alnassr.sa/"
-    },
-    {
-      "name": "Mohanad Ali",
-      "team": "Iraq",
-      "currentClub": "Al-Shorta",
-      "photoUrl": "assets/players/mohanad-ali.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Mohanad_Ali",
-      "note": "Iraq 防線壓力很大，進攻端更需要 Mohanad Ali 在少數反擊裡留住球，讓比賽不要太早失控。",
-      "currentClubUrl": "https://alshorta-sc.com/"
-    },
-    {
-      "name": "Lamine Yamal",
-      "team": "Spain",
-      "currentClub": "Barcelona",
-      "photoUrl": "assets/players/lamine-yamal.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Lamine_Yamal",
-      "note": "Spain 對 Uruguay 的最高效解法仍是 Yamal 的一對一。若他能早早逼出協防，Pedri 與禁區前沿會得到更多空間。",
-      "currentClubUrl": "https://www.fcbarcelona.com/en/"
-    },
-    {
-      "name": "Pedri",
-      "team": "Spain",
-      "currentClub": "Barcelona",
-      "photoUrl": "assets/players/pedri.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Pedri",
-      "note": "西媒指出 Pedri 已有黃牌風險，這讓 Spain 的中場節奏與淘汰賽保護成為同一個問題。",
-      "currentClubUrl": "https://www.fcbarcelona.com/en/"
-    },
-    {
-      "name": "Federico Valverde",
-      "team": "Uruguay",
-      "currentClub": "Real Madrid",
-      "photoUrl": "assets/players/federico-valverde.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Federico_Valverde",
-      "note": "Uruguay 若想打破兩連平，Valverde 必須先在中場壓住 Spain 的傳控節奏，再把二線插上變成射門威脅。",
-      "currentClubUrl": "https://www.realmadrid.com/en-US"
-    },
-    {
-      "name": "Darwin Núñez",
-      "team": "Uruguay",
-      "currentClub": "Liverpool",
-      "photoUrl": "assets/players/darwin-nunez.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Darwin_N%C3%BA%C3%B1ez",
-      "note": "Spain 控球越高，Darwin 身後衝刺就越重要。他的第一腳處理會決定 Uruguay 的高壓是否有回報。",
-      "currentClubUrl": "https://www.liverpoolfc.com/"
-    },
-    {
-      "name": "Ryan Mendes",
-      "team": "Cabo Verde",
-      "currentClub": "Kocaelispor",
-      "photoUrl": "assets/players/ryan-mendes.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Ryan_Mendes",
-      "note": "Cabo Verde 連續逼平強隊後，Mendes 是最有經驗的終結點。若他把反擊第一球處理好，隊史淘汰賽門票不只是夢。",
-      "currentClubUrl": "https://www.kocaelispor.com.tr/"
-    },
-    {
-      "name": "Salem Al-Dawsari",
-      "team": "Saudi Arabia",
-      "currentClub": "Al Hilal",
-      "photoUrl": "assets/players/salem-al-dawsari.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Salem_Al-Dawsari",
-      "note": "Saudi Arabia 必須贏球才有主動權，Salem 不能只等待邊路反擊，他需要直接進入禁區前沿製造決定性動作。",
-      "currentClubUrl": "https://alhilal.com/"
-    },
-    {
-      "name": "Mohamed Salah",
-      "team": "Egypt",
-      "currentClub": "Liverpool",
-      "photoUrl": "assets/players/mohamed-salah.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Mohamed_Salah",
-      "note": "Egypt 已站上 G 組主導位置，Salah 的轉換速度與最後一傳會決定他們能否把 Iran 壓到必須追分。",
-      "currentClubUrl": "https://www.liverpoolfc.com/"
-    },
-    {
-      "name": "Mehdi Taremi",
-      "team": "IR Iran",
-      "currentClub": "Olympiacos",
-      "photoUrl": "assets/players/mehdi-taremi.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Mehdi_Taremi",
-      "note": "Iran 要從平局堆裡衝出來，需要 Taremi 把支點、造犯規與禁區嗅覺全部拿出來。",
-      "currentClubUrl": "https://www.olympiacos.org/en/"
-    },
-    {
-      "name": "Kevin De Bruyne",
-      "team": "Belgium",
-      "currentClub": "Napoli",
-      "photoUrl": "assets/players/kevin-de-bruyne.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
-      "note": "Belgium 前兩戰進攻效率不夠，De Bruyne 的斜傳、定位球與禁區前第二波是他們避免驚險收官的關鍵。",
-      "currentClubUrl": "https://sscnapoli.it/en/"
-    },
-    {
-      "name": "Chris Wood",
-      "team": "New Zealand",
-      "currentClub": "Nottingham Forest",
-      "photoUrl": "assets/players/chris-wood.jpg",
-      "profileUrl": "https://en.wikipedia.org/wiki/Chris_Wood",
-      "note": "New Zealand 若要製造 G 組最後冷門，最清楚的路徑就是 Wood 的高球、二點球與禁區內第一腳。",
-      "currentClubUrl": "https://www.nottinghamforest.co.uk/"
+      "name": "Alphonso Davies",
+      "team": "Canada",
+      "currentClub": "Bayern Munich",
+      "photoUrl": "assets/players/alphonso-davies.jpg",
+      "profileUrl": "https://en.wikipedia.org/wiki/Alphonso_Davies",
+      "note": "因腿後肌傷勢缺席三場小組賽，能否在 32 強戰復出仍是賽前最大變數；若登場，他會立刻提高 Canada 左路推進與回追上限。",
+      "currentClubUrl": "https://fcbayern.com/en"
     }
   ],
   "watchPoints": [
-    "03:00 優先看 Norway vs France。這場是 Group I 頭名戰，也是 Haaland 與 Mbappé 前兩戰各兩球後的金靴級正面對決。",
-    "08:00 建議雙螢幕看 Group H。Uruguay vs Spain 決定頭名壓力，Cabo Verde vs Saudi Arabia 則可能是最純粹的晉級生死戰。",
-    "11:00 Group G 兩場要同步看。Egypt vs Iran 的場外焦點很大，但 Belgium 若遲遲打不開 New Zealand，整組排序會立刻變亂。",
-    "最佳第三名門檻是隱藏主線：Senegal、Iraq、Saudi Arabia、New Zealand 都需要先贏球，再看淨勝球與其他組結果。"
+    "03:00 是台灣時間 6 月 29 日唯一一場世界盃賽事，也是本屆新增 32 強輪次的第一場淘汰賽。",
+    "前 30 分鐘看 South Africa 能否頂住 Canada 高壓；若 Canada 早早進球，比賽可能被拉開，若維持 0-0，South Africa 的勝率會逐步上升。",
+    "開賽名單先確認 Alphonso Davies 是否進入先發或替補。小組賽三場未出賽，不能把他的回歸當成既定事實。",
+    "若進入十二碼，Ronwen Williams 的撲點經驗會讓原本紙面火力較強的 Canada 承受更大壓力。"
   ],
   "sources": [
     {
-      "label": "FIFA World Cup 26 官方賽程",
-      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/match-schedule"
+      "label": "FIFA：World Cup 2026 官方賽程與場地",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums"
     },
     {
-      "label": "FIFA World Cup 26 官方積分榜",
-      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/standings"
+      "label": "FIFA：Canada 隊伍頁與 South Africa 對戰資訊",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/canada"
     },
     {
-      "label": "SB Nation：World Cup 2026 賽程與比分",
-      "url": "https://www.sbnation.com/soccer/1117513/world-cup-schedule-2026-how-to-watch-every-match-scores-and-more"
+      "label": "FIFA：Canada 6-0 Qatar 與 Matchday 8 精華",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matchday-8-round-up-review-highlights"
     },
     {
-      "label": "SB Nation：World Cup 2026 分組積分榜",
-      "url": "https://www.sbnation.com/soccer/1117905/world-cup-standings-updated-full-list-of-teams"
+      "label": "FIFA：South Africa 重返世界盃與隊史背景",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/south-africa-road-back-to-top"
     },
     {
-      "label": "Guardian：Haaland vs Mbappé 對決分析",
-      "url": "https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up"
+      "label": "NBC Sports：2026 世界盃完整分組積分榜",
+      "url": "https://www.nbcsports.com/soccer/news/2026-world-cup-group-stage-table-full-standings-for-all-12-groups"
     },
     {
-      "label": "Guardian：Seattle Pride Match / Egypt vs Iran 背景",
-      "url": "https://www.theguardian.com/football/2026/jun/25/seattle-pride-match-world-cup-egypt-iran"
+      "label": "Goal：South Africa vs Canada 賽前、近期結果與陣容",
+      "url": "https://www.goal.com/en-za/news/south-africa-canada-world-cup-preview/blt7b092fc81d7fdc79"
     },
     {
-      "label": "Houston Chronicle：Cabo Verde vs Saudi Arabia 賽前整理",
-      "url": "https://www.houstonchronicle.com/world-cup/article/cape-verde-saudia-arabia-game-time-tv-22320229.php"
+      "label": "FourFourTwo：Alphonso Davies 最新傷勢",
+      "url": "https://www.fourfourtwo.com/person/player/is-alphonso-davies-injured-fitness-update-on-canada-captain"
     },
     {
-      "label": "Barca Blaugranes：Pedri 黃牌停賽風險",
-      "url": "https://www.barcablaugranes.com/world-cup-2026/124644/barcelona-star-pedri-at-risk-of-missing-round-of-32-at-world-cup-2026-due-to-suspension"
+      "label": "Squawka：South Africa vs Canada 戰術與球員焦點",
+      "url": "https://www.squawka.com/us/news/world-cup/match-preview-south-africa-v-canada-06-28-26-world-cup-2026-round-of-32/"
     },
     {
-      "label": "Guardian：Ecuador 2-1 Germany 戰報",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live"
-    },
-    {
-      "label": "Guardian：Netherlands 3-1 Tunisia 戰報",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live"
-    },
-    {
-      "label": "Guardian：Japan 1-1 Sweden 戰報",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live"
+      "label": "公視新聞網：Dembélé 帽子戲法與 France 4-1 Norway",
+      "url": "https://news.pts.org.tw/article/815015"
     },
     {
       "label": "Wikimedia/Wikipedia player profile photos",
