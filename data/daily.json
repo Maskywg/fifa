@@ -1,17 +1,17 @@
 {
-  "publishedAt": "2026-06-28T00:14:50+08:00",
+  "publishedAt": "2026-06-28T11:06:26+08:00",
   "targetDateLabel": "2026-06-29 台灣時間",
   "visualDate": "Jun 29",
   "summary": "明天台灣時間只有一場世界盃：03:00 South Africa vs Canada，揭開 32 強淘汰賽。兩隊都是隊史首次闖進世界盃淘汰賽；Canada 靠 Jonathan David 的帽子戲法建立火力信心，South Africa 則靠紀律防守與門將 Ronwen Williams 爆冷晉級。",
-  "dailyAngle": "小組賽結束後，Match Radar 進入單場淘汰賽模式。這場的核心不是名氣，而是風格衝突：Canada 會用高位壓迫和雙前鋒主動搶開局，South Africa 則希望把節奏拖入低比分、定位球，甚至延長賽與十二碼。Alphonso Davies 能否傷癒登場，是開賽前最重要的名單訊號。",
-  "sourceNote": "賽程與場地以 FIFA 官方賽程為準：美西時間 6 月 28 日 12:00 在 Los Angeles Stadium 開踢，換算 Asia/Taipei 為 6 月 29 日 03:00。South Africa 以 A 組第二（4 分、得失球 -1）晉級，Canada 以 B 組第二（4 分、得失球 +5）晉級；近期比分與球員狀態由 FIFA、NBC Sports、Goal、FourFourTwo 與 Squawka 交叉確認。",
+  "dailyAngle": "小組賽結束後，Match Radar 進入單場淘汰賽模式。這場的核心不是名氣，而是風格衝突：Canada 會用高位壓迫和雙前鋒主動搶開局，South Africa 則希望把節奏拖入低比分、定位球，甚至延長賽與十二碼。賽前名單有明確缺口：South Africa 的 Themba Zwane 停賽，Canada 的 Ismaël Koné 腿傷缺陣；Alphonso Davies 與 Stephen Eustáquio 能否上場，是開賽前最重要的名單訊號。",
+  "sourceNote": "賽程與場地以 FIFA 官方賽程為準：美西時間 6 月 28 日 12:00 在 Los Angeles Stadium 開踢，換算 Asia/Taipei 為 6 月 29 日 03:00。South Africa 以 A 組第二（4 分、得失球 -1）晉級，Canada 以 B 組第二（4 分、得失球 +5）晉級；近期比分、停賽與傷情由 FIFA、NBC Sports、Goal、Sports Mole、FourFourTwo 與 Squawka 交叉確認。",
   "highlightVideos": [
     {
       "title": "France 4-1 Norway：Dembélé 32 分鐘帽子戲法",
-      "source": "公視新聞網 PNN",
+      "source": "FOX Sports",
       "player": "Ousmane Dembélé",
-      "description": "前一賽日最突出的進球演出：Dembélé 在上半場 32 分鐘內完成帽子戲法，France 三連勝拿下 I 組第一。此為可外開播放的新聞影片頁。",
-      "url": "https://news.pts.org.tw/article/815015"
+      "description": "前一賽日最突出的進球演出：Dembélé 在第 7、20、32 分鐘進球，25 分鐘內完成帽子戲法，France 三連勝拿下 I 組第一。FOX Sports 提供 58 秒直接播放頁；站方未提供穩定的外站嵌入網址，因此採外開連結。",
+      "url": "https://www.fox.com/watch/clip/fmc-kwxg4xboge1zpzbu/ousmane-demb-l-completes-first-half-hat-trick-with-curling-finish-against-norway-2026-fifa-world-cup"
     },
     {
       "title": "FIFA 官方世界盃精華中心",
@@ -44,12 +44,12 @@
       "home": "South Africa",
       "away": "Canada",
       "headline": "兩隊隊史第一次世界盃淘汰賽：Canada 火力對 South Africa 低比分韌性",
-      "analysis": "South Africa 小組賽先 0-2 輸 Mexico，再 1-1 逼平 Czechia，最後 1-0 擊敗 Korea Republic，以 4 分和 -1 得失球差拿到 A 組第二。Canada 則先 1-1 Bosnia and Herzegovina，接著 6-0 大勝 Qatar，再 1-2 不敵 Switzerland，同樣 4 分但得失球差達 +5。Canada 的進攻上限較高：Jonathan David 對 Qatar 戴帽，Cyle Larin 能牽制中衛，Jesse Marsch 的高位壓迫也會測試 South Africa 的第一腳出球。South Africa 的勝負手是 Ronwen Williams；他若能把前 30 分鐘守成低比分，Bafana Bafana 的定位球、反擊與十二碼能力會逐步放大。Alphonso Davies 小組賽三場皆缺陣，最新消息仍把他列為淘汰賽前的關鍵健康變數，不宜預設先發。",
+      "analysis": "South Africa 小組賽先 0-2 輸 Mexico，再 1-1 逼平 Czechia，最後 1-0 擊敗 Korea Republic，以 4 分和 -1 得失球差拿到 A 組第二。Canada 則先 1-1 Bosnia and Herzegovina，接著 6-0 大勝 Qatar，再 1-2 不敵 Switzerland，同樣 4 分但得失球差達 +5。Canada 的進攻上限較高：Jonathan David 對 Qatar 戴帽，Cyle Larin 能牽制中衛，Jesse Marsch 的高位壓迫也會測試 South Africa 的第一腳出球。South Africa 的勝負手是 Ronwen Williams；他若能把前 30 分鐘守成低比分，Bafana Bafana 的定位球、反擊與十二碼能力會逐步放大。South Africa 中場 Themba Zwane 停賽；Canada 的 Ismaël Koné 腿傷缺陣，Alphonso Davies、Stephen Eustáquio 仍列存疑，因此不能把 Canada 的最佳陣容當成既定事實。",
       "tags": [
         "32 強開幕戰",
         "兩隊首次淘汰賽",
         "David 帽子戲法狀態",
-        "Davies 傷勢觀察"
+        "Davies／Eustáquio 傷勢觀察"
       ]
     }
   ],
@@ -94,7 +94,7 @@
   "watchPoints": [
     "03:00 是台灣時間 6 月 29 日唯一一場世界盃賽事，也是本屆新增 32 強輪次的第一場淘汰賽。",
     "前 30 分鐘看 South Africa 能否頂住 Canada 高壓；若 Canada 早早進球，比賽可能被拉開，若維持 0-0，South Africa 的勝率會逐步上升。",
-    "開賽名單先確認 Alphonso Davies 是否進入先發或替補。小組賽三場未出賽，不能把他的回歸當成既定事實。",
+    "開賽名單先確認 Alphonso Davies、Stephen Eustáquio 是否進入先發或替補；兩人目前均列存疑，Ismaël Koné 已確定缺陣。",
     "若進入十二碼，Ronwen Williams 的撲點經驗會讓原本紙面火力較強的 Canada 承受更大壓力。"
   ],
   "sources": [
@@ -123,6 +123,10 @@
       "url": "https://www.goal.com/en-za/news/south-africa-canada-world-cup-preview/blt7b092fc81d7fdc79"
     },
     {
+      "label": "Sports Mole：South Africa vs Canada 最新傷停與預測陣容",
+      "url": "https://www.sportsmole.co.uk/football/south-africa/world-cup-2026/team-news/south-africa-v-canada-injury-suspension-list-predicted-xis_600165.html"
+    },
+    {
       "label": "FourFourTwo：Alphonso Davies 最新傷勢",
       "url": "https://www.fourfourtwo.com/person/player/is-alphonso-davies-injured-fitness-update-on-canada-captain"
     },
@@ -131,8 +135,8 @@
       "url": "https://www.squawka.com/us/news/world-cup/match-preview-south-africa-v-canada-06-28-26-world-cup-2026-round-of-32/"
     },
     {
-      "label": "公視新聞網：Dembélé 帽子戲法與 France 4-1 Norway",
-      "url": "https://news.pts.org.tw/article/815015"
+      "label": "FOX Sports：Dembélé 對 Norway 帽子戲法直接播放頁",
+      "url": "https://www.fox.com/watch/clip/fmc-kwxg4xboge1zpzbu/ousmane-demb-l-completes-first-half-hat-trick-with-curling-finish-against-norway-2026-fifa-world-cup"
     },
     {
       "label": "Wikimedia/Wikipedia player profile photos",
